@@ -20,11 +20,11 @@
     <loc>https://tobefrank.github.io/categories/%E6%B5%8B%E8%AF%95/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tobefrank.github.io/archives/</loc>
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://tobefrank.github.io/page/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tobefrank.github.io/archives/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tobefrank.github.io/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
@@ -80,7 +80,10 @@
     <loc>https://tobefrank.github.io/p/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tobefrank.github.io/about/</loc>
+    <loc>https://tobefrank.github.io/my_class/</loc>
+    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tobefrank.github.io/about_me/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tobefrank.github.io/search/</loc>
