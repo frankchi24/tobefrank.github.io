@@ -1,0 +1,4 @@
+[submodule "tobefrank/public"]
+	path = tobefrank/public
+	url = https://github.com/frankchi24/tobefrank.github.io.git
+	branch = main
