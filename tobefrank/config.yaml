@@ -2,7 +2,7 @@ baseurl: https://tobefrank.github.io/
 languageCode: zh-tw
 theme: stack
 paginate: 5
-title: I Love Frank
+title: Frank Chi
 
 # Change it to your Disqus shortname before using
 disqusShortname: hugo-theme-stack
@@ -12,7 +12,7 @@ googleAnalytics:
 
 # Theme i18n support
 # Available values: en, fr, id, ja, ko, pt-br, zh-cn, zh-tw, es, de, nl, it, th, el, uk
-DefaultContentLanguage: en
+DefaultContentLanguage: zh-tw
 
 # Set hasCJKLanguage to true if DefaultContentLanguage is in [zh-cn ja ko]
 # This will make .Summary and .WordCount behave correctly for CJK languages.
@@ -39,7 +39,7 @@ params:
 
     sidebar:
         emoji: 🍥
-        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        subtitle: 看電影＊學英文
         avatar:
             enabled: true
             local: true
@@ -48,7 +48,7 @@ params:
     article:
         math: false
         toc: true
-        readingTime: true
+        readingTime: false
         license:
             enabled: true
             default: Licensed under CC BY-NC-SA 4.0
@@ -136,7 +136,7 @@ params:
             limit: 5
 
         tagCloud:
-            limit: 10
+            limit: 15
 
     opengraph:
         twitter:
@@ -171,27 +171,62 @@ params:
 menu:
     main:
         - identifier: home
-          name: Home
+          name: 首頁
           url: /
-          weight: -100
+          weight: -200
           params:
               ### For demonstration purpose, the home link will be open in a new tab
-              newTab: true
+              newTab: false
               icon: home
-    
-    social:
-        - identifier: github
-          name: GitHub
-          url: https://github.com/CaiJimmy/hugo-theme-stack
-          params:
-            icon: brand-github
-            
-        - identifier: twitter
-          name: Twitter
-          url: https://twitter.com
-          params:
-            icon: brand-twitter
 
+        - identifier: youtube
+          name: Youtube頻道
+          url: https://www.youtube.com/channel/UCWviCm7p7dnjmf37P2jpx4w
+          weight: -180
+          params:
+            icon: home
+            newTab: true
+
+        - identifier: tiktok
+          name: 短影片（Tiktok）
+          url: https://www.tiktok.com/@tobefrank0910
+          weight: -170
+          params:
+              newTab: false
+              icon: home
+
+        - identifier: instagram
+          name: IG帳號
+          url: https://www.tiktok.com/@tobefrank0910
+          weight: -100
+          params:
+              newTab: false
+              icon: home
+
+
+    # social:
+    #     - identifier: github
+    #       name: GitHub
+    #       url: https://github.com/frankchi24/
+    #       params:
+    #         icon: icons8-github
+            
+    #     - identifier: youtube
+    #       name: Youtube
+    #       url: https://www.youtube.com/channel/UCWviCm7p7dnjmf37P2jpx4w
+    #       params:
+    #         icon: icons8-youtube
+
+    #     - identifier: tiktok
+    #       name: Tiktok
+    #       url: https://vt.tiktok.com/ZSe5ExCT8/
+    #       params:
+    #         icon: icons8-tiktok
+    #     - identifier: instagram
+    #       name: Instagram
+    #       url: https://vt.tiktok.com/ZSe5ExCT8/
+    #       params:
+    #         icon: icons8-instagram
 related:
     includeNewer: true
     threshold: 60
