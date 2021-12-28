@@ -5,7 +5,7 @@ date: 2020-12-21
 slug: accent_training_intro
 image: cover.jpg
 categories:
-    - 發音
+    - pronunciation
 ---
 
 
