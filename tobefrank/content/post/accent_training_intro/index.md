@@ -6,6 +6,7 @@ slug: accent_training_intro
 image: cover.jpg
 categories:
     - pronunciation
+    - english_learning
 ---
 
 

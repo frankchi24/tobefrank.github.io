@@ -1,14 +1,14 @@
 ---
 title: "關於我"
 description: 
-date: '2019-02-28'
+date: '2021-12-28'
 slug: "about_me"
 aliases:
   - about-us
   - about-hugo
   - contact
 license: CC BY-NC-ND
-lastmod: '2020-10-09'
+lastmod: '2021-12-28'
 menu:
     main: 
         name: "關於我"
@@ -17,8 +17,7 @@ menu:
             icon: user
 ---
 
-## frank
-
+Hi 我是Frank。一個愛吃美食，喜歡電影的英文老師。
 
 
 [我的Youtube頻道](https://www.youtube.com/watch?v=LIFvgrRxdt4)
