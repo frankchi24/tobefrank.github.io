@@ -1,9 +1,8 @@
 baseurl: https://frankchi.com
 languageCode: zh-tw
 theme: stack
-paginate: 5
+paginate: 15
 title: Frank Chi
-
 # Change it to your Disqus shortname before using
 disqusShortname: hugo-theme-stack
 
@@ -28,7 +27,6 @@ params:
     featuredImageField: image
     rssFullContent: true
     favicon:
-
     footer:
         since: 2020
         customText:
@@ -38,12 +36,12 @@ params:
         lastUpdated: Jan 02, 2006 15:04 MST
 
     sidebar:
-        emoji: 🍥
+        emoji: 
         subtitle: 看電影＊學英文
         avatar:
             enabled: true
             local: true
-            src: img/avatar.png
+            src: img/frank_logo.png
 
     article:
         math: false
@@ -54,7 +52,7 @@ params:
             default: Licensed under CC BY-NC-SA 4.0
 
     comments:
-        enabled: true
+        enabled: false
         provider: disqus
 
         disqusjs:
@@ -195,13 +193,13 @@ menu:
               newTab: false
               icon: home
 
-        - identifier: instagram
-          name: IG帳號
-          url: https://www.tiktok.com/@tobefrank0910
-          weight: -100
-          params:
-              newTab: false
-              icon: home
+        # - identifier: instagram
+        #   name: IG帳號
+        #   url: https://www.tiktok.com/@tobefrank0910
+        #   weight: -100
+        #   params:
+        #       newTab: false
+        #       icon: home
 
 
     # social:
