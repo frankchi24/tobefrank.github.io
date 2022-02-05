@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>閱讀心得 on Frank Chi</title>
-    <link>https://frankchi.com/categories/books/</link>
-    <description>Recent content in 閱讀心得 on Frank Chi</description>
+    <title>自由工作者 on Frank Chi</title>
+    <link>https://frankchi.com/categories/freelancer/</link>
+    <description>Recent content in 自由工作者 on Frank Chi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sat, 05 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://frankchi.com/categories/books/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 05 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://frankchi.com/categories/freelancer/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>自由工作者的五個階段</title>
       <link>https://frankchi.com/p/five_kinds_freelancers/</link>

@@ -2,8 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://frankchi.com/categories/</loc>
+    <lastmod>2022-02-05T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://frankchi.com/</loc>
-    <lastmod>2021-12-28T00:00:00+00:00</lastmod>
+    <lastmod>2022-02-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://frankchi.com/post/</loc>
+    <lastmod>2022-02-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://frankchi.com/categories/freelancer/</loc>
+    <lastmod>2022-02-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://frankchi.com/p/five_kinds_freelancers/</loc>
+    <lastmod>2022-02-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://frankchi.com/categories/books/</loc>
+    <lastmod>2022-02-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://frankchi.com/page/</loc>
     <lastmod>2021-12-28T00:00:00+00:00</lastmod>
@@ -11,20 +26,14 @@
     <loc>https://frankchi.com/about_me/</loc>
     <lastmod>2021-12-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/categories/</loc>
-    <lastmod>2020-12-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://frankchi.com/categories/english_learning/</loc>
-    <lastmod>2020-12-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://frankchi.com/post/</loc>
-    <lastmod>2020-12-21T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://frankchi.com/categories/pronunciation/</loc>
-    <lastmod>2020-12-21T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://frankchi.com/p/accent_training_intro/</loc>
-    <lastmod>2020-12-21T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://frankchi.com/categories/english_learning/</loc>
+    <lastmod>2021-12-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://frankchi.com/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
@@ -35,9 +44,5 @@
     <loc>https://frankchi.com/tags/</loc>
   </url><url>
     <loc>https://frankchi.com/search/</loc>
-  </url><url>
-    <loc>https://frankchi.com/categories/english-learning/</loc>
-  </url><url>
-    <loc>https://frankchi.com/categories/books/</loc>
   </url>
 </urlset>
