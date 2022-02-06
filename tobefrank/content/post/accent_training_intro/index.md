@@ -1,7 +1,7 @@
 ---
 title: 發音訓練是什麼？
 description: What is accent training?
-date: 2020-12-21
+date: 2021-12-21
 slug: accent_training_intro
 image: cover.jpg
 categories:

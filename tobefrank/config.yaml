@@ -182,7 +182,7 @@ menu:
           url: https://www.youtube.com/channel/UCWviCm7p7dnjmf37P2jpx4w
           weight: -180
           params:
-            icon: home
+            icon: icons8-youtube
             newTab: true
 
         - identifier: tiktok
@@ -191,40 +191,18 @@ menu:
           weight: -170
           params:
               newTab: false
-              icon: home
+              icon: icons8-tiktok
 
-        # - identifier: instagram
-        #   name: IG帳號
-        #   url: https://www.tiktok.com/@tobefrank0910
-        #   weight: -100
-        #   params:
-        #       newTab: false
-        #       icon: home
-
-
-    # social:
-    #     - identifier: github
-    #       name: GitHub
-    #       url: https://github.com/frankchi24/
-    #       params:
-    #         icon: icons8-github
+        - identifier: instagram
+          name: Instagram
+          url: https://www.instagram.com/tobefrank777/
+          weight: -100
+          params:
+              newTab: false
+              icon: icons8-instagram
             
-    #     - identifier: youtube
-    #       name: Youtube
-    #       url: https://www.youtube.com/channel/UCWviCm7p7dnjmf37P2jpx4w
-    #       params:
-    #         icon: icons8-youtube
 
-    #     - identifier: tiktok
-    #       name: Tiktok
-    #       url: https://vt.tiktok.com/ZSe5ExCT8/
-    #       params:
-    #         icon: icons8-tiktok
-    #     - identifier: instagram
-    #       name: Instagram
-    #       url: https://vt.tiktok.com/ZSe5ExCT8/
-    #       params:
-    #         icon: icons8-instagram
+
 related:
     includeNewer: true
     threshold: 60

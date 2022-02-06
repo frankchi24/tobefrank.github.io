@@ -5,6 +5,8 @@ slug: "my_class"
 license: CC BY-NC-ND
 lastmod: '2021-10-09'
 image: "my_class_cover_downsized.jpg"
+categories:
+    - english_learning
 menu:
     main:
         name: "我的課程" 
