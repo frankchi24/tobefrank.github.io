@@ -1053,7 +1053,7 @@ ol {
 /* Section Title */
 .section-title {
   text-align: center;
-  margin-bottom: 80px;
+  margin-bottom: 60px;
   padding: 0 300px;
   position: relative;
   z-index: 5;
@@ -2350,6 +2350,7 @@ ol {
   margin-bottom: 20px;
   color: #081828;
   line-height: 42px;
+  text-align: center;
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
@@ -2371,7 +2372,8 @@ ol {
 }
 
 .app-info .info-one .info-text .button {
-  margin-top: 35px;
+  margin-top: 25px;
+  text-align: center;
 }
 
 /*======================================
@@ -2698,6 +2700,10 @@ ol {
   font-size: 30px;
   font-weight: 700;
   display: inline-block;
+}
+
+.pricing-table .single-table .table-head .price .amount s{
+  font-size: 20px;
 }
 
 .pricing-table .single-table .table-head .price .amount .duration {
@@ -3888,6 +3894,16 @@ blockquote span {
   margin-bottom: 50px;
 }
 
+.team .single-team .intro_list {
+  margin-top: 50px;
+}
+.team .single-team .intro_list li{
+  text-align: left;
+  margin-bottom: 25px;
+  margin-top: 10px;
+  font-size: 18px;
+}
+
 @media only screen and (min-width: 768px) and (max-width: 991px), (max-width: 767px) {
   .team .section-title {
     margin-bottom: 30px;
@@ -3910,7 +3926,12 @@ blockquote span {
 }
 
 .team .single-team .image img {
-  width: 100%;
+  display: block;
+  margin-bottom: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+  border-radius: 30px;
 }
 
 .team .single-team .content {
@@ -3995,7 +4016,7 @@ blockquote span {
 }
 
 .call-action .cta-content h2 {
-  color: #fff;
+  color: black;
   line-height: 50px;
   font-size: 38px;
   font-weight: 700;
@@ -4874,7 +4895,30 @@ blockquote span {
 }
 
 
+/*custom css*/
 
+.video-container {
 
+position: relative;
+
+padding-bottom: 56.25%;
+
+padding-top: 50px;
+
+height: 0;
+
+overflow: hidden;
+
+}
+
+.video-container iframe, .video-container object, .video-container embed {
+
+position: absolute;
+
+top: 0;left: 0;
+
+width: 100%;
+
+height: 100%;}
 
 
