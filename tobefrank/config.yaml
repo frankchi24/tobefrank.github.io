@@ -175,7 +175,7 @@ menu:
           params:
               ### For demonstration purpose, the home link will be open in a new tab
               newTab: false
-              icon: home
+              icon: icons8-home
 
         - identifier: youtube
           name: Youtube頻道

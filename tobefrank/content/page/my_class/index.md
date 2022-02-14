@@ -12,7 +12,7 @@ menu:
         name: "我的課程" 
         weight: -195
         params:
-            icon: user
+            icon: icons8-study
 ---
 
 我希望這是學生「最後一次」上英文課。
