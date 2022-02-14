@@ -80,31 +80,6 @@ Author: GrayGrids
     // WOW active
     new WOW().init();
 
-    let filterButtons = document.querySelectorAll('.portfolio-btn-wrapper button');
-    filterButtons.forEach(e =>
-        e.addEventListener('click', () => {
-
-            let filterValue = event.target.getAttribute('data-filter');
-            iso.arrange({
-                filter: filterValue
-            });
-        })
-    );
-
-    var elements = document.getElementsByClassName("portfolio-btn");
-    for (var i = 0; i < elements.length; i++) {
-        elements[i].onclick = function () {
-            var el = elements[0];
-            while (el) {
-                if (el.tagName === "BUTTON") {
-                    el.classList.remove("active");
-                }
-                el = el.nextSibling;
-            }
-            this.classList.add("active");
-        };
-    };
-
     //===== mobile-menu-btn
     let navbarToggler = document.querySelector(".mobile-menu-btn");
     navbarToggler.addEventListener('click', function () {
