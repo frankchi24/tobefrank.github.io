@@ -1313,14 +1313,15 @@ ol {
 }
 
 .button .btn:hover {
-  color: #fff;
-  background-color: #081828;
+  color: black;
+  background-color: #FFCE64;
+  border-style: solid;
   -webkit-box-shadow: 0px 4px 4px #0000000f;
           box-shadow: 0px 4px 4px #0000000f;
 }
 
 .button .btn-alt {
-  color: #fff !important;
+  color: black !important;
   background: transparent !important;
   border: 2px solid #fff;
   padding: 11px 30px;
@@ -1632,16 +1633,16 @@ ol {
 }
 
 .header .button .btn {
-  background-color: transparent;
-  border: 2px solid grey;
-  color: grey;
+  background-color: #FFCF5E;
+  color: black;
   padding: 12px 30px;
+  border: 2px solid black;
 }
 
 .header .button .btn:hover {
   background-color: #FFCF5E;
   color: black;
-  border: 2px solid black;
+  border: 3px solid black;
 }
 
 .header .navbar-brand img {
@@ -1679,8 +1680,9 @@ ol {
 }
 
 .header.sticky .button .btn:hover {
-  background-color: #081828;
-  color: #fff;
+  background-color: #FFCF5E;
+  color: black;
+  border-color: black;
 }
 
 .sticky {
@@ -1809,18 +1811,18 @@ ol {
 
 .navbar-nav .nav-item:hover a {
   color: black;
+  text-decoration: underline;
 }
 
 .sticky .navbar-nav .nav-item:hover a {
 /*  color: #FFCF5E;*/
 /*nav bar item hover color*/
   color: #FFCF5E;
-
 }
 
 .navbar-nav .nav-item a {
   font-size: 15px;
-  color: grey;
+  color: black;
   -webkit-transition: all 0.3s ease-out 0s;
   transition: all 0.3s ease-out 0s;
   position: relative;
@@ -2091,8 +2093,10 @@ ol {
 }
 
 .hero-area .hero-content .button .btn:hover {
-  background-color: grey;
-  color: #fff;
+  background-color: #FFCF5E;
+  color: black;
+  border-style: solid;
+  border-width: 2px;
 }
 
 .hero-area .hero-content .button .btn.btn-alt {
@@ -2376,6 +2380,7 @@ ol {
   text-align: center;
 }
 
+
 /*======================================
     Features Area CSS
 ========================================*/
@@ -2505,7 +2510,7 @@ ol {
     Testimonial CSS
 ========================================*/
 .testimonials {
-  background-color: #f9f9f9;
+  background-color: white;
   position: relative;
   overflow: hidden;
 }
@@ -2723,7 +2728,7 @@ ol {
 
 .pricing-table .single-table .table-head .button .btn:hover {
   background-color: #FFCF5E;
-  color: #fff;
+  color: black;
 }
 
 .pricing-table .single-table .table-content {
@@ -3901,7 +3906,7 @@ blockquote span {
   text-align: left;
   margin-bottom: 25px;
   margin-top: 10px;
-  font-size: 18px;
+  font-size: 14px;
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px), (max-width: 767px) {
