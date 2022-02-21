@@ -178,12 +178,22 @@ menu:
               icon: icons8-home
 
         - identifier: youtube
+          name: 找我學英文
+          url: /class.html
+          weight: -180
+          params:
+            icon: icons8-study
+            newTab: false
+            
+
+        - identifier: youtube
           name: Youtube頻道
           url: https://www.youtube.com/channel/UCWviCm7p7dnjmf37P2jpx4w
           weight: -180
           params:
             icon: icons8-youtube
             newTab: true
+
 
         - identifier: tiktok
           name: 短影片（Tiktok）
@@ -200,6 +210,7 @@ menu:
           params:
               newTab: false
               icon: icons8-instagram
+
             
 
 

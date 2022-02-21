@@ -7,12 +7,12 @@ lastmod: '2021-10-09'
 image: "my_class_cover_downsized.jpg"
 categories:
     - english_learning
-menu:
-    main:
-        name: "我的課程" 
-        weight: -195
-        params:
-            icon: icons8-study
+# menu:
+#     main:
+#         name: "我的課程" 
+#         weight: -195
+#         params:
+#             icon: icons8-study
 ---
 
 我希望這是學生「最後一次」上英文課。

@@ -2768,6 +2768,7 @@ ol {
     Faq CSS
 ========================================*/
 .faq {
+  padding-top: 0;
   padding-bottom: 80px;
 }
 
@@ -4936,6 +4937,30 @@ height: 100%;}
 }
 
 
-.line_account a.link{
-  background-color: black;
+.line_account span.link{
+  color: gray;
+  text-decoration: underline;
+}
+
+.line_account span.link:hover {
+  font-weight: bold;
+}
+
+span.link{
+  color: gray;
+  text-decoration: underline;
+}
+
+span.link:hover {
+  font-weight: bold;
+}
+
+.google_form iframe{
+  height: 2500px;
+  width: 100%;
+}
+
+.faq .button{
+  margin-bottom: 130px;
+  text-align: center;
 }
