@@ -4905,8 +4905,7 @@ blockquote span {
 
 
 /*custom css*/
-
-.my-vimeo-wrapper-class{
+.my-vimeo-wrapper-class ul ol{
     position: relative; 
     padding-bottom: 56.25%; 
     height: 0; 
