@@ -1,8 +1,8 @@
-baseurl: https://frankchi.com
+baseurl: https://blog.frankchi.com
 languageCode: zh-tw
 theme: stack
 paginate: 15
-title: Frank Chi
+title: Frank 法蘭克
 # Change it to your Disqus shortname before using
 disqusShortname: hugo-theme-stack
 
