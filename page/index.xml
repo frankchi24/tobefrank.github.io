@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pages on Frank Chi</title>
-    <link>https://frankchi.com/page/</link>
-    <description>Recent content in Pages on Frank Chi</description>
+    <title>Pages on Frank 法蘭克</title>
+    <link>https://blog.frankchi.com/page/</link>
+    <description>Recent content in Pages on Frank 法蘭克</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Tue, 28 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://frankchi.com/page/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.frankchi.com/page/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>關於我</title>
-      <link>https://frankchi.com/about_me/</link>
+      <link>https://blog.frankchi.com/about_me/</link>
       <pubDate>Tue, 28 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://frankchi.com/about_me/</guid>
+      <guid>https://blog.frankchi.com/about_me/</guid>
       <description>建置中   </description>
     </item>
     
     <item>
       <title>文章庫</title>
-      <link>https://frankchi.com/archives/</link>
+      <link>https://blog.frankchi.com/archives/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://frankchi.com/archives/</guid>
+      <guid>https://blog.frankchi.com/archives/</guid>
       <description></description>
     </item>
     
     <item>
       <title>來找我上英文課！所有你需要知道的事</title>
-      <link>https://frankchi.com/my_class/</link>
+      <link>https://blog.frankchi.com/my_class/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://frankchi.com/my_class/</guid>
+      <guid>https://blog.frankchi.com/my_class/</guid>
       <description>我希望這是學生「最後一次」上英文課。
 所以我接到每一個新生時，都會花時間了解你的英文程度。詳細跟你討論你的學習需求，也會給你非常大的空間自訂學習內容和進度。
 💪💪 針對學習問題，直球對決的英文教學 💪💪 英文不是一個科目，而是一個有用的技能。所以我不太把自己看成英文「老師」，而是一個專業的「教練」。我準備的課程內容非常豐富，也有很多自編講義。不管你想鍛鍊口說、加強聽力，還是文法觀念不清楚，英文閱讀看不懂&amp;hellip;零零總總的英文學習問題，我都有招可以幫你達成你的學習目標。
@@ -62,10 +62,10 @@
     
     <item>
       <title>搜尋</title>
-      <link>https://frankchi.com/search/</link>
+      <link>https://blog.frankchi.com/search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://frankchi.com/search/</guid>
+      <guid>https://blog.frankchi.com/search/</guid>
       <description></description>
     </item>
     

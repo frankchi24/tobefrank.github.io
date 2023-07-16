@@ -1,72 +1,72 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Frank Chi</title>
-    <link>https://frankchi.com/categories/</link>
-    <description>Recent content in Categories on Frank Chi</description>
+    <title>Categories on Frank 法蘭克</title>
+    <link>https://blog.frankchi.com/categories/</link>
+    <description>Recent content in Categories on Frank 法蘭克</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Thu, 03 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://frankchi.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 03 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.frankchi.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>有影片</title>
-      <link>https://frankchi.com/categories/%E6%9C%89%E5%BD%B1%E7%89%87/</link>
+      <link>https://blog.frankchi.com/categories/%E6%9C%89%E5%BD%B1%E7%89%87/</link>
       <pubDate>Thu, 03 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://frankchi.com/categories/%E6%9C%89%E5%BD%B1%E7%89%87/</guid>
+      <guid>https://blog.frankchi.com/categories/%E6%9C%89%E5%BD%B1%E7%89%87/</guid>
       <description></description>
     </item>
     
     <item>
       <title>每日一句</title>
-      <link>https://frankchi.com/categories/%E6%AF%8F%E6%97%A5%E4%B8%80%E5%8F%A5/</link>
+      <link>https://blog.frankchi.com/categories/%E6%AF%8F%E6%97%A5%E4%B8%80%E5%8F%A5/</link>
       <pubDate>Thu, 03 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://frankchi.com/categories/%E6%AF%8F%E6%97%A5%E4%B8%80%E5%8F%A5/</guid>
+      <guid>https://blog.frankchi.com/categories/%E6%AF%8F%E6%97%A5%E4%B8%80%E5%8F%A5/</guid>
       <description></description>
     </item>
     
     <item>
       <title>看電影學英文</title>
-      <link>https://frankchi.com/categories/%E7%9C%8B%E9%9B%BB%E5%BD%B1%E5%AD%B8%E8%8B%B1%E6%96%87/</link>
+      <link>https://blog.frankchi.com/categories/%E7%9C%8B%E9%9B%BB%E5%BD%B1%E5%AD%B8%E8%8B%B1%E6%96%87/</link>
       <pubDate>Thu, 03 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://frankchi.com/categories/%E7%9C%8B%E9%9B%BB%E5%BD%B1%E5%AD%B8%E8%8B%B1%E6%96%87/</guid>
+      <guid>https://blog.frankchi.com/categories/%E7%9C%8B%E9%9B%BB%E5%BD%B1%E5%AD%B8%E8%8B%B1%E6%96%87/</guid>
       <description></description>
     </item>
     
     <item>
       <title>自由工作者</title>
-      <link>https://frankchi.com/categories/freelancer/</link>
+      <link>https://blog.frankchi.com/categories/freelancer/</link>
       <pubDate>Sat, 05 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://frankchi.com/categories/freelancer/</guid>
+      <guid>https://blog.frankchi.com/categories/freelancer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>閱讀心得</title>
-      <link>https://frankchi.com/categories/books/</link>
+      <link>https://blog.frankchi.com/categories/books/</link>
       <pubDate>Sat, 05 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://frankchi.com/categories/books/</guid>
+      <guid>https://blog.frankchi.com/categories/books/</guid>
       <description></description>
     </item>
     
     <item>
       <title>發音</title>
-      <link>https://frankchi.com/categories/pronunciation/</link>
+      <link>https://blog.frankchi.com/categories/pronunciation/</link>
       <pubDate>Tue, 21 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://frankchi.com/categories/pronunciation/</guid>
+      <guid>https://blog.frankchi.com/categories/pronunciation/</guid>
       <description> var _paq = _paq || []; (function(){ if(window.apScriptInserted) return; _paq.push([&#39;clientToken&#39;, &#39;P%2bsIjEMd6oQ%3d&#39;]); var d=document, g=d.createElement(&#39;script&#39;), s=d.getElementsByTagName(&#39;script&#39;)[0]; g.type=&#39;text/javascript&#39;; g.async=true; g.defer=true; g.src=&#39;https://prod.benchmarkemail.com/tracker.bundle.js&#39;; s.parentNode.insertBefore(g,s); window.apScriptInserted=true;})();  Please enable JavaScript  </description>
     </item>
     
     <item>
       <title>英語學習</title>
-      <link>https://frankchi.com/categories/english_learning/</link>
+      <link>https://blog.frankchi.com/categories/english_learning/</link>
       <pubDate>Tue, 21 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://frankchi.com/categories/english_learning/</guid>
+      <guid>https://blog.frankchi.com/categories/english_learning/</guid>
       <description></description>
     </item>
     
