@@ -2,10 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blog.frankchi.com/categories/</loc>
-    <lastmod>2022-11-03T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://blog.frankchi.com/</loc>
+    <lastmod>2023-09-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.frankchi.com/page/</loc>
+    <lastmod>2023-09-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.frankchi.com/class_rule/</loc>
+    <lastmod>2023-09-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.frankchi.com/categories/</loc>
     <lastmod>2022-11-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.frankchi.com/post/</loc>
@@ -40,9 +46,6 @@
   </url><url>
     <loc>https://blog.frankchi.com/categories/books/</loc>
     <lastmod>2022-02-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.frankchi.com/page/</loc>
-    <lastmod>2021-12-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.frankchi.com/about_me/</loc>
     <lastmod>2021-12-28T00:00:00+00:00</lastmod>
