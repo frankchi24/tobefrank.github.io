@@ -177,7 +177,7 @@ menu:
               newTab: false
               icon: icons8-home
 
-        - identifier: youtube
+        - identifier: class
           name: 找我學英文
           url: /class.html
           weight: -180
@@ -189,19 +189,27 @@ menu:
         - identifier: youtube
           name: Youtube頻道
           url: https://www.youtube.com/channel/UCWviCm7p7dnjmf37P2jpx4w
-          weight: -180
+          weight: -175
           params:
             icon: icons8-youtube
-            newTab: true
+            newTab: false
 
 
         - identifier: tiktok
-          name: 短影片（Tiktok）
+          name: Tiktok
           url: https://www.tiktok.com/@tobefrank0910
           weight: -170
           params:
               newTab: false
               icon: icons8-tiktok
+
+        - identifier: Facebook
+          name: Facebook
+          url: https://www.facebook.com/tobefrank7777/reels
+          weight: -165
+          params:
+              newTab: false
+              icon: icons8-facebook
 
         - identifier: instagram
           name: Instagram
