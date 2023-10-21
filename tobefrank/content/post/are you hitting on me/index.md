@@ -4,6 +4,7 @@ description: "hit me 和 hit on me的差別."
 date: 2023-10-20
 slug: hit-on-me
 image: cover.jpg
+HiddenInSingle: true  # This hides the cover image in single article view
 categories:
     - 有影片
     - 看電影學英文
@@ -34,7 +35,7 @@ Hit me.  才是揍我
 **影片片段來自：**  
 🎥 宅男行不行 (The Big Bang Theory)   
 🎥 沈默的羔羊 (The Silence of the Lamb)   
-🎥 夜魔俠 (Daredevil）  
+🎥 夜魔俠 (Daredevil）   
 🎥 追愛總動員 (How I Met Your Mother)  
 🎥 永生樹 (The Tree of Life)  
 🎥 第六感生死緣 (Meet Joe Black )  

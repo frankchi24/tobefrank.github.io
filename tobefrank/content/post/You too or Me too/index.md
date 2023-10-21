@@ -4,6 +4,7 @@ description: "You too or Me too."
 date: 2022-11-03
 slug: you-too-or-me-too
 image: cover.jpeg
+HiddenInSingle: true  # This hides the cover image in single article view
 categories:
     - 有影片
     - 看電影學英文

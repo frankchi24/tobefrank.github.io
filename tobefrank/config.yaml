@@ -1,4 +1,4 @@
-baseurl: https://blog.frankchi.com
+baseurl: https://frankchi.com
 languageCode: zh-tw
 theme: stack
 paginate: 15
@@ -29,7 +29,7 @@ params:
     favicon:
     footer:
         since: 2020
-        customText:
+        customText: 由法蘭克自行維護～
 
     dateFormat:
         published: Jan 02, 2006
@@ -160,8 +160,11 @@ params:
     imageProcessing:
         cover:
             enabled: true
+
         content:
             enabled: true
+
+
 
 ### Custom menu
 ### See https://docs.stack.jimmycai.com/configuration/custom-menu.html

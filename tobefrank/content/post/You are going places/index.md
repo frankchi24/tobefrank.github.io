@@ -4,6 +4,7 @@ description: "You're going places."
 date: 2022-10-28
 slug: you-are-going-places
 image: cover.jpeg
+HiddenInSingle: true  # This hides the cover image in single article view
 categories:
     - 有影片
     - 看電影學英文
