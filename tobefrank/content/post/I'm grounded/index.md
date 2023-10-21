@@ -3,14 +3,15 @@ title: 不聽話嗎？這是父母的大絕招
 description: "You're grounded."
 date: 2022-10-25
 slug: you-are-grounded
-# image: cover.jpeg
+image: cover.jpg
+HiddenInSingle: true  # This hides the cover image in single article view
 categories:
     - 有影片
     - 看電影學英文
     - 每日一句
 ---
 
-{{< vimeo id="764620495" >}}
+{{< vimeo id="876698833" >}}
 
 
 這句話所有爸媽的大絕招。  
