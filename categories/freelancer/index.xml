@@ -1,33 +1,42 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>自由工作者 on Frank 法蘭克</title>
-    <link>https://frankchi.com/categories/freelancer/</link>
-    <description>Recent content in 自由工作者 on Frank 法蘭克</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>zh-tw</language>
-    <lastBuildDate>Sat, 05 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://frankchi.com/categories/freelancer/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>自由工作者的五個階段</title>
-      <link>https://frankchi.com/p/five_kinds_freelancers/</link>
-      <pubDate>Sat, 05 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://frankchi.com/p/five_kinds_freelancers/</guid>
-      <description>所謂的自由工作者，有五個等級:
-等級一：平台上的小螺絲釘（Cog in a machine) 叫外送你會指名哪位司機嗎？不會有人在社群媒體炫耀今天是哪位金牌外送員幫他送餐。這樣的自由工作者，由中間人、平台幫你帶來工作機會。不需要擔心行銷，不需要擔心自己的品牌，誰來做都可以，你是等級一的自由工作者。
-generic (a.) 一般的、沒有商標的
-cog in a machine (n.) 機器中的小螺絲釘
-我也做過這樣的自由工作者，扎扎實實勞動獲取收入是很好的一件事。但是這應該只是作為自由工作者的開始，而不是終極目標。
-等級二：招之即來的好朋友 小王剛好要想要找人修電腦，看到你在巷口開了家電腦維修，價格不貴，又方便，把電腦搬去就可以。這叫做快速簡單、招之即來的好朋友。這個等級的自由工作者拿到案子通常只是因為你剛好在附近、剛好認識。只需要一點點廣告，就可以做到認識的人或左鄰右社的生意。
-unique (a.) 獨特的
-one of a kind (n.) 獨樹一幟
-等級三：手藝人 你花了多年磨練技能、鍛鍊手藝。你的作品和服務比另外一個專業工作者好上很多。很多案子來自於滿意客戶的轉介紹。
-等級四：獨樹一幟 你跟一般專業者是完全不同的等級。品質精良、服務細緻。有人會去炫耀是你做的。你的收費比一般市場價格高上很多，別人還是會「指名」要你來。作為這樣的自由工作者，你重視自己的名號和羽毛（品牌）。願意花時間和投注資源在行銷上。你開始篩選你的客戶。
-等級五：大師 你再行業中無人不知。有家喻戶曉的作品、和極為鮮明的個人風格，大家可以分辨得出來是你做的。也有非常高的議價能力。通常是事求人，不是人求事。
- 並不是每個人都要當等級五大師。這五個等級也不是涇渭分明，你可能同時有等級三和等級四的特性。但我覺得任何一個自由工作者在規劃自己職涯的時候，很好的一個Road map。你可以發現，向上晉級的關鍵，就是「專業」和「行銷」
-不夠專業，你不會有回頭客。客人會上當一次，但不會永遠被騙； 沒有行銷，則無法創造自己在客戶心中的價值，只是CP值非常高。永遠會有更年輕的肝取代你。
-你是拿錢辦事？還是一個品牌？ 你跟別人沒什麼不同？你是不是在做一件獨一無二的事情？ 你有沒有信念或對自己品牌的信仰？還是你只是在賺錢？</description>
-    </item>
-    
-  </channel>
+    <channel>
+        <title>自由工作者 on Frank 法蘭克</title>
+        <link>https://frankchi.com/categories/freelancer/</link>
+        <description>Recent content in 自由工作者 on Frank 法蘭克</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-tw</language>
+        <lastBuildDate>Sat, 05 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://frankchi.com/categories/freelancer/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>自由工作者的五個階段</title>
+        <link>https://frankchi.com/p/five_kinds_freelancers/</link>
+        <pubDate>Sat, 05 Feb 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://frankchi.com/p/five_kinds_freelancers/</guid>
+        <description>&lt;img src="https://frankchi.com/p/five_kinds_freelancers/cover.jpeg" alt="Featured image of post 自由工作者的五個階段" /&gt;&lt;p&gt;所謂的自由工作者，有五個等級:&lt;/p&gt;
+&lt;h2 id=&#34;等級一平台上的小螺絲釘cog-in-a-machine&#34;&gt;等級一：平台上的小螺絲釘（Cog in a machine)&lt;/h2&gt;
+&lt;p&gt;叫外送你會指名哪位司機嗎？不會有人在社群媒體炫耀今天是哪位金牌外送員幫他送餐。這樣的自由工作者，由中間人、平台幫你帶來工作機會。不需要擔心行銷，不需要擔心自己的品牌，誰來做都可以，你是等級一的自由工作者。&lt;/p&gt;
+&lt;p&gt;generic (a.) 一般的、沒有商標的&lt;/p&gt;
+&lt;p&gt;cog in a machine (n.) 機器中的小螺絲釘&lt;/p&gt;
+&lt;p&gt;我也做過這樣的自由工作者，扎扎實實勞動獲取收入是很好的一件事。但是這應該只是作為自由工作者的開始，而不是終極目標。&lt;/p&gt;
+&lt;h2 id=&#34;等級二招之即來的好朋友&#34;&gt;等級二：招之即來的好朋友&lt;/h2&gt;
+&lt;p&gt;小王剛好要想要找人修電腦，看到你在巷口開了家電腦維修，價格不貴，又方便，把電腦搬去就可以。這叫做快速簡單、招之即來的好朋友。這個等級的自由工作者拿到案子通常只是因為你剛好在附近、剛好認識。只需要一點點廣告，就可以做到認識的人或左鄰右社的生意。&lt;/p&gt;
+&lt;p&gt;unique (a.) 獨特的&lt;/p&gt;
+&lt;p&gt;one of a kind (n.) 獨樹一幟&lt;/p&gt;
+&lt;h2 id=&#34;等級三手藝人&#34;&gt;等級三：手藝人&lt;/h2&gt;
+&lt;p&gt;你花了多年磨練技能、鍛鍊手藝。你的作品和服務比另外一個專業工作者好上很多。很多案子來自於滿意客戶的轉介紹。&lt;/p&gt;
+&lt;h2 id=&#34;等級四獨樹一幟&#34;&gt;等級四：獨樹一幟&lt;/h2&gt;
+&lt;p&gt;你跟一般專業者是完全不同的等級。品質精良、服務細緻。有人會去炫耀是你做的。你的收費比一般市場價格高上很多，別人還是會「指名」要你來。作為這樣的自由工作者，你重視自己的名號和羽毛（品牌）。願意花時間和投注資源在行銷上。你開始篩選你的客戶。&lt;/p&gt;
+&lt;h2 id=&#34;等級五大師&#34;&gt;等級五：大師&lt;/h2&gt;
+&lt;p&gt;你再行業中無人不知。有家喻戶曉的作品、和極為鮮明的個人風格，大家可以分辨得出來是你做的。也有非常高的議價能力。通常是事求人，不是人求事。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;並不是每個人都要當等級五大師。這五個等級也不是涇渭分明，你可能同時有等級三和等級四的特性。但我覺得任何一個自由工作者在規劃自己職涯的時候，很好的一個Road map。你可以發現，向上晉級的關鍵，就是「專業」和「行銷」&lt;/p&gt;
+&lt;p&gt;不夠專業，你不會有回頭客。客人會上當一次，但不會永遠被騙；
+沒有行銷，則無法創造自己在客戶心中的價值，只是CP值非常高。永遠會有更年輕的肝取代你。&lt;/p&gt;
+&lt;p&gt;你是拿錢辦事？還是一個品牌？
+你跟別人沒什麼不同？你是不是在做一件獨一無二的事情？
+你有沒有信念或對自己品牌的信仰？還是你只是在賺錢？&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
 </rss>
