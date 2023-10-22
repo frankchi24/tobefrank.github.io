@@ -1,0 +1,5 @@
+/* Place your custom SCSS in HUGO_SITE_FOLDER/assets/scss/custom.scss */
+.article-list article:nth-child(1n+1) .article-category a {
+    background: #ffce64;
+    color: #000;
+}
