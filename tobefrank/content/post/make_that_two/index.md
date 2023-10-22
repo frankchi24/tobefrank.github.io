@@ -45,11 +45,12 @@ categories:
 
 
 With Footage From:  
-🎥 廣告狂人 (Mad Men)  
-🎥 宅男行不行 (The Big Bang Theory)  
-🎥 奧維爾號 (The Orville)  
-🎥 國務卿女士 (Madam Secretary)  
-🎥 紙牌屋 (House of Cards) 
+🎥 胖妞羅珊 Roseanne   
+🎥 四個好日子 Four Good Days  
+🎥 貞愛好孕到 Jane the Virgin  
+🎥 哈拉上菜 Waiting  
+🎥 Day in the life of Nick Young   
+🎥 007：惡魔四伏 Spectre  
 
 
 
