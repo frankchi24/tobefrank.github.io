@@ -185,7 +185,7 @@ menu:
           url: /class.html
           weight: -180
           params:
-            icon: icons8-study
+            icon: icons8-teaching
             newTab: false
             
 
@@ -206,13 +206,13 @@ menu:
               newTab: false
               icon: icons8-tiktok
 
-        # - identifier: Facebook
-        #   name: Facebook
-        #   url: https://www.facebook.com/tobefrank7777/reels
-        #   weight: -165
-        #   params:
-        #       newTab: false
-        #       icon: /assets/icons/icons8-facebook
+        - identifier: Facebook
+          name: Facebook
+          url: https://www.facebook.com/tobefrank7777/reels
+          weight: -165
+          params:
+              newTab: false
+              icon: icons8-facebook
 
         - identifier: instagram
           name: Instagram
