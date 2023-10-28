@@ -190,66 +190,66 @@ menu:
             newTab: false
             
 
-        # - identifier: youtube
-        #   name: Youtube頻道
-        #   url: https://www.youtube.com/channel/UCWviCm7p7dnjmf37P2jpx4w
-        #   weight: -175
-        #   params:
-        #     icon: icons8-youtube
-        #     newTab: false
-
-
-        # - identifier: tiktok
-        #   name: Tiktok
-        #   url: https://www.tiktok.com/@tobefrank0910
-        #   weight: -170
-        #   params:
-        #       newTab: false
-        #       icon: icons8-tiktok
-
-        # - identifier: Facebook
-        #   name: Facebook
-        #   url: https://www.facebook.com/tobefrank7777/reels
-        #   weight: -165
-        #   params:
-        #       newTab: false
-        #       icon: icons8-facebook
-
-        # - identifier: instagram
-        #   name: Instagram
-        #   url: https://www.instagram.com/tobefrank777/
-        #   weight: -100
-        #   params:
-        #       newTab: false
-        #       icon: icons8-instagram
-    social:
-        - identifier: facebook
-          name: Facebook
-          url: https://www.facebook.com/tobefrank7777/reels
-          params:
-              newTab: true
-              icon: icons8-facebook
-
         - identifier: youtube
-          name: Youtube
+          name: Youtube頻道
           url: https://www.youtube.com/channel/UCWviCm7p7dnjmf37P2jpx4w
+          weight: -175
           params:
-              newTab: true
-              icon: icons8-youtube
+            icon: icons8-youtube
+            newTab: false
+
 
         - identifier: tiktok
           name: Tiktok
           url: https://www.tiktok.com/@tobefrank0910
+          weight: -170
           params:
-              newTab: true
+              newTab: false
               icon: icons8-tiktok
+
+        - identifier: Facebook
+          name: Facebook
+          url: https://www.facebook.com/tobefrank7777/reels
+          weight: -165
+          params:
+              newTab: false
+              icon: icons8-facebook
 
         - identifier: instagram
           name: Instagram
           url: https://www.instagram.com/tobefrank777/
+          weight: -100
           params:
-              newTab: true
+              newTab: false
               icon: icons8-instagram
+    # social:
+    #     - identifier: facebook
+    #       name: Facebook
+    #       url: https://www.facebook.com/tobefrank7777/reels
+    #       params:
+    #           newTab: true
+    #           icon: icons8-facebook
+
+    #     - identifier: youtube
+    #       name: Youtube
+    #       url: https://www.youtube.com/channel/UCWviCm7p7dnjmf37P2jpx4w
+    #       params:
+    #           newTab: true
+    #           icon: icons8-youtube
+
+    #     - identifier: tiktok
+    #       name: Tiktok
+    #       url: https://www.tiktok.com/@tobefrank0910
+    #       params:
+    #           newTab: true
+    #           icon: icons8-tiktok
+
+    #     - identifier: instagram
+    #       name: Instagram
+    #       url: https://www.instagram.com/tobefrank777/
+    #       params:
+    #           newTab: true
+    #           icon: icons8-instagram
 
             
 
