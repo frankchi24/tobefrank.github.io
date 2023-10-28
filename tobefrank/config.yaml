@@ -182,7 +182,7 @@ menu:
               icon: icons8-home
 
         - identifier: class
-          name: 找我學英文
+          name: 一對一課程
           url: /class.html
           weight: -180
           params:
