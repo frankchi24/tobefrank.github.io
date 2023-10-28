@@ -38,6 +38,7 @@ params:
     sidebar:
         emoji: 
         subtitle: 看電影＊學英文
+        social: 
         avatar:
             enabled: true
             local: true
@@ -222,28 +223,28 @@ menu:
         #       newTab: false
         #       icon: icons8-instagram
     social:
-        - identifier: Facebook
+        - identifier: facebook
           name: Facebook
           url: https://www.facebook.com/tobefrank7777/reels
           params:
               newTab: true
               icon: icons8-facebook
 
-        - identifier: Youtube
+        - identifier: youtube
           name: Youtube
           url: https://www.youtube.com/channel/UCWviCm7p7dnjmf37P2jpx4w
           params:
               newTab: true
               icon: icons8-youtube
 
-        - identifier: Tiktok
+        - identifier: tiktok
           name: Tiktok
           url: https://www.tiktok.com/@tobefrank0910
           params:
               newTab: true
               icon: icons8-tiktok
 
-        - identifier: Instagram
+        - identifier: instagram
           name: Instagram
           url: https://www.instagram.com/tobefrank777/
           params:
