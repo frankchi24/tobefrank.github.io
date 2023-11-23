@@ -19,21 +19,19 @@ categories:
 
 >> **That is rich.**
 
-這句話是好笑、或笑死的意思
+這句話是好笑、或笑死的意思。
 
-不要懷疑，就是有錢的那個 rich，沒想到吧
+不要懷疑，就是有錢的那個 rich，沒想到吧！
 
-rich 這個字本來有豐富的意思
+rich 這個字本來有豐富的意思。
 
-所以充滿笑點，讓你覺得很荒謬
-
-就可以說 That is rich. 
+所以充滿笑點，讓你覺得很荒謬，就可以說 That is rich. 
 
 這句話都用來嘲諷別人，所以吵架的時也很常用。
 
 講 That’s rich. 的時候不一定要笑，你可以冷笑或諷刺性的講 That’s rich. 
 
-如果真的想要說別人好笑或幽默，你可以說 That’s funny 或是 That’s hilarious.  
+如果真的想要說別人好笑或幽默，你可以說 That’s funny. 或是 That’s hilarious.  
 
 
 ---
@@ -44,7 +42,7 @@ rich 這個字本來有豐富的意思
 
 #### LMAO 
 
-Laughing my Ass Off 笑到屁股都掉下來了
+Laughing my Ass Off 是「笑到屁股都掉下來了。」
 
 這其實也是網路用語，可是生活中很難發音，比較是網路留言會說。
 
@@ -52,7 +50,7 @@ Laughing my Ass Off 笑到屁股都掉下來了
 
 Laugh out Loud 放聲大笑。
 
-這個平常也很少在口語的時候說，要說應該會是 L lo L 這樣念
+這個平常也很少在口語的時候說，要說應該會是 "L lo L" 這樣念。
 
 不過翻譯本來就是一種藝術。
 
