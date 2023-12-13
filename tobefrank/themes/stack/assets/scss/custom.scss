@@ -9,4 +9,25 @@
     margin-bottom:0;
 }
 
+.container.extended {
+    max-width: 1036px;
+}
+
+
+.left-sidebar {
+    min-width: 220px;
+    margin-right: 1%;
+    padding: var(--main-top-padding)15px;
+    max-height: 100vh;
+}
+.menu {
+    font-size:15px
+}
+.menu, .menu .menu-bottom-section {
+    gap: 20px;
+}
+
+.main-container {
+    gap: 0;
+}
 
