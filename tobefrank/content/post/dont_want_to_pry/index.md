@@ -31,6 +31,7 @@ pry 這個字是動詞，有「窺探、打探、撬動」的意思。
 
 所以講這句英文，你會不小心知道很多秘密
 
+{{< member_promote >}}
 
 With Footage From:  
 🎥 終極保鑣  (The Bodyguard)  

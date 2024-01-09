@@ -34,6 +34,7 @@ categories:
 
 這句台詞成為他在好萊塢的註冊商標，連頒獎上台都拿顆蘋果，超好笑的。
 
+{{< member_promote >}}
 
 With Footage From:  
 🎥 心靈捕手（Good Will Hunting)  

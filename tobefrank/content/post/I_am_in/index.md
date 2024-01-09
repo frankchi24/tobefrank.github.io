@@ -47,7 +47,7 @@ categories:
 >> **Who’s in?**  
 >> 誰加入？
 
-
+{{< member_promote >}}
 
 
 

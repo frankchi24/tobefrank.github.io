@@ -42,7 +42,7 @@ categories:
 
 下次用英文點餐的時候，你就可以試試看囉~
 
-
+{{< member_promote >}}
 
 With Footage From:  
 🎥 胖妞羅珊 Roseanne   

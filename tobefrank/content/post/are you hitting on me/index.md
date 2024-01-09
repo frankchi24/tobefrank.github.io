@@ -32,6 +32,8 @@ Hit me.  才是揍我
 >> He is hitting on me. 
 >> 他在撩我。 
 
+{{< member_promote >}}
+
 **影片片段來自：**  
 🎥 宅男行不行 (The Big Bang Theory)   
 🎥 沈默的羔羊 (The Silence of the Lamb)   

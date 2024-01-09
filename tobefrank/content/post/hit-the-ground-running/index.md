@@ -42,6 +42,7 @@ hit the ground running 字面上的翻譯就是「落地就跑」
 >> **I am going to hit the ground running from day one.**  
 >> 我要第一天就開始動起來
 
+{{< member_promote >}}
 
 **影片片段來自：**
 

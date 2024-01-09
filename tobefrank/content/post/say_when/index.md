@@ -53,8 +53,7 @@ Say when 其實本來是一句 Word Play 文字遊戲
 
 下次聽到 "Say when." ，可別回答時間了～
 
-
-
+{{< member_promote >}}
 
 With Footage From:  
 🎥 紙牌屋 (House of Cards)  

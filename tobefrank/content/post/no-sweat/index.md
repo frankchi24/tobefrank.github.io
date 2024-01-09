@@ -40,6 +40,8 @@ No sweat. 在英文就是**小事、很簡單**的意思
 
 下次試試看囉～
 
+{{< member_promote >}}
+
 With Footage From:  
 🎥 追愛總動員 (How I Met Your Mother)  
 🎥 少棒闖天下 (Bad News Bear)  

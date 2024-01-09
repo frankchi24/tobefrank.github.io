@@ -38,7 +38,9 @@ categories:
 為什麼是grounded地板呢？這句話原本是對飛行員說，可能因為生病、做錯事被禁飛，被限制在地面上的意思，後來才變成小朋友禁足，不能出去玩。所以這也是湯姆克魯斯最討厭的一句話。下次試試看囉。
 
 
-**影片片段來自：**
+{{< member_promote >}}
+
+**With Footage From：**
 
 🎥 國務卿女士 (Madam Secretary)  
 🎥 打不倒的金咪 (Unbreakable Kimmy Schmidt)  

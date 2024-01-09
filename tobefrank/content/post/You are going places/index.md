@@ -36,6 +36,7 @@ categories:
 這句話常常用來稱讚別人，是一句很棒的英文。  
 下次試試看囉
 
+{{< member_promote >}}
 
 🎥 我要飛上天 (View from the Top)  
 🎥 風流教師霹靂妹 (Election)  

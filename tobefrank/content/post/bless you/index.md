@@ -36,6 +36,8 @@ Bless 和 You 連音了，所以你會聽到的聲音接近  [Bleh shoe]   很�
 下次別人打噴嚏，你就可以試試看嘍～
 哈糗！哈糗！！
 
+{{< member_promote >}}
+
 With Footage From:  
 🎥 菜鳥新移民 (Fresh Off the Boat)  
 🎥 心情故事 (Home for the Holidays)  

@@ -41,9 +41,10 @@ dark meat 則是雞腿或雞翅，油脂比較多。煮久了顏色比較暗，�
 
 下次吃雞肉，你會選哪一種呢？
 
+{{< member_promote >}}
 
 With Footage From:  
-🎥 俄羅斯娃娃：派對迴旋（Russian Doll） 
+🎥 俄羅斯娃娃：派對迴旋（Russian Doll）  
 🎥 歡樂單身派對 (Seinfeld)  
 🎥 即刻救援（Taken)  
 🎥 真正的巴黎女友 (Real Girlfriends in Paris)  

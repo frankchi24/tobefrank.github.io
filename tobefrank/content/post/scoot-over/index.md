@@ -44,6 +44,7 @@ scoot 有滑動、快速移動的意思
 
 Sit over there 比較是「去坐那裡」的意思，別弄錯囉～
 
+{{< member_promote >}}
 
 With Footage From:  
 

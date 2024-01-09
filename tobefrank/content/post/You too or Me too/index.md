@@ -44,6 +44,7 @@ Good to see you的完整版是：
 
 **你答對了嗎？**
 
+{{< member_promote >}}
 
 **影片來源:**  
 🎥 即刻救援 (Taken)  

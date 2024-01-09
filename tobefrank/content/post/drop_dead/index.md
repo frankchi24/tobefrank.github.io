@@ -39,9 +39,7 @@ drop-dead simple 就是「非常單純」
 >> You are drop-dead gorgeous.  
 >> 你不是美，你是夭壽美。
 
-
-
-
+{{< member_promote >}}
 
 
 With Footage From:  

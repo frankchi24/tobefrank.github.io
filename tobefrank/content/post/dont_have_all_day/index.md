@@ -43,6 +43,7 @@ I have all day. 則完全相反，就是我有的是時間。
 
 不過現在大家口語中都會用一下，很有趣吧。
 
+{{< member_promote >}}
 
 With Footage From:  
 🎥 吉爾莫女孩 (Gilmore Girls)   

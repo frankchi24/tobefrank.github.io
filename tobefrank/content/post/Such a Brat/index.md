@@ -41,6 +41,8 @@ categories:
 
 都還滿有威力的。
 
+{{< member_promote >}}
+
 With Footage From:  
 🎥 獨領風騷 (Clueless)  
 🎥 六人行 (Friends)  

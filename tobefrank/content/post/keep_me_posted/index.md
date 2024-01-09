@@ -45,6 +45,7 @@ Keep me informed. 或是 Keep me updated. 也都很好。
 
 下次試試看嘍
 
+{{< member_promote >}}
 
 With Footage From:  
 🎥 廣告狂人 (Mad Men)  

@@ -57,6 +57,7 @@ Laugh out Loud 放聲大笑。
 如果你不同意，我喜歡你的不同意！
 
 
+{{< member_promote >}}
 
 With Footage From:  
 🎥 追愛總動員 (How I Met Your Mother)  

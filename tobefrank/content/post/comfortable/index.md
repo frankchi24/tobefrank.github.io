@@ -38,6 +38,7 @@ comfortable 我很舒服，就是「過得還可以、很寬裕，家境小康�
 
 都很好用喔~
 
+{{< member_promote >}}
 
 With Footage From:   
 🎥 超級亞洲富豪（Crazy Rich Asians）  

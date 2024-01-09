@@ -49,7 +49,7 @@ I could use 的語氣在 I need 和 I would like 中間。
 
 感覺一下，下次試試看囉！
 
->>**如果你也喜歡看電影學英文，想嘗試用更有效、有趣的方式學習，歡迎你加入我的[頻道會員](www.member.frankchi.com)。每個月用電影，學一百句好用英文句子。**
+{{< member_promote >}}
 
 With Footage From:  
 🎥 心靈捕手（Good Will Hunting)  

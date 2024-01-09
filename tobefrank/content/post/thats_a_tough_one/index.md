@@ -45,6 +45,8 @@ categories:
 - **That's a tough one.** 好問題（這問題有難度喔）
 - **That’s a very good question.** 真是好問題
 
+{{< member_promote >}}
+
 With Footage From:   
 🎥 麻辣女王（Miss Congeniality）  
 🎥 爆笑超市 （Superstore）  

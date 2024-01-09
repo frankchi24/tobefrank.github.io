@@ -33,6 +33,7 @@ On the same page 本來是指合唱團唱歌的時候，大家歌譜要唱同一
 
 後來就變成我們彼此有共識、意見相同的意思。很有趣吧～
 
+{{< member_promote >}}
 
 With Footage From:  
 🎥 紙牌屋 (House of Cards)  

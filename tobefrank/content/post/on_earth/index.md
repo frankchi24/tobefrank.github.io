@@ -59,6 +59,8 @@ What on earth 的 on earth 有「到底」「究竟」的意思。
 >> **What on earth am I watching?**  
 >> 我到底在看什麼？
 
+{{< member_promote >}}
+
 With Footage From:  
 🎥 追愛總動員 (How I Met Your Mother)  
 🎥 金色年代 (The Goldbergs )  
