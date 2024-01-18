@@ -69,3 +69,4 @@ categories:
 
 念念看“Betty had a bitter better butter.”
 如果你沒辨法在一秒內念完，念得很卡，你需要上正音課。
+測試！
