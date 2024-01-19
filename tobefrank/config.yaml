@@ -235,6 +235,7 @@ menu:
         - identifier: facebook
           name: Facebook
           url: https://www.facebook.com/tobefrank7777/reels
+          weight: -150
           params:
               newTab: true
               icon: icons8-facebook
@@ -242,6 +243,7 @@ menu:
         - identifier: youtube
           name: Youtube
           url: https://www.youtube.com/channel/UCWviCm7p7dnjmf37P2jpx4w
+          weight: -250
           params:
               newTab: true
               icon: icons8-youtube
@@ -249,12 +251,14 @@ menu:
         - identifier: tiktok
           name: Tiktok
           url: https://www.tiktok.com/@tobefrank0910
+          weight: -100
           params:
               newTab: true
               icon: icons8-tiktok
 
         - identifier: instagram
           name: Instagram
+          weight: -200
           url: https://www.instagram.com/tobefrank777/
           params:
               newTab: true
