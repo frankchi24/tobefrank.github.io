@@ -45,3 +45,9 @@ slug: "member-app"
 ### 在 iPad 上看是這樣：
 
 ![](member-app7.jpeg)
+
+
+想用電腦平板看嗎？教學在這邊：
+[【教學】怎麼用電腦看會員頻道](/member-desktop/)
+
+
