@@ -46,6 +46,7 @@ slug: "member-app"
 
 ![](member-app7.jpeg)
 
+各位會員有問題歡迎來信 hi@frankchi.com 或是用我的[官方帳號](https://lin.ee/0vIw5Wd)跟我說，我都會盡快回答的。
 
 想用電腦平板看嗎？教學在這邊：
 [【教學】怎麼用電腦看會員頻道](/member-desktop/)

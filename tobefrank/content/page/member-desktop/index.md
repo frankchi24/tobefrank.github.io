@@ -41,6 +41,8 @@ slug: "member-desktop"
 你可以去找訂閱之後系統寄給你的這封信，點擊看看這期的內容。這個方式不用創建帳號，每次只要輸入Email即可：
 ![](member-desktop6.png)
 
+各位會員有問題歡迎來信 hi@frankchi.com 或是用我的[官方帳號](https://lin.ee/0vIw5Wd)跟我說，我都會盡快回答的。
+
 
 
 
