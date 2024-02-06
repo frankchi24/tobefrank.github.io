@@ -3,7 +3,7 @@ title: 「給我看繩子」什麼意思？
 description: Show me the ropes
 slug: show-me-the-ropes
 date: 2024-02-06T20:34:08+08:00
-image: cover.jpg
+image: cover.jpeg
 HiddenInSingle: true  # This hides the cover image in single article view
 categories:
     - 有影片
