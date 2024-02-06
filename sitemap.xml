@@ -2,8 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://frankchi.com/categories/</loc>
+    <lastmod>2024-02-06T20:34:08+08:00</lastmod>
+  </url><url>
     <loc>https://frankchi.com/</loc>
-    <lastmod>2024-02-02T19:12:09+08:00</lastmod>
+    <lastmod>2024-02-06T20:34:08+08:00</lastmod>
+  </url><url>
+    <loc>https://frankchi.com/post/</loc>
+    <lastmod>2024-02-06T20:34:08+08:00</lastmod>
+  </url><url>
+    <loc>https://frankchi.com/p/show-me-the-ropes/</loc>
+    <lastmod>2024-02-06T20:34:08+08:00</lastmod>
+  </url><url>
+    <loc>https://frankchi.com/categories/%E6%9C%89%E5%BD%B1%E7%89%87/</loc>
+    <lastmod>2024-02-06T20:34:08+08:00</lastmod>
+  </url><url>
+    <loc>https://frankchi.com/categories/%E6%AF%8F%E6%97%A5%E4%B8%80%E5%8F%A5/</loc>
+    <lastmod>2024-02-06T20:34:08+08:00</lastmod>
+  </url><url>
+    <loc>https://frankchi.com/categories/%E7%9C%8B%E9%9B%BB%E5%BD%B1%E5%AD%B8%E8%8B%B1%E6%96%87/</loc>
+    <lastmod>2024-02-06T20:34:08+08:00</lastmod>
   </url><url>
     <loc>https://frankchi.com/page/</loc>
     <lastmod>2024-02-02T19:12:09+08:00</lastmod>
@@ -14,22 +32,7 @@
     <loc>https://frankchi.com/member-app/</loc>
     <lastmod>2024-02-02T18:48:43+08:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/categories/</loc>
-    <lastmod>2024-01-30T17:44:53+08:00</lastmod>
-  </url><url>
-    <loc>https://frankchi.com/post/</loc>
-    <lastmod>2024-01-30T17:44:53+08:00</lastmod>
-  </url><url>
     <loc>https://frankchi.com/p/naive/</loc>
-    <lastmod>2024-01-30T17:44:53+08:00</lastmod>
-  </url><url>
-    <loc>https://frankchi.com/categories/%E6%9C%89%E5%BD%B1%E7%89%87/</loc>
-    <lastmod>2024-01-30T17:44:53+08:00</lastmod>
-  </url><url>
-    <loc>https://frankchi.com/categories/%E6%AF%8F%E6%97%A5%E4%B8%80%E5%8F%A5/</loc>
-    <lastmod>2024-01-30T17:44:53+08:00</lastmod>
-  </url><url>
-    <loc>https://frankchi.com/categories/%E7%9C%8B%E9%9B%BB%E5%BD%B1%E5%AD%B8%E8%8B%B1%E6%96%87/</loc>
     <lastmod>2024-01-30T17:44:53+08:00</lastmod>
   </url><url>
     <loc>https://frankchi.com/p/this-is-me/</loc>
