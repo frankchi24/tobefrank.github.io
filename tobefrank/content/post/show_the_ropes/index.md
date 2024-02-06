@@ -32,7 +32,7 @@ Show somebody the ropes 就是「教人、帶人」的英文，常常是新環�
 
 你可以說：
 
->> **Can you show me the ropes.**     
+>> **Can you show me the ropes?**     
 >> 請你教我
 
 要教別人的時候，你則可以說
