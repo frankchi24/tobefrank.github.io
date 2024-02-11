@@ -84,10 +84,6 @@ Take baby steps.
 
 趕快去試試看吧！今天先講到這～ 
 
-想聽我分享更多學英文的方法，歡迎你參加我的[免費直播講座](https://bit.ly/49hQVda)。
-
-上次有報名沒跟到的，歡迎你再填一次表單。
-
 I'll see you next time.   
 Cheers,  
 Frank
