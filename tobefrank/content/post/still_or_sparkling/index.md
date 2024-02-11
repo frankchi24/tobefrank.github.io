@@ -82,6 +82,8 @@ Still or sparkling 真的是比較高級的餐廳會聽到。
 
 如果你有能力，也喜歡這家餐廳，不妨多點飲料和氣泡水當贊助。給點小費，賓主盡歡也不錯。
 
+{{< member_promote >}}
+
 With Footage From:  
 🎥 亞特蘭大 (Atlanta)  
 🎥 人生如戲 (Curb Your Enthusiasm)  

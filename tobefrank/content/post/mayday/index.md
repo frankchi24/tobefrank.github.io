@@ -57,6 +57,9 @@ Mayday Mayday Mayday
 
 希望大家永遠不會聽到這些字囉～
 
+{{< member_promote >}}
+
+
 With Footage From:  
 🎥 薩利機長：哈德遜奇蹟 (Sully)  
 🎥 格雷的五十道陰影：束縛 (Fifty Shades Darker)  
