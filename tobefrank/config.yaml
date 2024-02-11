@@ -4,7 +4,7 @@ theme: stack
 paginate: 15
 title: Frank 法蘭克
 # Change it to your Disqus shortname before using
-disqusShortname: hugo-theme-stack
+disqusShortname: frankchi
 
 # GA Tracking ID
 googleAnalytics: G-G56GF8R508
@@ -57,7 +57,7 @@ params:
         provider: disqus
 
         disqusjs:
-            shortname: frankchi
+            shortname:
             apiUrl:
             apiKey:
             admin:
