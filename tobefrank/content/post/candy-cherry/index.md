@@ -1,5 +1,5 @@
 ---
-title: 英文名字不要再叫Candy了
+title: 英文名字不要再叫 Candy 了
 description: 糖果、櫻桃都不要
 date: 2024-02-14T18:56:39+08:00
 slug: candy-cherry
