@@ -55,6 +55,14 @@ categories:
 >> This Valentine’s you will be alone.  
 >> 這個情人節，你自己過。
 
+後記：
+
+寫這篇的時候，我自己是很有感觸的。
+
+在網路上做內容，被罵不會少，心情很容易被影響。
+
+這句 sticks and stones 有鼓勵到我，希望你也有感。
+
 {{< member_promote >}}
 
 With Footage From:  
