@@ -46,11 +46,11 @@ PS. 這個手勢千萬不能在越南朋友比，意思完全不一樣...
 
 {{< member_promote >}}
 
-With Footage From:
-🎥 路西法 (Lucifer)
-🎥 歡樂診所 (Childrens Hospital)
-🎥 黑鏡 (Black Mirror)
-🎥 抓鬼大隊 (Ghostbusters)
-🎥 打不倒的金咪 (Unbreakable Kimmy Schmidt)
-🎥 冷板凳少棒隊 (The Benchwarmers)
+With Footage From:  
+🎥 路西法 (Lucifer)  
+🎥 歡樂診所 (Childrens Hospital)  
+🎥 黑鏡 (Black Mirror)  
+🎥 抓鬼大隊 (Ghostbusters)  
+🎥 打不倒的金咪 (Unbreakable Kimmy Schmidt)  
+🎥 冷板凳少棒隊 (The Benchwarmers)  
 
