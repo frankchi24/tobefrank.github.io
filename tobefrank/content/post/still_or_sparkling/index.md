@@ -8,7 +8,7 @@ HiddenInSingle: true  # This hides the cover image in single article view
 categories:
     - 有影片
     - 看電影學英文
-    - 每日一句
+    - 飲食篇
 ---
 
 {{< vimeo id="911943721" >}}
