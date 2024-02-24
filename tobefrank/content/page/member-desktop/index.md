@@ -8,7 +8,7 @@ slug: "member-desktop"
 
 ### 步驟一
 
-前往Gumroad[連結](gumroad.com)，點擊登入。
+前往Gumroad[連結](https://www.gumroad.com)，點擊登入。
 
 ![](member-desktop1.png)
 
