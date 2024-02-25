@@ -77,4 +77,4 @@ categories:
 
 希望這個故事有鼓勵到你。
 
-## 喜歡這篇文章嗎？
+{{< member_promote_article >}}
