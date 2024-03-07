@@ -46,7 +46,6 @@ slug: "member-app"
 
 ![](member-app7.jpeg)
 
-### 如果沒有看到課程，可能是風：
 
 各位會員有問題歡迎來信 hi@frankchi.com 或是用我的[官方帳號](https://lin.ee/0vIw5Wd)跟我說，我都會盡快回答的。
 
