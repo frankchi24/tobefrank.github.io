@@ -2,10 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://frankchi.com/categories/</loc>
-    <lastmod>2024-03-06T16:56:11+08:00</lastmod>
-  </url><url>
     <loc>https://frankchi.com/</loc>
+    <lastmod>2024-03-07T08:51:32+08:00</lastmod>
+  </url><url>
+    <loc>https://frankchi.com/page/</loc>
+    <lastmod>2024-03-07T08:51:32+08:00</lastmod>
+  </url><url>
+    <loc>https://frankchi.com/google-meet/</loc>
+    <lastmod>2024-03-07T08:51:32+08:00</lastmod>
+  </url><url>
+    <loc>https://frankchi.com/categories/</loc>
     <lastmod>2024-03-06T16:56:11+08:00</lastmod>
   </url><url>
     <loc>https://frankchi.com/post/</loc>
@@ -22,9 +28,6 @@
   </url><url>
     <loc>https://frankchi.com/p/apples-and-oranges/</loc>
     <lastmod>2024-03-06T16:56:11+08:00</lastmod>
-  </url><url>
-    <loc>https://frankchi.com/page/</loc>
-    <lastmod>2024-02-29T17:53:32+08:00</lastmod>
   </url><url>
     <loc>https://frankchi.com/seminar-sign-up/</loc>
     <lastmod>2024-02-29T17:53:32+08:00</lastmod>
