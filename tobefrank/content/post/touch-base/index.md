@@ -40,9 +40,9 @@ touch base 這句英文出自棒球。
 
 {{< member_promote >}}
 
-With Footage From:
-🎥 富家窮路（Schitt's Creek） 
-🎥 絕命毒師 (Breaking Bad)  
+With Footage From:  
+🎥 富家窮路（Schitt's Creek）  
+🎥 絕命毒師 (Breaking Bad)    
 🎥 絕命律師 ( Better Call Saul）  
 🎥 黑道家族 (The Sopranos)  
 🎥 紙牌屋 (House of Cards)  
