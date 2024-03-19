@@ -11,9 +11,7 @@ categories:
     - 每日一句
 ---
 
-{{< vimeo id="919945484" >}}
-
-
+{{< vimeo id="924925081" >}}
 
 Apples and oranges 就是講兩件事情「差很多、根本不能比。」
 
