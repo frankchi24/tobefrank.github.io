@@ -4,6 +4,7 @@ description:
 date: '2023-09-21'
 slug: "class_rule"
 image: "class_rule_cover.jpeg"
+draft: true
 ---
 
 
