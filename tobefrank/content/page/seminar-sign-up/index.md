@@ -13,7 +13,7 @@ image: cover.jpeg
  -->
 
 
-3/20 號這次報名截止囉，連結我已經發出了。如果還想來或沒收到連結，請你來信 hi@frankchi.com 或是用 Frank 的[官方帳號](https://lin.ee/0vIw5Wd)跟我說一下。
+3/30 號這次報名截止囉，連結我已經發出了。如果還想來或沒收到連結，請你來信 hi@frankchi.com 或是用 Frank 的[官方帳號](https://lin.ee/0vIw5Wd)跟我說一下。
 
 <!-- 這樣報名就成功了。講座前幾天 Frank 會把講座連結傳給你。再幫我收一下信喔。
 
