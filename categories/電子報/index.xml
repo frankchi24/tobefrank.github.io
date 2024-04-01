@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>電子報 on Frank 法蘭克</title>
-        <link>https://frankchi.com/categories/%E9%9B%BB%E5%AD%90%E5%A0%B1/</link>
+        <link>http://localhost:1313/categories/%E9%9B%BB%E5%AD%90%E5%A0%B1/</link>
         <description>Recent content in 電子報 on Frank 法蘭克</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-tw</language>
-        <lastBuildDate>Sun, 11 Feb 2024 23:54:15 +0800</lastBuildDate><atom:link href="https://frankchi.com/categories/%E9%9B%BB%E5%AD%90%E5%A0%B1/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 11 Feb 2024 23:54:15 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/%E9%9B%BB%E5%AD%90%E5%A0%B1/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>讓我們用 E-mail 保持聯絡吧！</title>
-        <link>https://frankchi.com/newsletter-subscribe/</link>
+        <link>http://localhost:1313/newsletter-subscribe/</link>
         <pubDate>Sun, 11 Feb 2024 23:54:15 +0800</pubDate>
         
-        <guid>https://frankchi.com/newsletter-subscribe/</guid>
-        <description>&lt;img src="https://frankchi.com/newsletter-subscribe/cover.jpeg" alt="Featured image of post 讓我們用 E-mail 保持聯絡吧！" /&gt;&lt;p&gt;哈囉 👋 我是 Frank～ 點到這個頁面，我想你可能有在 YouTube / Instagram / Facebook 等網站訂閱我看電影學英文頻道。謝謝你的支持、收看和追蹤！&lt;/p&gt;
+        <guid>http://localhost:1313/newsletter-subscribe/</guid>
+        <description>&lt;img src="http://localhost:1313/newsletter-subscribe/cover.jpeg" alt="Featured image of post 讓我們用 E-mail 保持聯絡吧！" /&gt;&lt;p&gt;哈囉 👋 我是 Frank～ 點到這個頁面，我想你可能有在 YouTube / Instagram / Facebook 等網站訂閱我看電影學英文頻道。謝謝你的支持、收看和追蹤！&lt;/p&gt;
 &lt;p&gt;我問你喔～&lt;/p&gt;
 &lt;p&gt;你會不會覺得，社群網站越來越多，看東西速度越來越快，但好像有印象的也越來越少？&lt;/p&gt;
 &lt;p&gt;每一個訂閱按下去，對創作者是莫大的支持、鼓勵。&lt;/p&gt;

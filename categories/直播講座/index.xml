@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>直播講座 on Frank 法蘭克</title>
-        <link>https://frankchi.com/categories/%E7%9B%B4%E6%92%AD%E8%AC%9B%E5%BA%A7/</link>
+        <link>http://localhost:1313/categories/%E7%9B%B4%E6%92%AD%E8%AC%9B%E5%BA%A7/</link>
         <description>Recent content in 直播講座 on Frank 法蘭克</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-tw</language>
-        <lastBuildDate>Sun, 25 Feb 2024 14:18:42 +0800</lastBuildDate><atom:link href="https://frankchi.com/categories/%E7%9B%B4%E6%92%AD%E8%AC%9B%E5%BA%A7/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 25 Feb 2024 14:18:42 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/%E7%9B%B4%E6%92%AD%E8%AC%9B%E5%BA%A7/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>學英文，年齡重要嗎？</title>
-        <link>https://frankchi.com/p/never-too-late/</link>
+        <link>http://localhost:1313/p/never-too-late/</link>
         <pubDate>Sun, 25 Feb 2024 14:18:42 +0800</pubDate>
         
-        <guid>https://frankchi.com/p/never-too-late/</guid>
-        <description>&lt;img src="https://frankchi.com/p/never-too-late/cover.jpg" alt="Featured image of post 學英文，年齡重要嗎？" /&gt;&lt;p&gt;這是我在講座中很常碰到的問題：&lt;/p&gt;
+        <guid>http://localhost:1313/p/never-too-late/</guid>
+        <description>&lt;img src="http://localhost:1313/p/never-too-late/cover.jpg" alt="Featured image of post 學英文，年齡重要嗎？" /&gt;&lt;p&gt;這是我在講座中很常碰到的問題：&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;blockquote&gt;
 &lt;ul&gt;
@@ -59,7 +59,7 @@
 &lt;p&gt;希望這個故事有鼓勵到你。&lt;/p&gt;
 &lt;h3&gt;喜歡這部影片嗎？&lt;/h3&gt;
 
-&lt;p&gt;如果覺得我的文章和影片對你有幫助，歡迎你&lt;a class=&#34;link&#34; href=&#34;https://frankchi.com/newsletter-subscribe/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;用 Email 訂閱我&lt;/a&gt;，讓我跟你分享學英文的好方法。&lt;/p&gt;
+&lt;p&gt;如果覺得我的文章和影片對你有幫助，歡迎你&lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/newsletter-subscribe/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;用 Email 訂閱我&lt;/a&gt;，讓我跟你分享學英文的好方法。&lt;/p&gt;
 
 
 &lt;p&gt;想見見我本人，聽我分享更多，歡迎你參加我的&lt;a class=&#34;link&#34; href=&#34;https://bit.ly/49hQVda&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;免費直播講座&lt;/a&gt;。
@@ -69,11 +69,11 @@
         </item>
         <item>
         <title>對學英文沒有興趣、沒有熱情怎麼辦？？</title>
-        <link>https://frankchi.com/p/passion-overrated/</link>
+        <link>http://localhost:1313/p/passion-overrated/</link>
         <pubDate>Fri, 09 Feb 2024 23:18:27 +0800</pubDate>
         
-        <guid>https://frankchi.com/p/passion-overrated/</guid>
-        <description>&lt;img src="https://frankchi.com/p/passion-overrated/cover.jpg" alt="Featured image of post 對學英文沒有興趣、沒有熱情怎麼辦？？" /&gt;&lt;p&gt;你會對學英文沒有熱情嗎？&lt;/p&gt;
+        <guid>http://localhost:1313/p/passion-overrated/</guid>
+        <description>&lt;img src="http://localhost:1313/p/passion-overrated/cover.jpg" alt="Featured image of post 對學英文沒有興趣、沒有熱情怎麼辦？？" /&gt;&lt;p&gt;你會對學英文沒有熱情嗎？&lt;/p&gt;
 &lt;p&gt;最近的直播講座，好多朋友報名的時候問我：怎麼提升學英文的熱情？&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;blockquote&gt;
@@ -126,11 +126,11 @@ Frank&lt;/p&gt;
         </item>
         <item>
         <title>【法蘭克老實說】為什麼不要追求「用英文思考」？</title>
-        <link>https://frankchi.com/p/think-in-english/</link>
+        <link>http://localhost:1313/p/think-in-english/</link>
         <pubDate>Wed, 07 Feb 2024 17:12:52 +0800</pubDate>
         
-        <guid>https://frankchi.com/p/think-in-english/</guid>
-        <description>&lt;img src="https://frankchi.com/p/think-in-english/cover.jpg" alt="Featured image of post 【法蘭克老實說】為什麼不要追求「用英文思考」？" /&gt;&lt;p&gt;Frank 最近辦了幾場直播，報名表單中收到上百個跟學英文有關的問題。&lt;/p&gt;
+        <guid>http://localhost:1313/p/think-in-english/</guid>
+        <description>&lt;img src="http://localhost:1313/p/think-in-english/cover.jpg" alt="Featured image of post 【法蘭克老實說】為什麼不要追求「用英文思考」？" /&gt;&lt;p&gt;Frank 最近辦了幾場直播，報名表單中收到上百個跟學英文有關的問題。&lt;/p&gt;
 &lt;p&gt;我發現有很多很棒的問題，都圍繞在大家學英文時的最常見的一些痛點。&lt;/p&gt;
 &lt;p&gt;我嘗試在直播中回答這些問題。不過講座時間有限，我真的回答不完啊。&lt;/p&gt;
 &lt;p&gt;所以我想要在我的電子報裡面回答，給正在學英文的你一些實質的建議。&lt;/p&gt;
