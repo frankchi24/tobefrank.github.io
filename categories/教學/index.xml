@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>教學 on Frank 法蘭克</title>
+        <link>http://localhost:1313/categories/%E6%95%99%E5%AD%B8/</link>
+        <description>Recent content in 教學 on Frank 法蘭克</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-tw</language>
+        <lastBuildDate>Tue, 02 Apr 2024 15:03:53 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/%E6%95%99%E5%AD%B8/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>【揭秘】 Frank 怎麼做電影的逐字稿？</title>
+        <link>http://localhost:1313/p/how-to-script/</link>
+        <pubDate>Tue, 02 Apr 2024 15:03:53 +0800</pubDate>
+        
+        <guid>http://localhost:1313/p/how-to-script/</guid>
+        <description>&lt;p&gt;看電影學英文要有逐字稿。&lt;/p&gt;
+&lt;p&gt;逐字稿跟字幕有差嗎？&lt;/p&gt;
+&lt;p&gt;有的。&lt;/p&gt;
+&lt;p&gt;字幕在螢幕上，一閃就過。逐字稿存起來或印出來，可以讓你看到實際上的文字，會讓你學習更有效果，更能搜尋、筆記、實作。&lt;/p&gt;
+&lt;p&gt;今天這篇會員專屬教學，想教你怎麼做出像我上課發的逐字稿。&lt;/p&gt;
+&lt;h3 id=&#34;1-找到字幕檔&#34;&gt;1. 找到字幕檔&lt;/h3&gt;
+&lt;p&gt;首先你需要去找這部電影或美劇的字幕檔。&lt;/p&gt;
+&lt;p&gt;我滿推薦&lt;a class=&#34;link&#34; href=&#34;https://assrt.net/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;射手網&lt;/a&gt;，這個網站有非常多雙語字幕檔，都是免費的。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/how-to-script/how-to-script1.png&#34;
+	width=&#34;2288&#34;
+	height=&#34;1196&#34;
+	srcset=&#34;http://localhost:1313/p/how-to-script/how-to-script1_hu78f9617fc89431f56d8181360f25bd24_315190_480x0_resize_box_3.png 480w, http://localhost:1313/p/how-to-script/how-to-script1_hu78f9617fc89431f56d8181360f25bd24_315190_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;191&#34;
+		data-flex-basis=&#34;459px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;你可以直接搜尋大部分的美劇和電影。&lt;/p&gt;
+&lt;p&gt;用 Season （季）或是 Episode （集）這個兩個關鍵字來搜尋想看的影集和集數。比如說第一季第五集就是 Season 1 Episode 5。有時候則會用 S01E05 這樣的縮寫來命名。如果只有 S01 就是整個第一季的字幕。&lt;/p&gt;
+&lt;p&gt;比如說我要找 追愛總動員 How I Met Your Mother 這部影集的第一季好了，我就會用 How I Met Your Mother S01 這樣的關鍵字去搜尋。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/how-to-script/how-to-script2.png&#34;
+	width=&#34;2294&#34;
+	height=&#34;1208&#34;
+	srcset=&#34;http://localhost:1313/p/how-to-script/how-to-script2_hu6261a4a866fafe01fa77dfc60a45e567_493763_480x0_resize_box_3.png 480w, http://localhost:1313/p/how-to-script/how-to-script2_hu6261a4a866fafe01fa77dfc60a45e567_493763_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;189&#34;
+		data-flex-basis=&#34;455px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;網路上的字幕檔大概分幾種，.srt 檔、 .sub 檔或是 .SSA檔。&lt;strong&gt;我建議你選擇 .srt 的檔案&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/how-to-script/how-to-script3.png&#34;
+	width=&#34;2158&#34;
+	height=&#34;1188&#34;
+	srcset=&#34;http://localhost:1313/p/how-to-script/how-to-script3_hud409cbf2138b092fcf4cce924b3970e0_455149_480x0_resize_box_3.png 480w, http://localhost:1313/p/how-to-script/how-to-script3_hud409cbf2138b092fcf4cce924b3970e0_455149_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;181&#34;
+		data-flex-basis=&#34;435px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;字幕請選擇：&lt;strong&gt;「繁英或簡英、雙語」等關鍵字&lt;/strong&gt;。如果只有「繁」或「簡」，那就只有中文字幕。&lt;/p&gt;
+&lt;p&gt;電影通常沒有集數，只有年份，兩岸港台片名翻譯差異大，你可以用英文 + 年份搜尋。高年級實習生，我就會用 The Intern (2015) 去搜尋&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/how-to-script/how-to-script5-1.png&#34;
+	width=&#34;2292&#34;
+	height=&#34;1208&#34;
+	srcset=&#34;http://localhost:1313/p/how-to-script/how-to-script5-1_hu160c69354e19689c88aaddcdec3cb5b0_501560_480x0_resize_box_3.png 480w, http://localhost:1313/p/how-to-script/how-to-script5-1_hu160c69354e19689c88aaddcdec3cb5b0_501560_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;189&#34;
+		data-flex-basis=&#34;455px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;下載下來很多檔案。你可以觀察一下結尾的關鍵字。要選 .srt 檔名的。&lt;/p&gt;
+&lt;p&gt;cht&amp;amp;eng 是繁體中文和英文的雙語字幕，chs&amp;amp;eng 則是簡中和英文的雙語字幕。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/how-to-script/how-to-script5.png&#34;
+	width=&#34;2282&#34;
+	height=&#34;1078&#34;
+	srcset=&#34;http://localhost:1313/p/how-to-script/how-to-script5_hu85b9725fe79793c6d65ccf4b86d96952_443995_480x0_resize_box_3.png 480w, http://localhost:1313/p/how-to-script/how-to-script5_hu85b9725fe79793c6d65ccf4b86d96952_443995_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;211&#34;
+		data-flex-basis=&#34;508px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;2-aegissub&#34;&gt;2. AegisSub&lt;/h3&gt;
+&lt;p&gt;下載好字幕檔之後，你需要使用 &lt;a class=&#34;link&#34; href=&#34;https://aegisub.org/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;AegisSub&lt;/a&gt; 這個軟體，這是一個字幕工作者（字幕組）常用的軟體工具，它可以幫你把字幕檔輸出成純文字檔。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/how-to-script/how-to-script6.png&#34;
+	width=&#34;2232&#34;
+	height=&#34;1086&#34;
+	srcset=&#34;http://localhost:1313/p/how-to-script/how-to-script6_huc154b06fd13ba44c1f74ac3a3a06088c_306745_480x0_resize_box_3.png 480w, http://localhost:1313/p/how-to-script/how-to-script6_huc154b06fd13ba44c1f74ac3a3a06088c_306745_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;205&#34;
+		data-flex-basis=&#34;493px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;看你是用 Windows 或是 Mac 的電腦。在這個&lt;a class=&#34;link&#34; href=&#34;https://aegisub.org/downloads/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;網址&lt;/a&gt;找到你的電腦專用的安裝檔。&lt;/p&gt;
+&lt;p&gt;打開之後選擇 Open Subtitles 開啟字幕，把剛才下載的字幕打開。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/how-to-script/how-to-script7.png&#34;
+	width=&#34;2294&#34;
+	height=&#34;1490&#34;
+	srcset=&#34;http://localhost:1313/p/how-to-script/how-to-script7_hu15bb6b8e9c33e1ae89d84a4e6ea5670a_1113115_480x0_resize_box_3.png 480w, http://localhost:1313/p/how-to-script/how-to-script7_hu15bb6b8e9c33e1ae89d84a4e6ea5670a_1113115_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;153&#34;
+		data-flex-basis=&#34;369px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;開啟字幕檔之後，你可以 Export as 輸出。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/how-to-script/how-to-script8.png&#34;
+	width=&#34;2294&#34;
+	height=&#34;1490&#34;
+	srcset=&#34;http://localhost:1313/p/how-to-script/how-to-script8_hu15bb6b8e9c33e1ae89d84a4e6ea5670a_2076374_480x0_resize_box_3.png 480w, http://localhost:1313/p/how-to-script/how-to-script8_hu15bb6b8e9c33e1ae89d84a4e6ea5670a_2076374_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;153&#34;
+		data-flex-basis=&#34;369px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;輸出時有幾個選項要注意：&lt;/p&gt;
+&lt;p&gt;Clean Tag 會把字幕檔自帶的時間軸給去掉，為了讓版面清楚，我通常都是去掉的。&lt;/p&gt;
+&lt;p&gt;Unicode 很多字幕檔案編碼不太一樣，建議你繁體簡體檔案一律選擇 Unicode (萬國碼）&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/how-to-script/how-to-script7.png&#34;
+	width=&#34;2294&#34;
+	height=&#34;1490&#34;
+	srcset=&#34;http://localhost:1313/p/how-to-script/how-to-script7_hu15bb6b8e9c33e1ae89d84a4e6ea5670a_1113115_480x0_resize_box_3.png 480w, http://localhost:1313/p/how-to-script/how-to-script7_hu15bb6b8e9c33e1ae89d84a4e6ea5670a_1113115_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;153&#34;
+		data-flex-basis=&#34;369px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;這樣的字幕輸出之後用 Word 或一般的文字處理器打開，其實就可以用了。只是很醜，沒有斷行，中文英文在同一行。所以我通常會再加工整理一下&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/how-to-script/how-to-script8.png&#34;
+	width=&#34;2294&#34;
+	height=&#34;1490&#34;
+	srcset=&#34;http://localhost:1313/p/how-to-script/how-to-script8_hu15bb6b8e9c33e1ae89d84a4e6ea5670a_2076374_480x0_resize_box_3.png 480w, http://localhost:1313/p/how-to-script/how-to-script8_hu15bb6b8e9c33e1ae89d84a4e6ea5670a_2076374_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;153&#34;
+		data-flex-basis=&#34;369px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;3-bbedit&#34;&gt;3. Bbedit&lt;/h3&gt;
+&lt;p&gt;這邊下載 BBEdit 這個文字編輯器，這個軟體的幾個功能很好用。首先你可以打開 BBEdit 然後開啟輸出的文字檔（檔名 .txt)&lt;/p&gt;
+&lt;p&gt;有了文字檔之後，接下來我們需要整理一下。如果你覺得繁體或簡體看不習慣，你可以複製全文之後到這個網站轉成繁體或簡體中文。&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://opencc.byvoid.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://opencc.byvoid.com/&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;英文在上面的講義做法&#34;&gt;英文在上面的講義做法&lt;/h3&gt;
+&lt;p&gt;這樣的內容是沒有斷行的，這邊想教你怎麼樣把它整理得漂亮一點。&lt;/p&gt;
+&lt;p&gt;如果你想要英文在上面，中文在下。我幾年前研究出了不寫程式做到的方式，只是比較繁瑣，請確實按照步驟做：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;複製所有文字，貼到這個網站，按 Reverse Lines 倒反所有文字順序&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;reverse line
+&lt;a class=&#34;link&#34; href=&#34;https://www.miniwebtool.com/reverse-lines/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.miniwebtool.com/reverse-lines/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;把倒反後的逐字稿，貼回Bbedit，取帶之前沒有倒反的文字。&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;
+&lt;p&gt;在 Bbedit 文字 (text) 的選項選擇 suffix line 並增加斷行符號
+text -&amp;gt;  suffix line
+/n&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;搜尋取代逐字稿中的\N
+search -&amp;gt; find
+replace /N with /n&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;再回到 Reverse Lines 倒反所有文字順序&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;如果你不在乎中文在上還是英文在上，那你可以跳過 1 和 4 步。&lt;/p&gt;
+&lt;p&gt;這樣就完成囉，你可以貼到 Word ，就是很好的逐字稿了。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>教你製作精美電影對白 - 中英對照講義</title>
+        <link>http://localhost:1313/p/make-movie-script/</link>
+        <pubDate>Sat, 03 Feb 2024 23:35:00 +0800</pubDate>
+        
+        <guid>http://localhost:1313/p/make-movie-script/</guid>
+        <description>&lt;img src="http://localhost:1313/cover.jpg" alt="Featured image of post 教你製作精美電影對白 - 中英對照講義" /&gt;&lt;p&gt;看到這篇你賺到，因為我的作法可以幫你做出漂亮的中英逐字稿。而且你想要一行英文再中文，先一行中文再一行英文都可以。&lt;/p&gt;
+&lt;h3 id=&#34;1-找到字幕檔&#34;&gt;1. 找到字幕檔&lt;/h3&gt;
+&lt;p&gt;首先你需要去找你喜歡這部電影或美劇的字幕檔。&lt;/p&gt;
+&lt;p&gt;我滿推薦射手網，這個網站有非常多繁簡字幕檔，都是免費的。&lt;/p&gt;
+&lt;p&gt;比如說我要找 How I Met Your Mother 追愛總動員 這部影集的第一季第一集好了，我會去裡面搜尋字幕檔。&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://assrt.net/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://assrt.net/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;網路上的字幕檔大概分兩種，.srt 和 .sub 檔。我建議你選擇 .srt 的檔案&lt;/p&gt;
+&lt;p&gt;你可以用 Season （季）或是 Episode 這個兩個關鍵字來搜尋想看的影集和集數。比如說第一季第五集就是 Season 1 Episode 5。有時候字幕組會用 S01E05 這樣的縮寫來命名。&lt;/p&gt;
+&lt;p&gt;電影通常沒有集數，只有年份，兩岸用語差異大，你可以用英文 + 年份搜尋。&lt;/p&gt;
+&lt;h3 id=&#34;2-aegissub&#34;&gt;2. AegisSub&lt;/h3&gt;
+&lt;p&gt;下載好字幕檔之後，你需要使用 AegisSub，這是是一個字幕翻譯人員常用的軟體工具，它可以幫你把字幕檔輸出成純文字檔。這邊的示範我會用 Mac 版本示範。&lt;/p&gt;
+&lt;p&gt;看你是用 Windows 或是 Mac 在這個網址找到你的電腦專用的安裝檔：
+&lt;a class=&#34;link&#34; href=&#34;https://aegisub.org/downloads/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://aegisub.org/downloads/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;打開之後選擇 Export 輸出
+有幾個選項要注意：
+Clean Tag 會把字幕檔自帶的時間軸給去掉，為了讓版面清楚，我通常都是去掉的。
+Unicode 很多字幕檔案編碼不太一樣，建議你中英文檔案一律選擇Unicode&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>電影英文完全指南 on Frank 法蘭克</title>
+        <link>http://localhost:1313/categories/%E9%9B%BB%E5%BD%B1%E8%8B%B1%E6%96%87%E5%AE%8C%E5%85%A8%E6%8C%87%E5%8D%97/</link>
+        <description>Recent content in 電影英文完全指南 on Frank 法蘭克</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-tw</language>
+        <lastBuildDate>Sat, 03 Feb 2024 23:35:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/%E9%9B%BB%E5%BD%B1%E8%8B%B1%E6%96%87%E5%AE%8C%E5%85%A8%E6%8C%87%E5%8D%97/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>教你製作精美電影對白 - 中英對照講義</title>
+        <link>http://localhost:1313/p/make-movie-script/</link>
+        <pubDate>Sat, 03 Feb 2024 23:35:00 +0800</pubDate>
+        
+        <guid>http://localhost:1313/p/make-movie-script/</guid>
+        <description>&lt;img src="http://localhost:1313/cover.jpg" alt="Featured image of post 教你製作精美電影對白 - 中英對照講義" /&gt;&lt;p&gt;看到這篇你賺到，因為我的作法可以幫你做出漂亮的中英逐字稿。而且你想要一行英文再中文，先一行中文再一行英文都可以。&lt;/p&gt;
+&lt;h3 id=&#34;1-找到字幕檔&#34;&gt;1. 找到字幕檔&lt;/h3&gt;
+&lt;p&gt;首先你需要去找你喜歡這部電影或美劇的字幕檔。&lt;/p&gt;
+&lt;p&gt;我滿推薦射手網，這個網站有非常多繁簡字幕檔，都是免費的。&lt;/p&gt;
+&lt;p&gt;比如說我要找 How I Met Your Mother 追愛總動員 這部影集的第一季第一集好了，我會去裡面搜尋字幕檔。&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://assrt.net/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://assrt.net/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;網路上的字幕檔大概分兩種，.srt 和 .sub 檔。我建議你選擇 .srt 的檔案&lt;/p&gt;
+&lt;p&gt;你可以用 Season （季）或是 Episode 這個兩個關鍵字來搜尋想看的影集和集數。比如說第一季第五集就是 Season 1 Episode 5。有時候字幕組會用 S01E05 這樣的縮寫來命名。&lt;/p&gt;
+&lt;p&gt;電影通常沒有集數，只有年份，兩岸用語差異大，你可以用英文 + 年份搜尋。&lt;/p&gt;
+&lt;h3 id=&#34;2-aegissub&#34;&gt;2. AegisSub&lt;/h3&gt;
+&lt;p&gt;下載好字幕檔之後，你需要使用 AegisSub，這是是一個字幕翻譯人員常用的軟體工具，它可以幫你把字幕檔輸出成純文字檔。這邊的示範我會用 Mac 版本示範。&lt;/p&gt;
+&lt;p&gt;看你是用 Windows 或是 Mac 在這個網址找到你的電腦專用的安裝檔：
+&lt;a class=&#34;link&#34; href=&#34;https://aegisub.org/downloads/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://aegisub.org/downloads/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;打開之後選擇 Export 輸出
+有幾個選項要注意：
+Clean Tag 會把字幕檔自帶的時間軸給去掉，為了讓版面清楚，我通常都是去掉的。
+Unicode 很多字幕檔案編碼不太一樣，建議你中英文檔案一律選擇Unicode&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
