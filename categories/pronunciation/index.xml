@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>發音 on Frank 法蘭克</title>
-        <link>http://localhost:1313/categories/pronunciation/</link>
+        <link>https://frankchi.com/categories/pronunciation/</link>
         <description>Recent content in 發音 on Frank 法蘭克</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-tw</language>
-        <lastBuildDate>Tue, 21 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/pronunciation/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 21 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://frankchi.com/categories/pronunciation/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>發音訓練是什麼？</title>
-        <link>http://localhost:1313/p/accent_training_intro/</link>
+        <link>https://frankchi.com/p/accent_training_intro/</link>
         <pubDate>Tue, 21 Dec 2021 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/accent_training_intro/</guid>
-        <description>&lt;img src="http://localhost:1313/p/accent_training_intro/cover.jpg" alt="Featured image of post 發音訓練是什麼？" /&gt;&lt;h3 id=&#34;發音不好沒關係為什麼我要上正音課&#34;&gt;發音不好沒關係？為什麼我要上正音課？&lt;/h3&gt;
+        <guid>https://frankchi.com/p/accent_training_intro/</guid>
+        <description>&lt;img src="https://frankchi.com/p/accent_training_intro/cover.jpg" alt="Featured image of post 發音訓練是什麼？" /&gt;&lt;h3 id=&#34;發音不好沒關係為什麼我要上正音課&#34;&gt;發音不好沒關係？為什麼我要上正音課？&lt;/h3&gt;
 &lt;blockquote&gt;
 &lt;p&gt;一個外國人跑去水餃店說：&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;「我要去睡覺。」&lt;/strong&gt;&lt;/p&gt;
@@ -35,10 +35,10 @@
 &lt;p&gt;我要給你一個標準：如果你的發音讓英文老師聽了，常常要再三確認你在講什麼。或外國人常常誤會或恍然大悟”oh you meant …”「喔&amp;hellip;你的意思是」就代表你的發音會影響溝通，就需要「正音」”Accent Training”。&lt;/p&gt;
 &lt;p&gt;另一個標準：如果你常常覺得因為發音不好，不敢講英文。那就代表你對你的發音「沒自信」。讓自己發音變好、敢講、敢說、有自信，語言能力才會更快進步。這也是加強發音的很大理由。&lt;/p&gt;
 &lt;p&gt;如果你是有一定程度的英語學習者。學習碰到瓶頸，覺得自己進步很慢。你可以試試看，把學習重點放在發音上，你會發現，又開始進步了。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/accent_training_intro/cover.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://frankchi.com/p/accent_training_intro/cover.jpg&#34;
 	width=&#34;1920&#34;
 	height=&#34;1097&#34;
-	srcset=&#34;http://localhost:1313/p/accent_training_intro/cover_huba6f50cbf64ca8367ebb54bc91648f67_585662_480x0_resize_q75_box.jpg 480w, http://localhost:1313/p/accent_training_intro/cover_huba6f50cbf64ca8367ebb54bc91648f67_585662_1024x0_resize_q75_box.jpg 1024w&#34;
+	srcset=&#34;https://frankchi.com/p/accent_training_intro/cover_huba6f50cbf64ca8367ebb54bc91648f67_585662_480x0_resize_q75_box.jpg 480w, https://frankchi.com/p/accent_training_intro/cover_huba6f50cbf64ca8367ebb54bc91648f67_585662_1024x0_resize_q75_box.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Image 1&#34;
