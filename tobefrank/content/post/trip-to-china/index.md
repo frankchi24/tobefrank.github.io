@@ -25,7 +25,7 @@ categories:
 
 代表這個餐廳超越之前的體驗，把我心中的第一：添好運，毀了，不會想再去吃的。是一句很可以學的讚美。
 
-另外一家烤鴨店[「京炙坊」](https://hk.trip.com/travel-guide/foods/shenzhen-26-restaurant/jingzhifang-57318384)則是我吃過最優秀的烤鴨。烤鴨的脆皮放在起司和酥脆餅乾，上面再點上魚子醬！ So exquistie (精緻) 吃烤鴨最討厭的的就是麵皮常常會黏在一起。可能是我沒見過世面，這裡麵皮麵皮之間都是有烘焙紙分隔的，超好撕。
+另外一家烤鴨店[「京炙坊」](https://hk.trip.com/travel-guide/foods/shenzhen-26-restaurant/jingzhifang-57318384)則是我吃過最優秀的烤鴨。烤鴨的脆皮放在起司和酥脆餅乾，上面再點上魚子醬！ So exquisite (精緻) 吃烤鴨最討厭的的就是麵皮常常會黏在一起。可能是我沒見過世面，這裡麵皮麵皮之間都是有烘焙紙分隔的，超好撕。
 
 ![](烤鴨.jpeg)![](烤鴨2.jpeg)
 
