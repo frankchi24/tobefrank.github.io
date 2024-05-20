@@ -16,8 +16,9 @@ image: cover.jpeg
 
 2. [對學英文沒有興趣、沒有熱情怎麼辦？](/p/passion-overrated/)
 
-2. [學英文，年齡重要嗎？](/p/never-too-late/)
+3. [學英文，年齡重要嗎？](/p/never-too-late/)
 
+4. [三招讓你背單字更快、更好記！](/p/how_to_vocab/)
 
 
 <!-- ---

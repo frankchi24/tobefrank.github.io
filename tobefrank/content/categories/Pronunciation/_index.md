@@ -7,4 +7,3 @@ style:
     background: "#ffce64"
     color: "#000"
 ---
-{{<  benchmark  >}}
