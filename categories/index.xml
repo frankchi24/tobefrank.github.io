@@ -6,7 +6,31 @@
         <description>Recent content in Categories on Frank 法蘭克</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-tw</language>
-        <lastBuildDate>Tue, 07 May 2024 16:02:45 +0800</lastBuildDate><atom:link href="https://frankchi.com/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 20 May 2024 12:55:07 +0800</lastBuildDate><atom:link href="https://frankchi.com/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Q&amp;A回答</title>
+        <link>https://frankchi.com/categories/qa%E5%9B%9E%E7%AD%94/</link>
+        <pubDate>Mon, 20 May 2024 12:55:07 +0800</pubDate>
+        
+        <guid>https://frankchi.com/categories/qa%E5%9B%9E%E7%AD%94/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>法蘭克老實說</title>
+        <link>https://frankchi.com/categories/%E6%B3%95%E8%98%AD%E5%85%8B%E8%80%81%E5%AF%A6%E8%AA%AA/</link>
+        <pubDate>Mon, 20 May 2024 12:55:07 +0800</pubDate>
+        
+        <guid>https://frankchi.com/categories/%E6%B3%95%E8%98%AD%E5%85%8B%E8%80%81%E5%AF%A6%E8%AA%AA/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>直播講座</title>
+        <link>https://frankchi.com/categories/%E7%9B%B4%E6%92%AD%E8%AC%9B%E5%BA%A7/</link>
+        <pubDate>Mon, 20 May 2024 12:55:07 +0800</pubDate>
+        
+        <guid>https://frankchi.com/categories/%E7%9B%B4%E6%92%AD%E8%AC%9B%E5%BA%A7/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>有影片</title>
         <link>https://frankchi.com/categories/%E6%9C%89%E5%BD%B1%E7%89%87/</link>
         <pubDate>Tue, 07 May 2024 16:02:45 +0800</pubDate>
@@ -60,30 +84,6 @@
         <pubDate>Wed, 20 Mar 2024 00:59:42 +0800</pubDate>
         
         <guid>https://frankchi.com/categories/%E4%BD%A0%E5%95%8F%E6%88%91%E7%AD%94/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Q&amp;A回答</title>
-        <link>https://frankchi.com/categories/qa%E5%9B%9E%E7%AD%94/</link>
-        <pubDate>Sun, 25 Feb 2024 14:18:42 +0800</pubDate>
-        
-        <guid>https://frankchi.com/categories/qa%E5%9B%9E%E7%AD%94/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>法蘭克老實說</title>
-        <link>https://frankchi.com/categories/%E6%B3%95%E8%98%AD%E5%85%8B%E8%80%81%E5%AF%A6%E8%AA%AA/</link>
-        <pubDate>Sun, 25 Feb 2024 14:18:42 +0800</pubDate>
-        
-        <guid>https://frankchi.com/categories/%E6%B3%95%E8%98%AD%E5%85%8B%E8%80%81%E5%AF%A6%E8%AA%AA/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>直播講座</title>
-        <link>https://frankchi.com/categories/%E7%9B%B4%E6%92%AD%E8%AC%9B%E5%BA%A7/</link>
-        <pubDate>Sun, 25 Feb 2024 14:18:42 +0800</pubDate>
-        
-        <guid>https://frankchi.com/categories/%E7%9B%B4%E6%92%AD%E8%AC%9B%E5%BA%A7/</guid>
         <description></description>
         </item>
         <item>
@@ -148,10 +148,15 @@
         <pubDate>Tue, 21 Dec 2021 00:00:00 +0000</pubDate>
         
         <guid>https://frankchi.com/categories/pronunciation/</guid>
-        <description>&lt;img src="https://frankchi.com/categories/pronunciation/cover_pronunciation.jpg" alt="Featured image of post 發音" /&gt;  &lt;script type=&#34;text/javascript&#34;&gt; var _paq = _paq || []; (function(){ if(window.apScriptInserted) return; _paq.push([&#39;clientToken&#39;, &#39;P%2bsIjEMd6oQ%3d&#39;]); var d=document, g=d.createElement(&#39;script&#39;), s=d.getElementsByTagName(&#39;script&#39;)[0]; g.type=&#39;text/javascript&#39;; g.async=true; g.defer=true; g.src=&#39;https://prod.benchmarkemail.com/tracker.bundle.js&#39;; s.parentNode.insertBefore(g,s); window.apScriptInserted=true;})(); &lt;/script&gt;  
-&lt;script type=&#34;text/javascript&#34; id=&#34;lbscript1738026&#34; src=&#34;https://lb.benchmarkemail.com//tw/code/lbformnew.js?mFcQnoBFKMQXOEOdGeOsABcwvUXpuXVDIWv8LIeHrPg%252BgKa%252BHtwNPw%253D%253D&#34;&gt;&lt;/script&gt;&lt;noscript&gt;Please enable JavaScript &lt;br /&gt;&lt;/noscript&gt;
-
-</description>
+        <description>&lt;img src="https://frankchi.com/categories/pronunciation/cover_pronunciation.jpg" alt="Featured image of post 發音" /&gt;</description>
+        </item>
+        <item>
+        <title>有影片</title>
+        <link>https://frankchi.com/categories/videos/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://frankchi.com/categories/videos/</guid>
+        <description>&lt;img src="https://frankchi.com/categories/videos/cover.jpeg" alt="Featured image of post 有影片" /&gt;</description>
         </item>
         
     </channel>
