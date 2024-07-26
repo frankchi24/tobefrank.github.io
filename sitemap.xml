@@ -2,10 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://frankchi.com/categories/</loc>
-    <lastmod>2024-05-20T12:55:07+08:00</lastmod>
-  </url><url>
     <loc>https://frankchi.com/</loc>
+    <lastmod>2024-07-26T19:57:58+08:00</lastmod>
+  </url><url>
+    <loc>https://frankchi.com/page/</loc>
+    <lastmod>2024-07-26T19:57:58+08:00</lastmod>
+  </url><url>
+    <loc>https://frankchi.com/about_me/</loc>
+    <lastmod>2024-07-26T19:57:58+08:00</lastmod>
+  </url><url>
+    <loc>https://frankchi.com/categories/</loc>
     <lastmod>2024-05-20T12:55:07+08:00</lastmod>
   </url><url>
     <loc>https://frankchi.com/post/</loc>
@@ -72,9 +78,6 @@
     <lastmod>2024-03-19T17:09:41+08:00</lastmod>
   </url><url>
     <loc>https://frankchi.com/google-meet/</loc>
-    <lastmod>2024-03-07T08:51:32+08:00</lastmod>
-  </url><url>
-    <loc>https://frankchi.com/page/</loc>
     <lastmod>2024-03-07T08:51:32+08:00</lastmod>
   </url><url>
     <loc>https://frankchi.com/p/apples-and-oranges/</loc>
@@ -253,9 +256,6 @@
   </url><url>
     <loc>https://frankchi.com/categories/books/</loc>
     <lastmod>2022-02-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://frankchi.com/about_me/</loc>
-    <lastmod>2021-12-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://frankchi.com/categories/english_learning/</loc>
     <lastmod>2021-12-21T00:00:00+00:00</lastmod>
