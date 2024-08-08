@@ -9,8 +9,6 @@ categories:
     - 法蘭克老實說
     - Q&A回答
 ---
-https://vidsrc.pro/embed/tv/tt14500082/1/1
-https://vidsrc.pro/embed/movie/tt4501244
 
 >> **Jack：** 我想問有沒有學單字的工具/方法/心得分享？要學幾千字但沒工具/方法感覺浪費時間。謝謝Frank!
 >>  
