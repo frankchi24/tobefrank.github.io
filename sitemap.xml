@@ -2,20 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://frankchi.com/categories/</loc>
+    <lastmod>2024-08-13T19:21:38+08:00</lastmod>
+  </url><url>
     <loc>https://frankchi.com/</loc>
-    <lastmod>2024-07-26T19:57:58+08:00</lastmod>
+    <lastmod>2024-08-13T19:21:38+08:00</lastmod>
+  </url><url>
+    <loc>https://frankchi.com/post/</loc>
+    <lastmod>2024-08-13T19:21:38+08:00</lastmod>
+  </url><url>
+    <loc>https://frankchi.com/categories/%E6%9C%89%E5%BD%B1%E7%89%87/</loc>
+    <lastmod>2024-08-13T19:21:38+08:00</lastmod>
+  </url><url>
+    <loc>https://frankchi.com/p/bigger-fish-to-fry/</loc>
+    <lastmod>2024-08-13T19:21:38+08:00</lastmod>
+  </url><url>
+    <loc>https://frankchi.com/categories/%E6%AF%8F%E6%97%A5%E4%B8%80%E5%8F%A5/</loc>
+    <lastmod>2024-08-13T19:21:38+08:00</lastmod>
+  </url><url>
+    <loc>https://frankchi.com/categories/%E7%9C%8B%E9%9B%BB%E5%BD%B1%E5%AD%B8%E8%8B%B1%E6%96%87/</loc>
+    <lastmod>2024-08-13T19:21:38+08:00</lastmod>
   </url><url>
     <loc>https://frankchi.com/page/</loc>
     <lastmod>2024-07-26T19:57:58+08:00</lastmod>
   </url><url>
     <loc>https://frankchi.com/about_me/</loc>
     <lastmod>2024-07-26T19:57:58+08:00</lastmod>
-  </url><url>
-    <loc>https://frankchi.com/categories/</loc>
-    <lastmod>2024-05-20T12:55:07+08:00</lastmod>
-  </url><url>
-    <loc>https://frankchi.com/post/</loc>
-    <lastmod>2024-05-20T12:55:07+08:00</lastmod>
   </url><url>
     <loc>https://frankchi.com/categories/qa%E5%9B%9E%E7%AD%94/</loc>
     <lastmod>2024-05-20T12:55:07+08:00</lastmod>
@@ -28,15 +40,6 @@
   </url><url>
     <loc>https://frankchi.com/categories/%E7%9B%B4%E6%92%AD%E8%AC%9B%E5%BA%A7/</loc>
     <lastmod>2024-05-20T12:55:07+08:00</lastmod>
-  </url><url>
-    <loc>https://frankchi.com/categories/%E6%9C%89%E5%BD%B1%E7%89%87/</loc>
-    <lastmod>2024-05-07T16:02:45+08:00</lastmod>
-  </url><url>
-    <loc>https://frankchi.com/categories/%E6%AF%8F%E6%97%A5%E4%B8%80%E5%8F%A5/</loc>
-    <lastmod>2024-05-07T16:02:45+08:00</lastmod>
-  </url><url>
-    <loc>https://frankchi.com/categories/%E7%9C%8B%E9%9B%BB%E5%BD%B1%E5%AD%B8%E8%8B%B1%E6%96%87/</loc>
-    <lastmod>2024-05-07T16:02:45+08:00</lastmod>
   </url><url>
     <loc>https://frankchi.com/p/pull-over/</loc>
     <lastmod>2024-05-07T16:02:45+08:00</lastmod>
