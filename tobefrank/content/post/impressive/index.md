@@ -48,12 +48,10 @@ sick
 
 {{< member_promote >}}
 
-With Footage From:  
-🎥 吉爾莫女孩 (Gilmore Girls)  
-🎥 荒唐分局（Brooklyn Nine-Nine)  
-🎥 出神入化 (Now You See Me)  
-🎥 歡樂合唱團 (Glee)  
-🎥 爆笑超市 （Superstore）  
-🎥 雙子殺手 (Gemini Man)  
-🎥 視界戰 (Anon)   
-🎥 30 Dangerious Horse Kicks Moments Caught on Camera !  
+Ｗith Footage From:   
+🎥 追愛總動員 (How I Met Your Mother)   
+🎥 不能說的秘密 (Secret)  
+🎥 廣告狂人 (Mad Men)  
+🎥 閃電俠 (The Flash)   
+🎥 好小男孩 (Good Boys)  
+🎥 小鬼當家 2 (Home Alone 2)  
