@@ -1,5 +1,6 @@
 ---
 title: "「我的果醬！」講完這句開始跳舞？"
+description: "My jam 是什麼意思？"
 date: 2024-08-15T21:15:52+08:00
 slug: my-jam
 image: cover.jpg
