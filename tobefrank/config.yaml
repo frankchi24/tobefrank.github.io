@@ -183,7 +183,7 @@ menu:
 
         - identifier: member
           name: 頻道會員
-          url: https://member.frankchi.com/
+          url: https://www.patreon.com/frankchi/about/
           weight: -190
           params:
             icon: icons8-teaching
