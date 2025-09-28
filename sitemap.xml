@@ -2,16 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://frankchi.com/p/kudos-to-you/</loc>
-    <lastmod>2025-02-03T19:24:23+08:00</lastmod>
-  </url><url>
     <loc>https://frankchi.com/categories/</loc>
-    <lastmod>2025-02-03T19:24:23+08:00</lastmod>
+    <lastmod>2025-09-28T23:20:10+08:00</lastmod>
   </url><url>
     <loc>https://frankchi.com/</loc>
-    <lastmod>2025-02-03T19:24:23+08:00</lastmod>
+    <lastmod>2025-09-28T23:20:10+08:00</lastmod>
   </url><url>
     <loc>https://frankchi.com/post/</loc>
+    <lastmod>2025-09-28T23:20:10+08:00</lastmod>
+  </url><url>
+    <loc>https://frankchi.com/p/status-update/</loc>
+    <lastmod>2025-09-28T23:20:10+08:00</lastmod>
+  </url><url>
+    <loc>https://frankchi.com/categories/%E6%B3%95%E8%98%AD%E5%85%8B%E8%B7%9F%E4%BD%A0%E8%AA%AA/</loc>
+    <lastmod>2025-09-28T23:20:10+08:00</lastmod>
+  </url><url>
+    <loc>https://frankchi.com/p/kudos-to-you/</loc>
     <lastmod>2025-02-03T19:24:23+08:00</lastmod>
   </url><url>
     <loc>https://frankchi.com/categories/%E6%9C%89%E5%BD%B1%E7%89%87/</loc>
@@ -27,9 +33,6 @@
     <lastmod>2024-08-29T17:06:47+08:00</lastmod>
   </url><url>
     <loc>https://frankchi.com/p/my-journey-as-creator/</loc>
-    <lastmod>2024-08-29T17:06:47+08:00</lastmod>
-  </url><url>
-    <loc>https://frankchi.com/categories/%E6%B3%95%E8%98%AD%E5%85%8B%E8%B7%9F%E4%BD%A0%E8%AA%AA/</loc>
     <lastmod>2024-08-29T17:06:47+08:00</lastmod>
   </url><url>
     <loc>https://frankchi.com/categories/%E7%9F%AD%E5%BD%B1%E9%9F%B3%E8%A3%BD%E4%BD%9C/</loc>
@@ -142,9 +145,6 @@
   </url><url>
     <loc>https://frankchi.com/p/candy-cherry/</loc>
     <lastmod>2024-02-14T18:56:39+08:00</lastmod>
-  </url><url>
-    <loc>https://frankchi.com/p/status-update/</loc>
-    <lastmod>2024-02-14T02:48:57+08:00</lastmod>
   </url><url>
     <loc>https://frankchi.com/p/sticks-and-stones/</loc>
     <lastmod>2024-02-14T02:48:57+08:00</lastmod>
