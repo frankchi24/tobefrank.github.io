@@ -1,4 +1,15 @@
-	很久沒更新這個部落格了，先跟大家更新一下近況：
+---
+title: 法蘭克近況更新
+description: sticks and stones
+date: 2024-02-14T02:48:57+08:00
+slug: status-update
+HiddenInSingle: true  # This hides the cover image in single article view
+categories:
+    - 法蘭克跟你說
+---
+
+很久沒更新這個部落格了，先跟大家更新一下近況：
+
 ### 我的狀態
 
 **開始養成重量訓練的習慣：** 其實我覺得健身和練口說的邏輯是很像的，都是很多的重複和慢慢地升階。
