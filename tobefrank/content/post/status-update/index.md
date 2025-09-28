@@ -45,7 +45,7 @@ categories:
 
 ### 最近吃到好吃的東西、餐廳
 
-- **[Dreamer' Coffee 內湖店：](https://maps.app.goo.gl/fvV4MjL6K2uC1dyj7)**  
+- **[Dreamers Coffee 內湖店：](https://maps.app.goo.gl/fvV4MjL6K2uC1dyj7)**  
 優點：插頭爆多、沒時間限制、東西好吃。缺點：貴、大樓廁所髒、冷氣冷帶外套。
 
 - **[茶六 鹿港店](https://maps.app.goo.gl/AwfmhMyqS9ZNdDKJ8)：**  
