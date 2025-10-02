@@ -190,13 +190,13 @@ menu:
             newTab: false
 
 
-        # - identifier: class
-        #   name: 一對一課程
-        #   url: /class.html
-        #   weight: -180
-        #   params:
-        #     icon: icons8-teaching
-        #     newTab: false
+        - identifier: class
+          name: 私人課程
+          url: /class.html
+          weight: -180
+          params:
+            icon: icons8-class
+            newTab: false
             
 
         # - identifier: youtube
