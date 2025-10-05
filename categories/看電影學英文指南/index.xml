@@ -15,8 +15,9 @@
         <description>&lt;p&gt;看電影學英文要有逐字稿。&lt;/p&gt;
 &lt;p&gt;逐字稿跟字幕有差嗎？&lt;/p&gt;
 &lt;p&gt;有的。&lt;/p&gt;
-&lt;p&gt;字幕在螢幕上，一閃就過。逐字稿存起來或印出來，可以讓你看到實際上的文字，會讓你學習更有效果，更能搜尋、筆記、實作。&lt;/p&gt;
-&lt;p&gt;今天這篇會員專屬教學，想教你怎麼做出像我上課發的逐字稿。&lt;/p&gt;
+&lt;p&gt;字幕在螢幕上，一閃就過。逐字稿存起來或印出來，可以讓你看到實際上的文字，會讓你學習更有效果，更能搜尋、筆記、存檔、印出來閱讀。&lt;/p&gt;
+&lt;p&gt;今天這篇會員專屬教學，想教你怎麼做出像我上課發的逐字稿。有了這樣教材，你可以更好的學習、做筆記。你也可以有更多資源做跟讀練習。想用哪部電影就用哪部電影，都會有逐字稿，我們開始吧！&lt;/p&gt;
+&lt;p&gt;製作流程稍微繁瑣，不過我覺得大家是有能力做得出來的。所以寫了這篇比較詳細的教學文，有問題歡迎問我。&lt;/p&gt;
 &lt;h3 id=&#34;1-找到字幕檔&#34;&gt;1. 找到字幕檔&lt;/h3&gt;
 &lt;p&gt;首先你需要去找這部電影或美劇的字幕檔。&lt;/p&gt;
 &lt;p&gt;我滿推薦&lt;a class=&#34;link&#34; href=&#34;https://assrt.net/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
@@ -48,7 +49,7 @@
 		data-flex-basis=&#34;455px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;網路上的字幕檔大概分幾種，.srt 檔、 .sub 檔或是 .SSA檔。&lt;strong&gt;我建議你選擇 .srt 的檔案&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;網路上的字幕檔大概分幾種，.srt 檔、 .sub 檔或是 .SSA檔。我建議你選擇 .srt 的檔案。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/how-to-script/how-to-script3.png&#34;
 	width=&#34;2158&#34;
 	height=&#34;1188&#34;
@@ -61,8 +62,7 @@
 		data-flex-basis=&#34;435px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;字幕請選擇：&lt;strong&gt;「繁英或簡英、雙語」等關鍵字&lt;/strong&gt;。如果只有「繁」或「簡」，那就只有中文字幕。&lt;/p&gt;
-&lt;p&gt;電影通常沒有集數，只有年份，兩岸港台片名翻譯差異大，你可以用英文 + 年份搜尋。高年級實習生，我就會用 The Intern (2015) 去搜尋&lt;/p&gt;
+&lt;p&gt;字幕請選擇：「繁英」、「簡英」、「雙語」等關鍵字。如果只有「繁」或「簡」，那就只有中文字幕。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/how-to-script/how-to-script5-1.png&#34;
 	width=&#34;2292&#34;
 	height=&#34;1208&#34;
@@ -75,6 +75,7 @@
 		data-flex-basis=&#34;455px&#34;
 	
 &gt;&lt;/p&gt;
+&lt;p&gt;電影通常沒有集數，只有年份，兩岸港台片名翻譯差異大，你可以用英文 + 年份搜尋。高年級實習生，我就會用 The Intern (2015) 去搜尋&lt;/p&gt;
 &lt;p&gt;下載下來很多檔案。你可以觀察一下結尾的關鍵字。要選 .srt 檔名的。&lt;/p&gt;
 &lt;p&gt;cht&amp;amp;eng 是繁體中文和英文的雙語字幕，chs&amp;amp;eng 則是簡中和英文的雙語字幕。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/how-to-script/how-to-script5.png&#34;
@@ -89,9 +90,9 @@
 		data-flex-basis=&#34;508px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;h3 id=&#34;2-aegissub&#34;&gt;2. AegisSub&lt;/h3&gt;
+&lt;h3 id=&#34;2-aegisub&#34;&gt;2. Aegisub&lt;/h3&gt;
 &lt;p&gt;下載好字幕檔之後，你需要使用 &lt;a class=&#34;link&#34; href=&#34;https://aegisub.org/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;AegisSub&lt;/a&gt; 這個軟體，這是一個字幕工作者（字幕組）常用的軟體工具，它可以幫你把字幕檔輸出成純文字檔。&lt;/p&gt;
+    &gt;Aegisub&lt;/a&gt; 這個軟體，這是一個字幕工作者（字幕組）常用的軟體工具，它可以幫你把字幕檔輸出成純文字檔。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/how-to-script/how-to-script6.png&#34;
 	width=&#34;2232&#34;
 	height=&#34;1086&#34;
@@ -135,10 +136,10 @@
 &lt;p&gt;輸出時有幾個選項要注意：&lt;/p&gt;
 &lt;p&gt;Clean Tag 會把字幕檔自帶的時間軸給去掉，為了讓版面清楚，我通常都是去掉的。&lt;/p&gt;
 &lt;p&gt;Unicode 很多字幕檔案編碼不太一樣，建議你繁體簡體檔案一律選擇 Unicode (萬國碼）&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/how-to-script/how-to-script7.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/how-to-script/how-to-script9.png&#34;
 	width=&#34;2294&#34;
 	height=&#34;1490&#34;
-	srcset=&#34;http://localhost:1313/p/how-to-script/how-to-script7_hu15bb6b8e9c33e1ae89d84a4e6ea5670a_1113115_480x0_resize_box_3.png 480w, http://localhost:1313/p/how-to-script/how-to-script7_hu15bb6b8e9c33e1ae89d84a4e6ea5670a_1113115_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;http://localhost:1313/p/how-to-script/how-to-script9_hu15bb6b8e9c33e1ae89d84a4e6ea5670a_1950665_480x0_resize_box_3.png 480w, http://localhost:1313/p/how-to-script/how-to-script9_hu15bb6b8e9c33e1ae89d84a4e6ea5670a_1950665_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -147,11 +148,57 @@
 		data-flex-basis=&#34;369px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;這樣的字幕輸出之後用 Word 或一般的文字處理器打開，其實就可以用了。只是很醜，沒有斷行，中文英文在同一行。所以我通常會再加工整理一下&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/how-to-script/how-to-script8.png&#34;
+&lt;p&gt;&lt;strong&gt;輸出的格式記得選擇 .txt  文字檔&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/how-to-script/how-to-script10.png&#34;
+	width=&#34;2294&#34;
+	height=&#34;1424&#34;
+	srcset=&#34;http://localhost:1313/p/how-to-script/how-to-script10_hu404a83581bfae9b1d14edbd57a36efad_1761570_480x0_resize_box_3.png 480w, http://localhost:1313/p/how-to-script/how-to-script10_hu404a83581bfae9b1d14edbd57a36efad_1761570_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;161&#34;
+		data-flex-basis=&#34;386px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;這樣的檔案輸出之後用 Word 或一般的文字處理器打開，其實就可以用了。只是很醜，沒有斷行，中文英文在同一行。所以我通常會再加工整理一下&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/how-to-script/how-to-script11.png&#34;
+	width=&#34;2294&#34;
+	height=&#34;1364&#34;
+	srcset=&#34;http://localhost:1313/p/how-to-script/how-to-script11_hu64d93023d3cc259d81f4fe8fb74ffda3_895791_480x0_resize_box_3.png 480w, http://localhost:1313/p/how-to-script/how-to-script11_hu64d93023d3cc259d81f4fe8fb74ffda3_895791_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;168&#34;
+		data-flex-basis=&#34;403px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;3-sublime-text&#34;&gt;3. Sublime Text&lt;/h3&gt;
+&lt;p&gt;有了文字檔之後，接下來我們需要整理一下。如果你覺得繁體或簡體看不習慣，你可以複製全文之後到&lt;a class=&#34;link&#34; href=&#34;https://opencc.byvoid.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;這個網站&lt;/a&gt;轉成繁體或簡體中文，再貼回去。&lt;/p&gt;
+&lt;p&gt;要調整中英文順序和斷行這邊我們要下載 &lt;a class=&#34;link&#34; href=&#34;https://www.sublimetext.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Sublime Text&lt;/a&gt;這個文字編輯器。這個軟體的幾個功能很好用。&lt;/p&gt;
+&lt;p&gt;到這個頁面安裝你的作業系統的版本。&lt;/p&gt;
+&lt;p&gt;安裝後打開Sublime Text  然後開啟剛才 Aegisub 輸出的文字檔（檔名.txt)&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/how-to-script/how-to-script12.png&#34;
+	width=&#34;2294&#34;
+	height=&#34;1488&#34;
+	srcset=&#34;http://localhost:1313/p/how-to-script/how-to-script12_hu7544fdc2bbc06738830158517830b71d_460025_480x0_resize_box_3.png 480w, http://localhost:1313/p/how-to-script/how-to-script12_hu7544fdc2bbc06738830158517830b71d_460025_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;154&#34;
+		data-flex-basis=&#34;370px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;英文在上面的逐字稿做法&#34;&gt;英文在上面的逐字稿做法&lt;/h3&gt;
+&lt;p&gt;這樣的內容是沒有斷行的，很醜，這邊想教你怎麼樣把它整理得漂亮一點。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/how-to-script/how-to-script13.png&#34;
 	width=&#34;2294&#34;
 	height=&#34;1490&#34;
-	srcset=&#34;http://localhost:1313/p/how-to-script/how-to-script8_hu15bb6b8e9c33e1ae89d84a4e6ea5670a_2076374_480x0_resize_box_3.png 480w, http://localhost:1313/p/how-to-script/how-to-script8_hu15bb6b8e9c33e1ae89d84a4e6ea5670a_2076374_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;http://localhost:1313/p/how-to-script/how-to-script13_hu15bb6b8e9c33e1ae89d84a4e6ea5670a_1022459_480x0_resize_box_3.png 480w, http://localhost:1313/p/how-to-script/how-to-script13_hu15bb6b8e9c33e1ae89d84a4e6ea5670a_1022459_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -160,38 +207,67 @@
 		data-flex-basis=&#34;369px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;h3 id=&#34;3-bbedit&#34;&gt;3. Bbedit&lt;/h3&gt;
-&lt;p&gt;這邊下載 BBEdit 這個文字編輯器，這個軟體的幾個功能很好用。首先你可以打開 BBEdit 然後開啟輸出的文字檔（檔名 .txt)&lt;/p&gt;
-&lt;p&gt;有了文字檔之後，接下來我們需要整理一下。如果你覺得繁體或簡體看不習慣，你可以複製全文之後到這個網站轉成繁體或簡體中文。&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://opencc.byvoid.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://opencc.byvoid.com/&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;英文在上面的講義做法&#34;&gt;英文在上面的講義做法&lt;/h3&gt;
-&lt;p&gt;這樣的內容是沒有斷行的，這邊想教你怎麼樣把它整理得漂亮一點。&lt;/p&gt;
-&lt;p&gt;如果你想要英文在上面，中文在下。我幾年前研究出了不寫程式做到的方式，只是比較繁瑣，請確實按照步驟做：&lt;/p&gt;
+&lt;p&gt;如果你想要英文在上面，中文在下。我幾年前也研究出了不寫程式做到的方式，只是比較繁瑣，請確實按照步驟做：&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;複製所有文字，貼到這個網站，按 Reverse Lines 倒反所有文字順序&lt;/li&gt;
+&lt;li&gt;在 Sublime Text 上方選單選擇 Edit (編輯) -&amp;gt; Permute Lines (排列行) -&amp;gt; Reverse (翻轉)&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;reverse line
-&lt;a class=&#34;link&#34; href=&#34;https://www.miniwebtool.com/reverse-lines/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://www.miniwebtool.com/reverse-lines/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;把倒反後的逐字稿，貼回Bbedit，取帶之前沒有倒反的文字。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/how-to-script/how-to-script14.png&#34;
+	width=&#34;2294&#34;
+	height=&#34;1490&#34;
+	srcset=&#34;http://localhost:1313/p/how-to-script/how-to-script14_hu15bb6b8e9c33e1ae89d84a4e6ea5670a_1231449_480x0_resize_box_3.png 480w, http://localhost:1313/p/how-to-script/how-to-script14_hu15bb6b8e9c33e1ae89d84a4e6ea5670a_1231449_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;153&#34;
+		data-flex-basis=&#34;369px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;這樣每行的順序都會倒過來。&lt;/p&gt;
 &lt;ol start=&#34;2&#34;&gt;
-&lt;li&gt;
-&lt;p&gt;在 Bbedit 文字 (text) 的選項選擇 suffix line 並增加斷行符號
-text -&amp;gt;  suffix line
-/n&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;搜尋取代逐字稿中的\N
-search -&amp;gt; find
-replace /N with /n&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;再回到 Reverse Lines 倒反所有文字順序&lt;/p&gt;
-&lt;/li&gt;
+&lt;li&gt;在選單中選擇 Find （尋找） -&amp;gt; Replace （取代）&lt;/li&gt;
 &lt;/ol&gt;
+&lt;p&gt;左邊有一個 .* (Regular Expression) 記得勾選之後搜尋：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Find 的部份我們打這個：
+&lt;strong&gt;$\n&lt;/strong&gt;&lt;br&gt;
+Replace 的部分我們用兩個斷行符號：
+&lt;strong&gt;\n\n&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;這樣就有斷行了，是不是清楚很多？&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;中英文字的斷行&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;接下來我們要再做第二次尋找取代，一樣要記得勾選左邊 .* 的符號&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Find 這次我們打這個：
+&lt;strong&gt;\\n&lt;/strong&gt;&lt;br&gt;
+Replace 的部分我們用一個斷行符號：
+&lt;strong&gt;\n&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/how-to-script/how-to-script15.png&#34;
+	width=&#34;2294&#34;
+	height=&#34;1490&#34;
+	srcset=&#34;http://localhost:1313/p/how-to-script/how-to-script15_hu15bb6b8e9c33e1ae89d84a4e6ea5670a_1194901_480x0_resize_box_3.png 480w, http://localhost:1313/p/how-to-script/how-to-script15_hu15bb6b8e9c33e1ae89d84a4e6ea5670a_1194901_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;153&#34;
+		data-flex-basis=&#34;369px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;這樣中英文也斷行了，是不是很接近了？&lt;/p&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;倒反所有文字順序&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;最後再回到 Edit (編輯) -&amp;gt; Permute Lines (排列行) -&amp;gt; Reverse (翻轉) 把每一行順序倒回來。&lt;/p&gt;
+&lt;p&gt;這樣就完成囉，你可以貼到 Word，就是完整、清楚的逐字稿了。&lt;/p&gt;
 &lt;p&gt;如果你不在乎中文在上還是英文在上，那你可以跳過 1 和 4 步。&lt;/p&gt;
-&lt;p&gt;這樣就完成囉，你可以貼到 Word ，就是很好的逐字稿了。&lt;/p&gt;
 </description>
         </item>
         
