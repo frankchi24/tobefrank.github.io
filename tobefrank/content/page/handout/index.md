@@ -7,7 +7,7 @@ image: cover.jpeg
 哈囉！
 
 最新這篇講義在這裡，跟你分享 strong suit 怎麼用和其他表達「強項的」的字：
-- [很強的西裝，你覺得是什麼意思？（講義）](https://drive.google.com/file/d/1E7pqFIz3DKWvwPv0vTRFsPVm4SskUo2j/view?usp=sharing)
+- [很強的西裝，你覺得是什麼意思？（講義）](https://frankchi.pse.is/87jtx2)
 
 **如果你想要每週收到最新短片和講義，歡迎填寫以下的表單。**
 
