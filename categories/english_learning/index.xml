@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>英語學習 on Frank 法蘭克</title>
-        <link>https://frankchi.com/categories/english_learning/</link>
+        <link>http://localhost:1313/categories/english_learning/</link>
         <description>Recent content in 英語學習 on Frank 法蘭克</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-tw</language>
-        <lastBuildDate>Tue, 21 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://frankchi.com/categories/english_learning/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 21 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/english_learning/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>發音訓練是什麼？</title>
-        <link>https://frankchi.com/p/accent_training_intro/</link>
+        <link>http://localhost:1313/p/accent_training_intro/</link>
         <pubDate>Tue, 21 Dec 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://frankchi.com/p/accent_training_intro/</guid>
-        <description>&lt;img src="https://frankchi.com/p/accent_training_intro/cover.jpg" alt="Featured image of post 發音訓練是什麼？" /&gt;&lt;h3 id=&#34;發音不好沒關係為什麼我要上正音課&#34;&gt;發音不好沒關係？為什麼我要上正音課？&lt;/h3&gt;
+        <guid>http://localhost:1313/p/accent_training_intro/</guid>
+        <description>&lt;img src="http://localhost:1313/p/accent_training_intro/cover.jpg" alt="Featured image of post 發音訓練是什麼？" /&gt;&lt;h3 id=&#34;發音不好沒關係為什麼我要上正音課&#34;&gt;發音不好沒關係？為什麼我要上正音課？&lt;/h3&gt;
 &lt;blockquote&gt;
 &lt;p&gt;一個外國人跑去水餃店說：&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;「我要去睡覺。」&lt;/strong&gt;&lt;/p&gt;
@@ -35,10 +35,10 @@
 &lt;p&gt;我要給你一個標準：如果你的發音讓英文老師聽了，常常要再三確認你在講什麼。或外國人常常誤會或恍然大悟”oh you meant …”「喔&amp;hellip;你的意思是」就代表你的發音會影響溝通，就需要「正音」”Accent Training”。&lt;/p&gt;
 &lt;p&gt;另一個標準：如果你常常覺得因為發音不好，不敢講英文。那就代表你對你的發音「沒自信」。讓自己發音變好、敢講、敢說、有自信，語言能力才會更快進步。這也是加強發音的很大理由。&lt;/p&gt;
 &lt;p&gt;如果你是有一定程度的英語學習者。學習碰到瓶頸，覺得自己進步很慢。你可以試試看，把學習重點放在發音上，你會發現，又開始進步了。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://frankchi.com/p/accent_training_intro/cover.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/accent_training_intro/cover.jpg&#34;
 	width=&#34;1920&#34;
 	height=&#34;1097&#34;
-	srcset=&#34;https://frankchi.com/p/accent_training_intro/cover_huba6f50cbf64ca8367ebb54bc91648f67_585662_480x0_resize_q75_box.jpg 480w, https://frankchi.com/p/accent_training_intro/cover_huba6f50cbf64ca8367ebb54bc91648f67_585662_1024x0_resize_q75_box.jpg 1024w&#34;
+	srcset=&#34;http://localhost:1313/p/accent_training_intro/cover_huba6f50cbf64ca8367ebb54bc91648f67_585662_480x0_resize_q75_box.jpg 480w, http://localhost:1313/p/accent_training_intro/cover_huba6f50cbf64ca8367ebb54bc91648f67_585662_1024x0_resize_q75_box.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Image 1&#34;
@@ -65,11 +65,11 @@
         </item>
         <item>
         <title>來找我上英文課！所有你需要知道的事</title>
-        <link>https://frankchi.com/my_class/</link>
+        <link>http://localhost:1313/my_class/</link>
         <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://frankchi.com/my_class/</guid>
-        <description>&lt;img src="https://frankchi.com/my_class/my_class_cover_downsized.jpg" alt="Featured image of post 來找我上英文課！所有你需要知道的事" /&gt;&lt;p&gt;我希望這是學生「最後一次」上英文課。&lt;/p&gt;
+        <guid>http://localhost:1313/my_class/</guid>
+        <description>&lt;img src="http://localhost:1313/my_class/my_class_cover_downsized.jpg" alt="Featured image of post 來找我上英文課！所有你需要知道的事" /&gt;&lt;p&gt;我希望這是學生「最後一次」上英文課。&lt;/p&gt;
 &lt;p&gt;所以我接到每一個新生時，都會花時間了解你的英文程度。詳細跟你討論你的學習需求，也會給你非常大的空間自訂學習內容和進度。&lt;/p&gt;
 &lt;h3 id=&#34;-針對學習問題直球對決的英文教學-&#34;&gt;💪💪 針對學習問題，直球對決的英文教學 💪💪&lt;/h3&gt;
 &lt;p&gt;英文不是一個科目，而是一個有用的技能。所以我不太把自己看成英文「老師」，而是一個專業的「教練」。我準備的課程內容非常豐富，也有很多自編講義。不管你想鍛鍊口說、加強聽力，還是文法觀念不清楚，英文閱讀看不懂&amp;hellip;零零總總的英文學習問題，我都有招可以幫你達成你的學習目標。&lt;/p&gt;
@@ -104,7 +104,7 @@
 &lt;h3 id=&#34;我的發音不好有救嗎&#34;&gt;我的發音不好，有救嗎？&lt;/h3&gt;
 &lt;p&gt;發音超級、超級重要的啦！如果你是初學者，我會從頭帶你建立發音基礎，從母音子音開始念，並且學習自然發音、KK音標（我都會教），讓你看到就唸出來。如果你有發音的基礎，我會介紹「音調」「連音」「長音節」和「形音義」等變化，讓你講英文「更自然」「更好聽」&lt;/p&gt;
 &lt;p&gt;發音好聽力就好。發音好背單字就快。發音好，你會更有自信，也更敢講。&lt;/p&gt;
-&lt;p&gt;跟我學英文的學生沒有發音不變好的。更多內容，你可以參考我寫的&lt;a class=&#34;link&#34; href=&#34;https://frankchi.com/p/accent_training_intro/&#34; &gt;「發音調整、正音的教學心得」&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;跟我學英文的學生沒有發音不變好的。更多內容，你可以參考我寫的&lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/p/accent_training_intro/&#34; &gt;「發音調整、正音的教學心得」&lt;/a&gt;。&lt;/p&gt;
 &lt;h3 id=&#34;我想出國考空服員去外商公司工作frank可以幫我嗎&#34;&gt;我想出國、考空服員、去外商公司工作，Frank可以幫我嗎？&lt;/h3&gt;
 &lt;p&gt;Frank之前在外商擔任過行銷經理、企業董事長特助。更長期在各大補習班和日商企業擔任多益講師(980分），教授商用書信、會議英文和簡報。&lt;/p&gt;
 &lt;p&gt;我輔導過的學生包括外商公司主管、空服員，甚至有國立大學教授也請我協助英文論文審閱和練習口說。我也做過論文、合約、公文翻譯。如果你有英文面試，更可以參考我做的&lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/watch?v=vnhOTanZ1IM&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;

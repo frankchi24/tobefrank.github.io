@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>找老師 on Frank 法蘭克</title>
-        <link>https://frankchi.com/categories/%E6%89%BE%E8%80%81%E5%B8%AB/</link>
+        <link>http://localhost:1313/categories/%E6%89%BE%E8%80%81%E5%B8%AB/</link>
         <description>Recent content in 找老師 on Frank 法蘭克</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-tw</language>
-        <lastBuildDate>Wed, 28 Aug 2024 22:45:32 +0800</lastBuildDate><atom:link href="https://frankchi.com/categories/%E6%89%BE%E8%80%81%E5%B8%AB/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 28 Aug 2024 22:45:32 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/%E6%89%BE%E8%80%81%E5%B8%AB/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>怎麼挑英文老師 - 完全選購指南</title>
-        <link>https://frankchi.com/p/how-to-find-teacher/</link>
+        <link>http://localhost:1313/p/how-to-find-teacher/</link>
         <pubDate>Wed, 28 Aug 2024 22:45:32 +0800</pubDate>
         
-        <guid>https://frankchi.com/p/how-to-find-teacher/</guid>
-        <description>&lt;img src="https://frankchi.com/p/how-to-find-teacher/cover.jpg" alt="Featured image of post 怎麼挑英文老師 - 完全選購指南" /&gt;&lt;p&gt;今天，我想跟你說怎麼找優質的英文老師。&lt;/p&gt;
+        <guid>http://localhost:1313/p/how-to-find-teacher/</guid>
+        <description>&lt;img src="http://localhost:1313/p/how-to-find-teacher/cover.jpg" alt="Featured image of post 怎麼挑英文老師 - 完全選購指南" /&gt;&lt;p&gt;今天，我想跟你說怎麼找優質的英文老師。&lt;/p&gt;
 &lt;p&gt;我做了超過10年的英文一對一家教，全盛時期一週排超過三十堂課。&lt;/p&gt;
 &lt;p&gt;雖然這兩年慢慢減少一對一課程，我覺得我應該算有資格分享：&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;「好的一對一課程要有什麼元素？」&lt;/strong&gt; 還有 &lt;strong&gt;「如何找專業、適合你的英文老師？」&lt;/strong&gt;&lt;/p&gt;
@@ -76,7 +76,7 @@
 &lt;/ol&gt;
 &lt;h3&gt;喜歡這篇文章嗎？&lt;/h3&gt;
 
-&lt;p&gt;如果覺得我的文章對你有幫助，歡迎你&lt;a class=&#34;link&#34; href=&#34;https://frankchi.com/newsletter-subscribe/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;用 Email 訂閱我&lt;/a&gt;，讓我跟你分享學英文的好方法。&lt;/p&gt;
+&lt;p&gt;如果覺得我的文章對你有幫助，歡迎你&lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/newsletter-subscribe/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;用 Email 訂閱我&lt;/a&gt;，讓我跟你分享學英文的好方法。&lt;/p&gt;
 
 
 &lt;p&gt;想見見我本人，聽我分享更多，歡迎你參加我的&lt;a class=&#34;link&#34; href=&#34;https://bit.ly/49hQVda&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;免費直播講座&lt;/a&gt;。
