@@ -5,11 +5,11 @@ slug: strong-suit
 date: 2025-10-06T09:06:57+08:00
 image: cover.jpeg
 HiddenInSingle: true  # This hides the cover image in single article view
-draft: true
 categories:
     - 有影片
     - 看電影學英文
 ---
+{{< vimeo id="1124717642" >}}
 
 **Strong suit** 的意思其實是「**我的強項**」。
 
@@ -18,7 +18,6 @@ categories:
 
 後來才慢慢延伸成「**優勢、擅長的事**」。
 
----
 
 ### 用法與語感
 
@@ -29,7 +28,6 @@ categories:
 
 電影裡也常見角色在說自己「數學不好」。
 
----
 
 ### 常見例句
 
@@ -47,17 +45,14 @@ categories:
   準時不是我的強項。  
   （遲到的時候講這句，別人只會更想罵你。）
 
----
 
 ### 相反地：表達「這是我的強項」
 
 這種說法通常會出現在**面試**或自我介紹裡。
 
-> **I’m can-do, selfless. These are my strong suits.**
+	
 
 你看，**strong suits** 可以用複數喔！
-
----
 
 ### 同義詞與替代說法
 
@@ -72,9 +67,13 @@ categories:
   比較自然的用法是：  
   **That gives me an advantage.**
 
-例句：
-> Your math is good. Use it to your advantage.  
-> （你的數學很好，用它來加強自己的有利條件。）
+> **例句**:  
+>
+> **Your math is good. Use it to your advantage.**  
+> 你的數學很好，好好利用這一點讓自己更有優勢。
+
+> **My math is good. That gives me an advantage when applying for a job as a researcher here.**  
+> 我的數學很好，這讓我在申請這裡的研究員職位時更有優勢。
 
 #### 3. **Forte**
 這個字原本是法文，有「劍鋒」的意思。  
@@ -83,16 +82,13 @@ categories:
 > **Not my forte.** → 「我不擅長這個。」
 
 
----
-
 ### 題材與片段靈感
 
 這篇要找的電影片段可以同時涵蓋：
 這篇要找西裝的片段，也要有橋牌的片段。我馬上想到的是成龍的《燕尾服》和蝙蝠俠的 batsuit（蝙蝠裝）。
 
-電影裡很少有人打橋牌，幾乎都是德州撲克。當我要放其實，居然有橋牌迷把電影中有出現橋牌的地方找出來[（影片）](https://www.youtube.com/playlist?list=PLm1qkNm3bQQ_RMXRM2yBiZaNNDEiG4nx4) （真的很少就是了）
+電影裡很少有人打橋牌，幾乎都是德州撲克。但是當我想說算了的時候，居然發現有橋牌迷把電影中有出現橋牌的地方找出來[（影片）](https://www.youtube.com/playlist?list=PLm1qkNm3bQQ_RMXRM2yBiZaNNDEiG4nx4) （真的很少就是了）
 
----
 
 ### 結語
 
@@ -102,6 +98,8 @@ categories:
 
 > “This is not my strong suit.”  
 > （這不是我的強項。）
+
+{{< member_promote >}}
 
 ---
 

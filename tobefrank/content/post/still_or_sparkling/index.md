@@ -50,6 +50,9 @@ Tap water (n.) 自來水
 >> - **I'll have some tap water.**   
 我要自來水。
 
+{{< member_promote >}}
+
+
 --- 
 
 ### 後記：
