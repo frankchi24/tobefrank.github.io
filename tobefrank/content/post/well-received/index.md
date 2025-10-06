@@ -12,7 +12,6 @@ categories:
 ---
 
 {{< vimeo id="999139041" >}}
-#短影片腳本/完成  
 
 收到Email 時，你會回 Well received 嗎？
 

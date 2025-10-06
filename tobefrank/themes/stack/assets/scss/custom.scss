@@ -13,6 +13,13 @@
     max-width: 1036px;
 }
 
+/* 調整段落字體和間距 - 與目標部落格一致 */
+.article-content > p {
+    margin: 1.35em 0 !important; /* 與目標部落格一致的段落間距 */
+    font-size: 1.7rem; /* 與目標部落格一致的字體大小 */
+    line-height: 1.6; /* 與目標部落格一致的行高 */
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; /* 與目標部落格一致的字體 */
+}
 
 .left-sidebar {
     min-width: 220px;
