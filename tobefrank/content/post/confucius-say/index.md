@@ -16,7 +16,7 @@ categories:
 
 如果你還沒看過，可以先從這支開始：
 
-{{< vimeo id="1122636044" >}}
+{{< vimeo2 id="1122636044" h="f7500067b9" >}}
 
 這部影片講的是外國人很愛講的老梗 “Confucius say…”（子曰）  
 
@@ -38,9 +38,9 @@ categories:
 
 而當 “Confucius say” 這句話被拿來當笑話或老梗時，對某些人來說，就可能踩到那條線。
 
-另一部影片我整理了我在電影中找到的各種**「孔子說」完整引用電影片段**：
+另一部影片我整理了我在電影中找到的各種 **「孔子說」完整引用電影片段**：
 
-{{< vimeo id="1125788693" >}}
+{{< vimeo2 id="1125788693" h="16740e389d" >}}
 
 看看完整版影片，跟我說你覺得是不是囉。
 
@@ -98,7 +98,7 @@ categories:
 > Confucius say, virginity like bubble. One prick — all gone.  
 > 孔子說：「貞操像泡泡，一戳就破。」
 
-> The Master said, “Is he not a man of complete virtue, who feels no discomposure though men may take no note of him?”  
+> **The Master said, “Is he not a man of complete virtue, who feels no discomposure though men may take no note of him?”**  
 > 子曰：「人不知而不慍，不亦君子乎？」
 
 其實很多光聽到引用內容就知道是來亂的，哈哈。
@@ -108,11 +108,11 @@ categories:
 喜歡這篇文章，歡迎你把它傳給朋友，請他們訂閱我的[電子報](/newsletter-subscribe/)
 因為  
 
-> The Master said, “Is it not delightful to have friends coming from distant quarters?”  
+> **The Master said, “Is it not delightful to have friends coming from distant quarters?”**  
 > 子曰：「有朋自遠方來，不亦樂乎？」
 
 不喜歡的話——  
 
-> Confucius say, “The unsubscribe button is down below.”  
+> **Confucius say, “The unsubscribe button is down below.”**  
 > 孔子曰：「取消訂閱的按鈕在下面。」
 
