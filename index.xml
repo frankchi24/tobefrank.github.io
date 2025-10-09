@@ -142,9 +142,13 @@
         <description>&lt;img src="https://frankchi.com/p/confucius-say/cover.jpg" alt="Featured image of post Confucius say「孔子說」是種族歧視嗎？" /&gt;&lt;p&gt;上上禮拜教師節時，我上傳了一支〈孔子說〉的影片&lt;/p&gt;
 &lt;p&gt;原本以為太久沒發片應該沒什麼人會看，結果反應意外地熱烈，留言也很多。&lt;/p&gt;
 &lt;p&gt;如果你還沒看過，可以先從這支開始：&lt;/p&gt;
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://player.vimeo.com/video/1122636044&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+
+
+
+&lt;iframe src=&#34;https://player.vimeo.com/video/1122636044?h=f7500067b9&#34;
+        width=&#34;640&#34; height=&#34;360&#34; frameborder=&#34;0&#34;
+        allow=&#34;autoplay; fullscreen; picture-in-picture&#34;
+        allowfullscreen loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;
 &lt;p&gt;這部影片講的是外國人很愛講的老梗 “Confucius say…”（子曰）&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;但後面常常都是亂引用。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;一開始我覺得滿好笑的，後來我才發現事情並不單純。&lt;/p&gt;
@@ -155,10 +159,14 @@
 &lt;p&gt;在國外，如果你講出類似「華人都怎樣」「日本人都怎樣」「美國人最怎樣」這種話。&lt;/p&gt;
 &lt;p&gt;不管是稱讚還是批評，通常都會被歸類為一種 &lt;strong&gt;racial stereotype（種族刻板印象）&lt;/strong&gt;。&lt;/p&gt;
 &lt;p&gt;而當 “Confucius say” 這句話被拿來當笑話或老梗時，對某些人來說，就可能踩到那條線。&lt;/p&gt;
-&lt;p&gt;另一部影片我整理了我在電影中找到的各種**「孔子說」完整引用電影片段**：&lt;/p&gt;
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://player.vimeo.com/video/1125788693&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+&lt;p&gt;另一部影片我整理了我在電影中找到的各種 &lt;strong&gt;「孔子說」完整引用電影片段&lt;/strong&gt;：&lt;/p&gt;
+
+
+
+&lt;iframe src=&#34;https://player.vimeo.com/video/1125788693?h=16740e389d&#34;
+        width=&#34;640&#34; height=&#34;360&#34; frameborder=&#34;0&#34;
+        allow=&#34;autoplay; fullscreen; picture-in-picture&#34;
+        allowfullscreen loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;
 &lt;p&gt;看看完整版影片，跟我說你覺得是不是囉。&lt;/p&gt;
 &lt;p&gt;其實大部分觀眾都一笑置之：&lt;/p&gt;
 &lt;p&gt;不覺得這是種族歧視，也沒有不舒服的感覺。&lt;/p&gt;
@@ -204,7 +212,7 @@
 孔子說：「貞操像泡泡，一戳就破。」&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;The Master said, “Is he not a man of complete virtue, who feels no discomposure though men may take no note of him?”&lt;br&gt;
+&lt;p&gt;&lt;strong&gt;The Master said, “Is he not a man of complete virtue, who feels no discomposure though men may take no note of him?”&lt;/strong&gt;&lt;br&gt;
 子曰：「人不知而不慍，不亦君子乎？」&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;其實很多光聽到引用內容就知道是來亂的，哈哈。&lt;/p&gt;
@@ -212,12 +220,12 @@
 &lt;p&gt;喜歡這篇文章，歡迎你把它傳給朋友，請他們訂閱我的&lt;a class=&#34;link&#34; href=&#34;https://frankchi.com/newsletter-subscribe/&#34; &gt;電子報&lt;/a&gt;
 因為&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;The Master said, “Is it not delightful to have friends coming from distant quarters?”&lt;br&gt;
+&lt;p&gt;&lt;strong&gt;The Master said, “Is it not delightful to have friends coming from distant quarters?”&lt;/strong&gt;&lt;br&gt;
 子曰：「有朋自遠方來，不亦樂乎？」&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;不喜歡的話——&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Confucius say, “The unsubscribe button is down below.”&lt;br&gt;
+&lt;p&gt;&lt;strong&gt;Confucius say, “The unsubscribe button is down below.”&lt;/strong&gt;&lt;br&gt;
 孔子曰：「取消訂閱的按鈕在下面。」&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
