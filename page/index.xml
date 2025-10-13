@@ -2,17 +2,60 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Pages on Frank 法蘭克</title>
-        <link>https://frankchi.com/page/</link>
+        <link>http://localhost:58742/page/</link>
         <description>Recent content in Pages on Frank 法蘭克</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-tw</language>
-        <lastBuildDate>Sun, 05 Oct 2025 12:39:00 +0800</lastBuildDate><atom:link href="https://frankchi.com/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 13 Oct 2025 14:20:52 +0800</lastBuildDate><atom:link href="http://localhost:58742/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>找法蘭克喝咖啡</title>
+        <link>http://localhost:58742/coffee-chat/</link>
+        <pubDate>Mon, 13 Oct 2025 14:20:52 +0800</pubDate>
+        
+        <guid>http://localhost:58742/coffee-chat/</guid>
+        <description>&lt;p&gt;你知道自己一個人工作有多無聊嗎？&lt;/p&gt;
+&lt;p&gt;新的年度，我想踏出自己的生活圈、舒適圈&lt;/p&gt;
+&lt;p&gt;認識新朋友～&lt;/p&gt;
+&lt;p&gt;如果你跟我一樣，歡迎你來找法蘭克喝咖啡。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;方式：&lt;/strong&gt; 讓我請你喝一杯咖啡。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;地點：&lt;/strong&gt; 台北市區咖啡廳。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;時間：&lt;/strong&gt; 平日中午或假日早上。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;每次時間：&lt;/strong&gt; 四十分鐘吧，最多一個小時。&lt;/p&gt;
+&lt;p&gt;男女不拘，單純認識新朋友。&lt;/p&gt;
+&lt;p&gt;不教英文、不推銷、不傳教、不是約會。&lt;/p&gt;
+&lt;p&gt;頂多逼你訂閱我的頻道。&lt;/p&gt;
+&lt;p&gt;我沒有試過這樣交新朋友。&lt;/p&gt;
+&lt;p&gt;但感覺比交友軟體好一些。&lt;/p&gt;
+&lt;p&gt;我知道一次約一群人很方便，開直播也能接觸更多人&lt;/p&gt;
+&lt;p&gt;但沒有什麼能比兩個人好好喝杯咖啡聊聊更真實、更深入。&lt;/p&gt;
+&lt;p&gt;希望認識有趣的靈魂。&lt;/p&gt;
+&lt;p&gt;如果你對我在做的事情有興趣，也歡迎聊聊。&lt;/p&gt;
+&lt;p&gt;⸻&lt;/p&gt;
+&lt;h3 id=&#34;關於我&#34;&gt;關於我&lt;/h3&gt;
+&lt;p&gt;35 歲，自媒體工作者，也是一名英文老師。&lt;/p&gt;
+&lt;p&gt;喜歡內容創作，如果你也在做自媒體，我們應該有很多話題。&lt;/p&gt;
+&lt;p&gt;愛看電影、擅長剪輯——我看過的電影（但沒看完的）應該算很多很多⋯⋯&lt;/p&gt;
+&lt;p&gt;喜歡科技、自己架站、做一些 Vibe Coding。&lt;/p&gt;
+&lt;p&gt;健身新手：這是我覺得自己今年進步最多的地方，還在努力中。&lt;/p&gt;
+&lt;p&gt;追求自由、抗拒權威，信奉成長型思維。&lt;/p&gt;
+&lt;p&gt;不相信星座、血型、MBTI、塔羅或算命。&lt;/p&gt;
+&lt;p&gt;是一個年紀越大越偏自由主義的人。&lt;/p&gt;
+&lt;p&gt;喜歡學新東西、情緒穩定、算好聊。&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;http://localhost:58742/about_me/&#34; &gt;更多關於我&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;http://localhost:58742/p/status-update/&#34; &gt;我的近況&lt;/a&gt; (2025-10-05更新)&lt;/p&gt;
+&lt;p&gt;⸻&lt;/p&gt;
+&lt;p&gt;如果你也想踏出舒適圈，認識新朋友，別想太多，來封信吧。&lt;/p&gt;
+&lt;p&gt;📩 &lt;a class=&#34;link&#34; href=&#34;mailto:coffee@frankchi.com&#34; &gt;coffee@frankchi.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;跟我說說你的興趣、人生追求～ 你在做什麼&lt;/p&gt;
+&lt;p&gt;Hopefully, this is the beginning of a beautiful friendship.&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>每週收到電影英文最新短片、講義</title>
-        <link>https://frankchi.com/handout/</link>
+        <link>http://localhost:58742/handout/</link>
         <pubDate>Sun, 05 Oct 2025 12:39:00 +0800</pubDate>
         
-        <guid>https://frankchi.com/handout/</guid>
-        <description>&lt;img src="https://frankchi.com/handout/cover.jpeg" alt="Featured image of post 每週收到電影英文最新短片、講義" /&gt;&lt;p&gt;哈囉！&lt;/p&gt;
+        <guid>http://localhost:58742/handout/</guid>
+        <description>&lt;img src="http://localhost:58742/handout/cover.jpeg" alt="Featured image of post 每週收到電影英文最新短片、講義" /&gt;&lt;p&gt;哈囉！&lt;/p&gt;
 &lt;p&gt;最新這篇講義在這裡，跟你分享 strong suit 怎麼用和其他表達「強項的」的字：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://frankchi.pse.is/87jtx2&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
@@ -30,11 +73,11 @@
         </item>
         <item>
         <title>關於法蘭克</title>
-        <link>https://frankchi.com/about_me/</link>
+        <link>http://localhost:58742/about_me/</link>
         <pubDate>Fri, 26 Jul 2024 19:57:58 +0800</pubDate>
         
-        <guid>https://frankchi.com/about_me/</guid>
-        <description>&lt;img src="https://frankchi.com/about_me/cover.jpeg" alt="Featured image of post 關於法蘭克" /&gt;&lt;p&gt;哈囉，我是 Frank 法蘭克，歡迎收看我的電影英文頻道&lt;/p&gt;
+        <guid>http://localhost:58742/about_me/</guid>
+        <description>&lt;img src="http://localhost:58742/about_me/cover.jpeg" alt="Featured image of post 關於法蘭克" /&gt;&lt;p&gt;哈囉，我是 Frank 法蘭克，歡迎收看我的電影英文頻道&lt;/p&gt;
 &lt;h3 id=&#34;關於我的電影英文頻道&#34;&gt;關於我的電影英文頻道：&lt;/h3&gt;
 &lt;p&gt;學好英文對我人生有非常大的幫助，看電影學英文也是我最喜歡的方式，所以我希望把這個方法介紹給所有人，幫助大家學好英文。&lt;/p&gt;
 &lt;p&gt;我的目標是用有趣的方式、和電影美劇片段讓觀眾實際學到真實的英文怎麼說。讓每個人覺得好玩、實用、好記，是我做影片最大的原動力。除了英文短句、俚語，我也分享電影中學到的美國文化，做優質的內容。&lt;/p&gt;
@@ -45,21 +88,21 @@
 &lt;p&gt;我曾台北的補習班教過幾年書。寫著板書，教考試技巧，我發現我只是讓台灣學生討厭英文。所以2021年，我從頭開始學習剪輯，並上傳第一部電影英文短片。幾年下來，我的影片越來越受歡迎。我也越來越擅長做「有趣」「好記」「有用」的英文學習內容。&lt;/p&gt;
 &lt;p&gt;在做自媒體之前，我擔任過科技公司的行銷經理，也當過董事長特助，不過最後還是選擇做自媒體和語言教學為業。現在我每天的生活就是，找素材、剪影片、錄音、備課、上課、直播等。&lt;/p&gt;
 &lt;p&gt;除了電影和英文教學，我也很喜歡科技，喜歡了解最新的科技新知。我會寫簡單的程式，你現在看到的網站是我自己架的。然後我很愛吃&amp;hellip; 上課會時不時跟大家分享我的美食地圖～（笑）&lt;/p&gt;
-&lt;p&gt;也跟大家不定期分享&lt;a class=&#34;link&#34; href=&#34;https://frankchi.com/p/status-update&#34; &gt;我的近況&lt;/a&gt;（2025/09/29更新）&lt;/p&gt;
+&lt;p&gt;也跟大家不定期分享&lt;a class=&#34;link&#34; href=&#34;http://localhost:58742/p/status-update&#34; &gt;我的近況&lt;/a&gt;（2025/09/29更新）&lt;/p&gt;
 &lt;h3 id=&#34;怎麼聯絡-frank&#34;&gt;怎麼聯絡 Frank&lt;/h3&gt;
 &lt;p&gt;每天我都會收到滿多留言，很抱歉我真的回不完。也不太能在有限的篇幅回答英文問題。&lt;/p&gt;
 &lt;p&gt;如果你想找我學英文，可以&lt;a class=&#34;link&#34; href=&#34;http://member.frankchi.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;加入我的頻道會員&lt;/a&gt;，參加會員直播。&lt;/p&gt;
-&lt;p&gt;你也可以加入我的&lt;a class=&#34;link&#34; href=&#34;https://frankchi.com/newsletter-subscribe&#34; &gt;電子報&lt;/a&gt;，當我有最新消息和課程，我會通知你的。&lt;/p&gt;
+&lt;p&gt;你也可以加入我的&lt;a class=&#34;link&#34; href=&#34;http://localhost:58742/newsletter-subscribe&#34; &gt;電子報&lt;/a&gt;，當我有最新消息和課程，我會通知你的。&lt;/p&gt;
 &lt;p&gt;如果有合作提案，則歡迎你來信 &lt;a class=&#34;link&#34; href=&#34;mailto:hi@frankchi.com&#34; &gt;hi@frankchi.com&lt;/a&gt;&lt;/p&gt;
 </description>
         </item>
         <item>
         <title>【教學】怎麼用手機、平板參加 Google Meet 直播</title>
-        <link>https://frankchi.com/google-meet/</link>
+        <link>http://localhost:58742/google-meet/</link>
         <pubDate>Thu, 07 Mar 2024 08:51:32 +0800</pubDate>
         
-        <guid>https://frankchi.com/google-meet/</guid>
+        <guid>http://localhost:58742/google-meet/</guid>
         <description>&lt;p&gt;接下來直播課想嘗試用 Google Meet。我覺得不一定每個人都會用，所以寫了這篇教學，解決一些常見問題。&lt;/p&gt;
 &lt;p&gt;如果你用電腦，則直接用網路瀏覽器打開 Frank 給你的連結就可以。&lt;/p&gt;
 &lt;h3 id=&#34;1-手機平板怎麼下載-google-meet-&#34;&gt;(1) 手機、平板怎麼下載 Google Meet ？&lt;/h3&gt;
@@ -71,10 +114,10 @@
     &gt;App Store 連結&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;2-進入會議&#34;&gt;(2) 進入會議&lt;/h3&gt;
 &lt;h4 id=&#34;step-1從-frank-寄的-email-點連結按-open-打開-google-meet進來前記得先關掉自己的聲音和畫面&#34;&gt;Step 1，從 Frank 寄的 Email 點連結。按 open 打開 Google Meet。進來前記得先關掉自己的聲音和畫面：&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&#34;https://frankchi.com/google-meet/google_meet1.PNG&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:58742/google-meet/google_meet1.PNG&#34;
 	width=&#34;750&#34;
 	height=&#34;1334&#34;
-	srcset=&#34;https://frankchi.com/google-meet/google_meet1_hu8f8b82b6f703154afdffe91ac000d407_225970_480x0_resize_box_3.PNG 480w, https://frankchi.com/google-meet/google_meet1_hu8f8b82b6f703154afdffe91ac000d407_225970_1024x0_resize_box_3.PNG 1024w&#34;
+	srcset=&#34;http://localhost:58742/google-meet/google_meet1_hu8f8b82b6f703154afdffe91ac000d407_225970_480x0_resize_box_3.PNG 480w, http://localhost:58742/google-meet/google_meet1_hu8f8b82b6f703154afdffe91ac000d407_225970_1024x0_resize_box_3.PNG 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -83,10 +126,10 @@
 		data-flex-basis=&#34;134px&#34;
 	
 &gt;
-&lt;img src=&#34;https://frankchi.com/google-meet/google_meet3.PNG&#34;
+&lt;img src=&#34;http://localhost:58742/google-meet/google_meet3.PNG&#34;
 	width=&#34;750&#34;
 	height=&#34;1334&#34;
-	srcset=&#34;https://frankchi.com/google-meet/google_meet3_huced3729193de1577136cada7d278bd56_152445_480x0_resize_box_3.PNG 480w, https://frankchi.com/google-meet/google_meet3_huced3729193de1577136cada7d278bd56_152445_1024x0_resize_box_3.PNG 1024w&#34;
+	srcset=&#34;http://localhost:58742/google-meet/google_meet3_huced3729193de1577136cada7d278bd56_152445_480x0_resize_box_3.PNG 480w, http://localhost:58742/google-meet/google_meet3_huced3729193de1577136cada7d278bd56_152445_1024x0_resize_box_3.PNG 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -95,10 +138,10 @@
 		data-flex-basis=&#34;134px&#34;
 	
 &gt;
-&lt;img src=&#34;https://frankchi.com/google-meet/google_meet4.PNG&#34;
+&lt;img src=&#34;http://localhost:58742/google-meet/google_meet4.PNG&#34;
 	width=&#34;750&#34;
 	height=&#34;1334&#34;
-	srcset=&#34;https://frankchi.com/google-meet/google_meet4_hu589511cbd0483c531ab017fa7af64207_291648_480x0_resize_box_3.PNG 480w, https://frankchi.com/google-meet/google_meet4_hu589511cbd0483c531ab017fa7af64207_291648_1024x0_resize_box_3.PNG 1024w&#34;
+	srcset=&#34;http://localhost:58742/google-meet/google_meet4_hu589511cbd0483c531ab017fa7af64207_291648_480x0_resize_box_3.PNG 480w, http://localhost:58742/google-meet/google_meet4_hu589511cbd0483c531ab017fa7af64207_291648_1024x0_resize_box_3.PNG 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -109,10 +152,10 @@
 &gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h4 id=&#34;進來會議之後把-frank-的畫面固定住&#34;&gt;進來會議之後，把 Frank 的畫面固定住：&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&#34;https://frankchi.com/google-meet/google_meet5.PNG&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:58742/google-meet/google_meet5.PNG&#34;
 	width=&#34;750&#34;
 	height=&#34;1334&#34;
-	srcset=&#34;https://frankchi.com/google-meet/google_meet5_hu1351dac837c731d8b2803bd1624ce558_207531_480x0_resize_box_3.PNG 480w, https://frankchi.com/google-meet/google_meet5_hu1351dac837c731d8b2803bd1624ce558_207531_1024x0_resize_box_3.PNG 1024w&#34;
+	srcset=&#34;http://localhost:58742/google-meet/google_meet5_hu1351dac837c731d8b2803bd1624ce558_207531_480x0_resize_box_3.PNG 480w, http://localhost:58742/google-meet/google_meet5_hu1351dac837c731d8b2803bd1624ce558_207531_1024x0_resize_box_3.PNG 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -121,10 +164,10 @@
 		data-flex-basis=&#34;134px&#34;
 	
 &gt;
-&lt;img src=&#34;https://frankchi.com/google-meet/google_meet6.jpeg&#34;
+&lt;img src=&#34;http://localhost:58742/google-meet/google_meet6.jpeg&#34;
 	width=&#34;750&#34;
 	height=&#34;1334&#34;
-	srcset=&#34;https://frankchi.com/google-meet/google_meet6_hu02aa61ae1d9de35cbe238d2676170cb9_110197_480x0_resize_q75_box.jpeg 480w, https://frankchi.com/google-meet/google_meet6_hu02aa61ae1d9de35cbe238d2676170cb9_110197_1024x0_resize_q75_box.jpeg 1024w&#34;
+	srcset=&#34;http://localhost:58742/google-meet/google_meet6_hu02aa61ae1d9de35cbe238d2676170cb9_110197_480x0_resize_q75_box.jpeg 480w, http://localhost:58742/google-meet/google_meet6_hu02aa61ae1d9de35cbe238d2676170cb9_110197_1024x0_resize_q75_box.jpeg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -135,10 +178,10 @@
 &gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h4 id=&#34;把-frank-的畫面設定全螢幕把自己的畫面最小化&#34;&gt;把 Frank 的畫面設定全螢幕，把自己的畫面最小化：&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&#34;https://frankchi.com/google-meet/google_meet7.PNG&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:58742/google-meet/google_meet7.PNG&#34;
 	width=&#34;750&#34;
 	height=&#34;1334&#34;
-	srcset=&#34;https://frankchi.com/google-meet/google_meet7_hufeeae784b091b255e35c7f3fbd694c67_208335_480x0_resize_box_3.PNG 480w, https://frankchi.com/google-meet/google_meet7_hufeeae784b091b255e35c7f3fbd694c67_208335_1024x0_resize_box_3.PNG 1024w&#34;
+	srcset=&#34;http://localhost:58742/google-meet/google_meet7_hufeeae784b091b255e35c7f3fbd694c67_208335_480x0_resize_box_3.PNG 480w, http://localhost:58742/google-meet/google_meet7_hufeeae784b091b255e35c7f3fbd694c67_208335_1024x0_resize_box_3.PNG 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -147,10 +190,10 @@
 		data-flex-basis=&#34;134px&#34;
 	
 &gt;
-&lt;img src=&#34;https://frankchi.com/google-meet/google_meet8.PNG&#34;
+&lt;img src=&#34;http://localhost:58742/google-meet/google_meet8.PNG&#34;
 	width=&#34;750&#34;
 	height=&#34;1334&#34;
-	srcset=&#34;https://frankchi.com/google-meet/google_meet8_hudd002fc06f9037cedbfd84e34089d721_226037_480x0_resize_box_3.PNG 480w, https://frankchi.com/google-meet/google_meet8_hudd002fc06f9037cedbfd84e34089d721_226037_1024x0_resize_box_3.PNG 1024w&#34;
+	srcset=&#34;http://localhost:58742/google-meet/google_meet8_hudd002fc06f9037cedbfd84e34089d721_226037_480x0_resize_box_3.PNG 480w, http://localhost:58742/google-meet/google_meet8_hudd002fc06f9037cedbfd84e34089d721_226037_1024x0_resize_box_3.PNG 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -159,10 +202,10 @@
 		data-flex-basis=&#34;134px&#34;
 	
 &gt;
-&lt;img src=&#34;https://frankchi.com/google-meet/google_meet9.PNG&#34;
+&lt;img src=&#34;http://localhost:58742/google-meet/google_meet9.PNG&#34;
 	width=&#34;750&#34;
 	height=&#34;1334&#34;
-	srcset=&#34;https://frankchi.com/google-meet/google_meet9_hu40b39d29e3951a52ea07a021e84221c4_185353_480x0_resize_box_3.PNG 480w, https://frankchi.com/google-meet/google_meet9_hu40b39d29e3951a52ea07a021e84221c4_185353_1024x0_resize_box_3.PNG 1024w&#34;
+	srcset=&#34;http://localhost:58742/google-meet/google_meet9_hu40b39d29e3951a52ea07a021e84221c4_185353_480x0_resize_box_3.PNG 480w, http://localhost:58742/google-meet/google_meet9_hu40b39d29e3951a52ea07a021e84221c4_185353_1024x0_resize_box_3.PNG 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -172,10 +215,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;h4 id=&#34;這樣應該就看得到了&#34;&gt;這樣應該就看得到了。&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&#34;https://frankchi.com/google-meet/google_meet10.PNG&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:58742/google-meet/google_meet10.PNG&#34;
 	width=&#34;1334&#34;
 	height=&#34;750&#34;
-	srcset=&#34;https://frankchi.com/google-meet/google_meet10_hu71f6978a0f102eb9a2acb51e31f2aa3a_727759_480x0_resize_box_3.PNG 480w, https://frankchi.com/google-meet/google_meet10_hu71f6978a0f102eb9a2acb51e31f2aa3a_727759_1024x0_resize_box_3.PNG 1024w&#34;
+	srcset=&#34;http://localhost:58742/google-meet/google_meet10_hu71f6978a0f102eb9a2acb51e31f2aa3a_727759_480x0_resize_box_3.PNG 480w, http://localhost:58742/google-meet/google_meet10_hu71f6978a0f102eb9a2acb51e31f2aa3a_727759_1024x0_resize_box_3.PNG 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -185,10 +228,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;h3 id=&#34;怎麼看聊天室&#34;&gt;怎麼看聊天室？&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&#34;https://frankchi.com/google-meet/google_meet11.PNG&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:58742/google-meet/google_meet11.PNG&#34;
 	width=&#34;750&#34;
 	height=&#34;1334&#34;
-	srcset=&#34;https://frankchi.com/google-meet/google_meet11_huf7d99fda4deda27acecbf0dad6c9de89_235608_480x0_resize_box_3.PNG 480w, https://frankchi.com/google-meet/google_meet11_huf7d99fda4deda27acecbf0dad6c9de89_235608_1024x0_resize_box_3.PNG 1024w&#34;
+	srcset=&#34;http://localhost:58742/google-meet/google_meet11_huf7d99fda4deda27acecbf0dad6c9de89_235608_480x0_resize_box_3.PNG 480w, http://localhost:58742/google-meet/google_meet11_huf7d99fda4deda27acecbf0dad6c9de89_235608_1024x0_resize_box_3.PNG 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -197,10 +240,10 @@
 		data-flex-basis=&#34;134px&#34;
 	
 &gt;
-&lt;img src=&#34;https://frankchi.com/google-meet/google_meet12.PNG&#34;
+&lt;img src=&#34;http://localhost:58742/google-meet/google_meet12.PNG&#34;
 	width=&#34;750&#34;
 	height=&#34;1334&#34;
-	srcset=&#34;https://frankchi.com/google-meet/google_meet12_hud115571d6c18c939609779720896b2ed_169695_480x0_resize_box_3.PNG 480w, https://frankchi.com/google-meet/google_meet12_hud115571d6c18c939609779720896b2ed_169695_1024x0_resize_box_3.PNG 1024w&#34;
+	srcset=&#34;http://localhost:58742/google-meet/google_meet12_hud115571d6c18c939609779720896b2ed_169695_480x0_resize_box_3.PNG 480w, http://localhost:58742/google-meet/google_meet12_hud115571d6c18c939609779720896b2ed_169695_1024x0_resize_box_3.PNG 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -209,10 +252,10 @@
 		data-flex-basis=&#34;134px&#34;
 	
 &gt;
-&lt;img src=&#34;https://frankchi.com/google-meet/google_meet13.PNG&#34;
+&lt;img src=&#34;http://localhost:58742/google-meet/google_meet13.PNG&#34;
 	width=&#34;750&#34;
 	height=&#34;1334&#34;
-	srcset=&#34;https://frankchi.com/google-meet/google_meet13_hue39707234c31c9f8e676b0aacde0f38f_229827_480x0_resize_box_3.PNG 480w, https://frankchi.com/google-meet/google_meet13_hue39707234c31c9f8e676b0aacde0f38f_229827_1024x0_resize_box_3.PNG 1024w&#34;
+	srcset=&#34;http://localhost:58742/google-meet/google_meet13_hue39707234c31c9f8e676b0aacde0f38f_229827_480x0_resize_box_3.PNG 480w, http://localhost:58742/google-meet/google_meet13_hue39707234c31c9f8e676b0aacde0f38f_229827_1024x0_resize_box_3.PNG 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -225,10 +268,10 @@
 &lt;p&gt;可以先在聊天室問一下，是不是 Frank 忘了開？如果大家都聽到了，但你沒有聽到，那就要調整自己電腦端設定。&lt;/p&gt;
 &lt;p&gt;手機、平板的音訊應該滿固定的，比較不會有聽不到聲音的問題。&lt;/p&gt;
 &lt;p&gt;電腦的話問題比較多，可以點到設定之後選擇音訊、喇叭&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://frankchi.com/google-meet/google_meet15.PNG&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:58742/google-meet/google_meet15.PNG&#34;
 	width=&#34;1270&#34;
 	height=&#34;1444&#34;
-	srcset=&#34;https://frankchi.com/google-meet/google_meet15_huf0174434ac26a0720ba4fb85b6b5596b_95030_480x0_resize_box_3.PNG 480w, https://frankchi.com/google-meet/google_meet15_huf0174434ac26a0720ba4fb85b6b5596b_95030_1024x0_resize_box_3.PNG 1024w&#34;
+	srcset=&#34;http://localhost:58742/google-meet/google_meet15_huf0174434ac26a0720ba4fb85b6b5596b_95030_480x0_resize_box_3.PNG 480w, http://localhost:58742/google-meet/google_meet15_huf0174434ac26a0720ba4fb85b6b5596b_95030_1024x0_resize_box_3.PNG 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -237,10 +280,10 @@
 		data-flex-basis=&#34;211px&#34;
 	
 &gt;
-&lt;img src=&#34;https://frankchi.com/google-meet/google_meet16.PNG&#34;
+&lt;img src=&#34;http://localhost:58742/google-meet/google_meet16.PNG&#34;
 	width=&#34;1176&#34;
 	height=&#34;1344&#34;
-	srcset=&#34;https://frankchi.com/google-meet/google_meet16_hu98f740a8669658ff028dbc1593cf13a8_155010_480x0_resize_box_3.PNG 480w, https://frankchi.com/google-meet/google_meet16_hu98f740a8669658ff028dbc1593cf13a8_155010_1024x0_resize_box_3.PNG 1024w&#34;
+	srcset=&#34;http://localhost:58742/google-meet/google_meet16_hu98f740a8669658ff028dbc1593cf13a8_155010_480x0_resize_box_3.PNG 480w, http://localhost:58742/google-meet/google_meet16_hu98f740a8669658ff028dbc1593cf13a8_155010_1024x0_resize_box_3.PNG 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -249,10 +292,10 @@
 		data-flex-basis=&#34;210px&#34;
 	
 &gt;
-&lt;img src=&#34;https://frankchi.com/google-meet/google_meet17.PNG&#34;
+&lt;img src=&#34;http://localhost:58742/google-meet/google_meet17.PNG&#34;
 	width=&#34;2000&#34;
 	height=&#34;1660&#34;
-	srcset=&#34;https://frankchi.com/google-meet/google_meet17_hu1c055abc6726e1e08e34bb1fcce19268_188838_480x0_resize_box_3.PNG 480w, https://frankchi.com/google-meet/google_meet17_hu1c055abc6726e1e08e34bb1fcce19268_188838_1024x0_resize_box_3.PNG 1024w&#34;
+	srcset=&#34;http://localhost:58742/google-meet/google_meet17_hu1c055abc6726e1e08e34bb1fcce19268_188838_480x0_resize_box_3.PNG 480w, http://localhost:58742/google-meet/google_meet17_hu1c055abc6726e1e08e34bb1fcce19268_188838_1024x0_resize_box_3.PNG 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -262,10 +305,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;調整到正在使用的訊號源（你的可能不會像我的那麼多，每個都測測看，應該會沒問題的。）
-&lt;img src=&#34;https://frankchi.com/google-meet/google_meet18.png&#34;
+&lt;img src=&#34;http://localhost:58742/google-meet/google_meet18.png&#34;
 	width=&#34;1982&#34;
 	height=&#34;1568&#34;
-	srcset=&#34;https://frankchi.com/google-meet/google_meet18_hu408e778405c5113da09429ebe3e9c988_250093_480x0_resize_box_3.png 480w, https://frankchi.com/google-meet/google_meet18_hu408e778405c5113da09429ebe3e9c988_250093_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;http://localhost:58742/google-meet/google_meet18_hu408e778405c5113da09429ebe3e9c988_250093_480x0_resize_box_3.png 480w, http://localhost:58742/google-meet/google_meet18_hu408e778405c5113da09429ebe3e9c988_250093_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -276,10 +319,10 @@
 &gt;&lt;/p&gt;
 &lt;h3 id=&#34;發言舉手&#34;&gt;發言、舉手&lt;/h3&gt;
 &lt;p&gt;這比 zoom 直觀很多（笑），按一次就好，不要一直按喔。我都會適時回應的。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://frankchi.com/google-meet/google_meet19.PNG&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:58742/google-meet/google_meet19.PNG&#34;
 	width=&#34;1115&#34;
 	height=&#34;1157&#34;
-	srcset=&#34;https://frankchi.com/google-meet/google_meet19_hu02aa61ae1d9de35cbe238d2676170cb9_78157_480x0_resize_box_3.PNG 480w, https://frankchi.com/google-meet/google_meet19_hu02aa61ae1d9de35cbe238d2676170cb9_78157_1024x0_resize_box_3.PNG 1024w&#34;
+	srcset=&#34;http://localhost:58742/google-meet/google_meet19_hu02aa61ae1d9de35cbe238d2676170cb9_78157_480x0_resize_box_3.PNG 480w, http://localhost:58742/google-meet/google_meet19_hu02aa61ae1d9de35cbe238d2676170cb9_78157_1024x0_resize_box_3.PNG 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -294,27 +337,27 @@
         </item>
         <item>
         <title>報名成功！</title>
-        <link>https://frankchi.com/seminar-sign-up/</link>
+        <link>http://localhost:58742/seminar-sign-up/</link>
         <pubDate>Thu, 29 Feb 2024 17:53:32 +0800</pubDate>
         
-        <guid>https://frankchi.com/seminar-sign-up/</guid>
-        <description>&lt;img src="https://frankchi.com/seminar-sign-up/cover.jpeg" alt="Featured image of post 報名成功！" /&gt;&lt;p&gt;這樣報名就成功了。講座前一天 Frank 會把 Zoom 會議室連結傳給你。再幫我收一下信喔。&lt;/p&gt;
+        <guid>http://localhost:58742/seminar-sign-up/</guid>
+        <description>&lt;img src="http://localhost:58742/seminar-sign-up/cover.jpeg" alt="Featured image of post 報名成功！" /&gt;&lt;p&gt;這樣報名就成功了。講座前一天 Frank 會把 Zoom 會議室連結傳給你。再幫我收一下信喔。&lt;/p&gt;
 &lt;p&gt;如果沒收到，可以看一下垃圾信箱或是其他收件夾。如果都沒有，請來信 &lt;a class=&#34;link&#34; href=&#34;mailto:hi@frankchi.com&#34; &gt;hi@frankchi.com&lt;/a&gt; 或是用 Frank 的&lt;a class=&#34;link&#34; href=&#34;https://lin.ee/0vIw5Wd&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;官方帳號&lt;/a&gt;跟我說一下。（應該會收到啦）&lt;/p&gt;
 &lt;p&gt;期待見到你！&lt;/p&gt;
 &lt;p&gt;在這之前你可以看看之前講座大家問的問題，還有我的回答【法蘭克跟你說】系列文：&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://frankchi.com/p/think-in-english/&#34; &gt;為什麼不要追求「用英文思考」？&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;http://localhost:58742/p/think-in-english/&#34; &gt;為什麼不要追求「用英文思考」？&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://frankchi.com/p/passion-overrated/&#34; &gt;對學英文沒有興趣、沒有熱情怎麼辦？&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;http://localhost:58742/p/passion-overrated/&#34; &gt;對學英文沒有興趣、沒有熱情怎麼辦？&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://frankchi.com/p/never-too-late/&#34; &gt;學英文，年齡重要嗎？&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;http://localhost:58742/p/never-too-late/&#34; &gt;學英文，年齡重要嗎？&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://frankchi.com/p/how_to_vocab/&#34; &gt;三招讓你背單字更快、更好記！&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;http://localhost:58742/p/how_to_vocab/&#34; &gt;三招讓你背單字更快、更好記！&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;!-- raw HTML omitted --&gt;
@@ -324,11 +367,11 @@
         </item>
         <item>
         <title>讓我們用 E-mail 保持聯絡吧！</title>
-        <link>https://frankchi.com/newsletter-subscribe/</link>
+        <link>http://localhost:58742/newsletter-subscribe/</link>
         <pubDate>Sun, 11 Feb 2024 23:54:15 +0800</pubDate>
         
-        <guid>https://frankchi.com/newsletter-subscribe/</guid>
-        <description>&lt;img src="https://frankchi.com/newsletter-subscribe/cover.jpeg" alt="Featured image of post 讓我們用 E-mail 保持聯絡吧！" /&gt;&lt;p&gt;哈囉 👋 我是 Frank～ 點到這個頁面，我想你可能有在 YouTube / Instagram / Facebook 等網站訂閱我看電影學英文頻道。謝謝你的支持、收看和追蹤！&lt;/p&gt;
+        <guid>http://localhost:58742/newsletter-subscribe/</guid>
+        <description>&lt;img src="http://localhost:58742/newsletter-subscribe/cover.jpeg" alt="Featured image of post 讓我們用 E-mail 保持聯絡吧！" /&gt;&lt;p&gt;哈囉 👋 我是 Frank～ 點到這個頁面，我想你可能有在 YouTube / Instagram / Facebook 等網站訂閱我看電影學英文頻道。謝謝你的支持、收看和追蹤！&lt;/p&gt;
 &lt;p&gt;我問你喔～&lt;/p&gt;
 &lt;p&gt;你會不會覺得，社群網站越來越多，看東西速度越來越快，但好像有印象的也越來越少？&lt;/p&gt;
 &lt;p&gt;每一個訂閱按下去，對創作者是莫大的支持、鼓勵。&lt;/p&gt;
@@ -350,18 +393,18 @@
         </item>
         <item>
         <title>【教學】怎麼用電腦看會員頻道</title>
-        <link>https://frankchi.com/member-desktop/</link>
+        <link>http://localhost:58742/member-desktop/</link>
         <pubDate>Fri, 02 Feb 2024 19:12:09 +0800</pubDate>
         
-        <guid>https://frankchi.com/member-desktop/</guid>
+        <guid>http://localhost:58742/member-desktop/</guid>
         <description>&lt;p&gt;歡迎加入會員！這邊 Frank 想跟你說怎麼用電腦看頻道會員內容：&lt;/p&gt;
 &lt;h3 id=&#34;步驟一&#34;&gt;步驟一&lt;/h3&gt;
 &lt;p&gt;前往Gumroad&lt;a class=&#34;link&#34; href=&#34;https://www.gumroad.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;連結&lt;/a&gt;，點擊登入。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://frankchi.com/member-desktop/member-desktop1.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:58742/member-desktop/member-desktop1.png&#34;
 	width=&#34;3840&#34;
 	height=&#34;1880&#34;
-	srcset=&#34;https://frankchi.com/member-desktop/member-desktop1_hu6d39d034d21e0c93f8bf9b4f9d9331e1_1154697_480x0_resize_box_3.png 480w, https://frankchi.com/member-desktop/member-desktop1_hu6d39d034d21e0c93f8bf9b4f9d9331e1_1154697_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;http://localhost:58742/member-desktop/member-desktop1_hu6d39d034d21e0c93f8bf9b4f9d9331e1_1154697_480x0_resize_box_3.png 480w, http://localhost:58742/member-desktop/member-desktop1_hu6d39d034d21e0c93f8bf9b4f9d9331e1_1154697_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -372,10 +415,10 @@
 &gt;&lt;/p&gt;
 &lt;h3 id=&#34;步驟二&#34;&gt;步驟二&lt;/h3&gt;
 &lt;p&gt;請用「訂閱時用的 Email」，創立一個新密碼。創立新帳戶：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://frankchi.com/member-desktop/member-desktop2.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:58742/member-desktop/member-desktop2.png&#34;
 	width=&#34;3840&#34;
 	height=&#34;1874&#34;
-	srcset=&#34;https://frankchi.com/member-desktop/member-desktop2_hu8829af7a750f0042e78f1d4c716dafeb_802391_480x0_resize_box_3.png 480w, https://frankchi.com/member-desktop/member-desktop2_hu8829af7a750f0042e78f1d4c716dafeb_802391_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;http://localhost:58742/member-desktop/member-desktop2_hu8829af7a750f0042e78f1d4c716dafeb_802391_480x0_resize_box_3.png 480w, http://localhost:58742/member-desktop/member-desktop2_hu8829af7a750f0042e78f1d4c716dafeb_802391_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -386,10 +429,10 @@
 &gt;&lt;/p&gt;
 &lt;h3 id=&#34;步驟三&#34;&gt;步驟三&lt;/h3&gt;
 &lt;p&gt;回到你的 Email 信箱收信。應該會有一封標題為：Confirm Instructions 「確認指示」的一封信，點擊確認電子郵件即可：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://frankchi.com/member-desktop/member-desktop3.PNG&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:58742/member-desktop/member-desktop3.PNG&#34;
 	width=&#34;1482&#34;
 	height=&#34;1530&#34;
-	srcset=&#34;https://frankchi.com/member-desktop/member-desktop3_hu43638d07e532c6b033bc78ae11eef8f5_703838_480x0_resize_box_3.PNG 480w, https://frankchi.com/member-desktop/member-desktop3_hu43638d07e532c6b033bc78ae11eef8f5_703838_1024x0_resize_box_3.PNG 1024w&#34;
+	srcset=&#34;http://localhost:58742/member-desktop/member-desktop3_hu43638d07e532c6b033bc78ae11eef8f5_703838_480x0_resize_box_3.PNG 480w, http://localhost:58742/member-desktop/member-desktop3_hu43638d07e532c6b033bc78ae11eef8f5_703838_1024x0_resize_box_3.PNG 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -400,10 +443,10 @@
 &gt;&lt;/p&gt;
 &lt;h3 id=&#34;步驟五&#34;&gt;步驟五&lt;/h3&gt;
 &lt;p&gt;回到網站點擊或重新整理，在Library 就可以看到囉：
-&lt;img src=&#34;https://frankchi.com/member-desktop/member-desktop4.png&#34;
+&lt;img src=&#34;http://localhost:58742/member-desktop/member-desktop4.png&#34;
 	width=&#34;3840&#34;
 	height=&#34;1888&#34;
-	srcset=&#34;https://frankchi.com/member-desktop/member-desktop4_hu55a508777eda03e94565c47a9cf2aa15_326507_480x0_resize_box_3.png 480w, https://frankchi.com/member-desktop/member-desktop4_hu55a508777eda03e94565c47a9cf2aa15_326507_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;http://localhost:58742/member-desktop/member-desktop4_hu55a508777eda03e94565c47a9cf2aa15_326507_480x0_resize_box_3.png 480w, http://localhost:58742/member-desktop/member-desktop4_hu55a508777eda03e94565c47a9cf2aa15_326507_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -413,10 +456,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;你可以把這個頁面的網址（每個會員不同）設為我的最愛：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://frankchi.com/member-desktop/member-desktop5.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:58742/member-desktop/member-desktop5.png&#34;
 	width=&#34;3840&#34;
 	height=&#34;1884&#34;
-	srcset=&#34;https://frankchi.com/member-desktop/member-desktop5_hu29cb35f91a343676536ca9b38dfe6787_673096_480x0_resize_box_3.png 480w, https://frankchi.com/member-desktop/member-desktop5_hu29cb35f91a343676536ca9b38dfe6787_673096_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;http://localhost:58742/member-desktop/member-desktop5_hu29cb35f91a343676536ca9b38dfe6787_673096_480x0_resize_box_3.png 480w, http://localhost:58742/member-desktop/member-desktop5_hu29cb35f91a343676536ca9b38dfe6787_673096_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -428,10 +471,10 @@
 &lt;p&gt;如果需要再次登入，就用Email和剛才的密碼登入即可。&lt;/p&gt;
 &lt;h3 id=&#34;不用創造帳號其實也可以看&#34;&gt;不用創造帳號其實也可以看：&lt;/h3&gt;
 &lt;p&gt;你可以去找訂閱之後系統寄給你的這封信，點擊看看這期的內容。這個方式不用創建帳號，每次只要輸入Email即可：
-&lt;img src=&#34;https://frankchi.com/member-desktop/member-desktop6.png&#34;
+&lt;img src=&#34;http://localhost:58742/member-desktop/member-desktop6.png&#34;
 	width=&#34;2880&#34;
 	height=&#34;928&#34;
-	srcset=&#34;https://frankchi.com/member-desktop/member-desktop6_hu3f58f86db530a4db812dd4f5f7cd7f7e_168388_480x0_resize_box_3.png 480w, https://frankchi.com/member-desktop/member-desktop6_hu3f58f86db530a4db812dd4f5f7cd7f7e_168388_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;http://localhost:58742/member-desktop/member-desktop6_hu3f58f86db530a4db812dd4f5f7cd7f7e_168388_480x0_resize_box_3.png 480w, http://localhost:58742/member-desktop/member-desktop6_hu3f58f86db530a4db812dd4f5f7cd7f7e_168388_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -443,15 +486,15 @@
 &lt;p&gt;各位會員有問題歡迎來信 &lt;a class=&#34;link&#34; href=&#34;mailto:hi@frankchi.com&#34; &gt;hi@frankchi.com&lt;/a&gt; 或是用我的&lt;a class=&#34;link&#34; href=&#34;https://lin.ee/0vIw5Wd&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;官方帳號&lt;/a&gt;跟我說，我都會盡快回答的。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;想用手機平板看嗎？來在這看教學：&lt;/strong&gt;
-&lt;a class=&#34;link&#34; href=&#34;https://frankchi.com/member-app/&#34; &gt;【教學】怎麼用手機、平板看會員頻道&lt;/a&gt;&lt;/p&gt;
+&lt;a class=&#34;link&#34; href=&#34;http://localhost:58742/member-app/&#34; &gt;【教學】怎麼用手機、平板看會員頻道&lt;/a&gt;&lt;/p&gt;
 </description>
         </item>
         <item>
         <title>【教學】怎麼用手機、平板看會員頻道</title>
-        <link>https://frankchi.com/member-app/</link>
+        <link>http://localhost:58742/member-app/</link>
         <pubDate>Fri, 02 Feb 2024 18:48:43 +0800</pubDate>
         
-        <guid>https://frankchi.com/member-app/</guid>
+        <guid>http://localhost:58742/member-app/</guid>
         <description>&lt;p&gt;歡迎加入會員！這邊 Frank 想跟你說怎麼用平板和手機看頻道會員內容：&lt;/p&gt;
 &lt;h3 id=&#34;步驟一&#34;&gt;步驟一&lt;/h3&gt;
 &lt;p&gt;在Google Play (連結) 或是 App Store 裡面找到 Gumroad：&lt;br&gt;
@@ -459,10 +502,10 @@
     &gt;Goole Play 連結&lt;/a&gt;&lt;br&gt;
 &lt;a class=&#34;link&#34; href=&#34;https://apps.apple.com/us/app/gumroad/id916819108&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;App Store 連結&lt;/a&gt;
-&lt;img src=&#34;https://frankchi.com/member-app/member-app0.PNG&#34;
+&lt;img src=&#34;http://localhost:58742/member-app/member-app0.PNG&#34;
 	width=&#34;2388&#34;
 	height=&#34;1668&#34;
-	srcset=&#34;https://frankchi.com/member-app/member-app0_hu73ba37fbd021b532d9539df20a4ac729_2652841_480x0_resize_box_3.PNG 480w, https://frankchi.com/member-app/member-app0_hu73ba37fbd021b532d9539df20a4ac729_2652841_1024x0_resize_box_3.PNG 1024w&#34;
+	srcset=&#34;http://localhost:58742/member-app/member-app0_hu73ba37fbd021b532d9539df20a4ac729_2652841_480x0_resize_box_3.PNG 480w, http://localhost:58742/member-app/member-app0_hu73ba37fbd021b532d9539df20a4ac729_2652841_1024x0_resize_box_3.PNG 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -473,10 +516,10 @@
 &gt;&lt;/p&gt;
 &lt;h3 id=&#34;步驟二&#34;&gt;步驟二&lt;/h3&gt;
 &lt;p&gt;下載 App 之後先不要點登入，要點登入下面的 Create one 「創造一個帳戶」&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://frankchi.com/member-app/member-app1.jpeg&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:58742/member-app/member-app1.jpeg&#34;
 	width=&#34;2388&#34;
 	height=&#34;1668&#34;
-	srcset=&#34;https://frankchi.com/member-app/member-app1_hub0a92b524d785648f0463ecdf49033cd_187643_480x0_resize_q75_box.jpeg 480w, https://frankchi.com/member-app/member-app1_hub0a92b524d785648f0463ecdf49033cd_187643_1024x0_resize_q75_box.jpeg 1024w&#34;
+	srcset=&#34;http://localhost:58742/member-app/member-app1_hub0a92b524d785648f0463ecdf49033cd_187643_480x0_resize_q75_box.jpeg 480w, http://localhost:58742/member-app/member-app1_hub0a92b524d785648f0463ecdf49033cd_187643_1024x0_resize_q75_box.jpeg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -487,10 +530,10 @@
 &gt;&lt;/p&gt;
 &lt;h3 id=&#34;步驟三&#34;&gt;步驟三&lt;/h3&gt;
 &lt;p&gt;請用「訂閱時用的 Email」，並創造一個你記得的密碼，然後按「創建帳戶」&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://frankchi.com/member-app/member-app2.jpeg&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:58742/member-app/member-app2.jpeg&#34;
 	width=&#34;2388&#34;
 	height=&#34;1668&#34;
-	srcset=&#34;https://frankchi.com/member-app/member-app2_hu1d706cbc09f454efe048720367151097_287938_480x0_resize_q75_box.jpeg 480w, https://frankchi.com/member-app/member-app2_hu1d706cbc09f454efe048720367151097_287938_1024x0_resize_q75_box.jpeg 1024w&#34;
+	srcset=&#34;http://localhost:58742/member-app/member-app2_hu1d706cbc09f454efe048720367151097_287938_480x0_resize_q75_box.jpeg 480w, http://localhost:58742/member-app/member-app2_hu1d706cbc09f454efe048720367151097_287938_1024x0_resize_q75_box.jpeg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -501,10 +544,10 @@
 &gt;&lt;/p&gt;
 &lt;h3 id=&#34;步驟四&#34;&gt;步驟四&lt;/h3&gt;
 &lt;p&gt;回到你的 Email 信箱收信。應該會有一封標題為：Confirm Instructions 「確認指示」的一封信，點擊確認電子郵件即可：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://frankchi.com/member-app/member-app4.PNG&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:58742/member-app/member-app4.PNG&#34;
 	width=&#34;1482&#34;
 	height=&#34;1530&#34;
-	srcset=&#34;https://frankchi.com/member-app/member-app4_hu43638d07e532c6b033bc78ae11eef8f5_703838_480x0_resize_box_3.PNG 480w, https://frankchi.com/member-app/member-app4_hu43638d07e532c6b033bc78ae11eef8f5_703838_1024x0_resize_box_3.PNG 1024w&#34;
+	srcset=&#34;http://localhost:58742/member-app/member-app4_hu43638d07e532c6b033bc78ae11eef8f5_703838_480x0_resize_box_3.PNG 480w, http://localhost:58742/member-app/member-app4_hu43638d07e532c6b033bc78ae11eef8f5_703838_1024x0_resize_box_3.PNG 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -515,10 +558,10 @@
 &gt;&lt;/p&gt;
 &lt;h3 id=&#34;步驟五&#34;&gt;步驟五&lt;/h3&gt;
 &lt;p&gt;回到 App 點擊 Library 就可以看到囉：
-&lt;img src=&#34;https://frankchi.com/member-app/member-app6.PNG&#34;
+&lt;img src=&#34;http://localhost:58742/member-app/member-app6.PNG&#34;
 	width=&#34;2388&#34;
 	height=&#34;1668&#34;
-	srcset=&#34;https://frankchi.com/member-app/member-app6_hu5e7819f7e206a3d85508ff8902a4048d_581274_480x0_resize_box_3.PNG 480w, https://frankchi.com/member-app/member-app6_hu5e7819f7e206a3d85508ff8902a4048d_581274_1024x0_resize_box_3.PNG 1024w&#34;
+	srcset=&#34;http://localhost:58742/member-app/member-app6_hu5e7819f7e206a3d85508ff8902a4048d_581274_480x0_resize_box_3.PNG 480w, http://localhost:58742/member-app/member-app6_hu5e7819f7e206a3d85508ff8902a4048d_581274_1024x0_resize_box_3.PNG 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -528,10 +571,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;如果需要再次登入，就用Email和剛才的密碼登入即可。
-&lt;img src=&#34;https://frankchi.com/member-app/member-app5.PNG&#34;
+&lt;img src=&#34;http://localhost:58742/member-app/member-app5.PNG&#34;
 	width=&#34;2388&#34;
 	height=&#34;1668&#34;
-	srcset=&#34;https://frankchi.com/member-app/member-app5_huc61b519575d4d3df8afb4c07a20c3206_364990_480x0_resize_box_3.PNG 480w, https://frankchi.com/member-app/member-app5_huc61b519575d4d3df8afb4c07a20c3206_364990_1024x0_resize_box_3.PNG 1024w&#34;
+	srcset=&#34;http://localhost:58742/member-app/member-app5_huc61b519575d4d3df8afb4c07a20c3206_364990_480x0_resize_box_3.PNG 480w, http://localhost:58742/member-app/member-app5_huc61b519575d4d3df8afb4c07a20c3206_364990_1024x0_resize_box_3.PNG 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -541,10 +584,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;h3 id=&#34;在-ipad-上看是這樣&#34;&gt;在 iPad 上看是這樣：&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&#34;https://frankchi.com/member-app/member-app7.jpeg&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:58742/member-app/member-app7.jpeg&#34;
 	width=&#34;2388&#34;
 	height=&#34;1668&#34;
-	srcset=&#34;https://frankchi.com/member-app/member-app7_huf18440fac2573321337a68abb8524102_1085870_480x0_resize_q75_box.jpeg 480w, https://frankchi.com/member-app/member-app7_huf18440fac2573321337a68abb8524102_1085870_1024x0_resize_q75_box.jpeg 1024w&#34;
+	srcset=&#34;http://localhost:58742/member-app/member-app7_huf18440fac2573321337a68abb8524102_1085870_480x0_resize_q75_box.jpeg 480w, http://localhost:58742/member-app/member-app7_huf18440fac2573321337a68abb8524102_1085870_1024x0_resize_q75_box.jpeg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -556,15 +599,15 @@
 &lt;p&gt;各位會員有問題歡迎來信 &lt;a class=&#34;link&#34; href=&#34;mailto:hi@frankchi.com&#34; &gt;hi@frankchi.com&lt;/a&gt; 或是用我的&lt;a class=&#34;link&#34; href=&#34;https://lin.ee/0vIw5Wd&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;官方帳號&lt;/a&gt;跟我說，我都會盡快回答的。&lt;/p&gt;
 &lt;p&gt;想用電腦平板看嗎？教學在這邊：
-&lt;a class=&#34;link&#34; href=&#34;https://frankchi.com/member-desktop/&#34; &gt;【教學】怎麼用電腦看會員頻道&lt;/a&gt;&lt;/p&gt;
+&lt;a class=&#34;link&#34; href=&#34;http://localhost:58742/member-desktop/&#34; &gt;【教學】怎麼用電腦看會員頻道&lt;/a&gt;&lt;/p&gt;
 </description>
         </item>
         <item>
         <title>Frank 電影英文頻道會員 - 退訂教學</title>
-        <link>https://frankchi.com/cancel-sub/</link>
+        <link>http://localhost:58742/cancel-sub/</link>
         <pubDate>Fri, 05 Jan 2024 00:43:01 +0800</pubDate>
         
-        <guid>https://frankchi.com/cancel-sub/</guid>
+        <guid>http://localhost:58742/cancel-sub/</guid>
         <description>&lt;blockquote&gt;
 &lt;p&gt;Hi! 謝謝你加入 Frank 的會員頻道。為了讓大家放心訂閱，我希望退訂會員是一樣簡單的事情，有需要的會員可以參考這篇教學，有任何疑問也請寫信到 &lt;a class=&#34;link&#34; href=&#34;mailto:hi@frankchi.com&#34; &gt;hi@frankchi.com&lt;/a&gt; 或是用我的&lt;a class=&#34;link&#34; href=&#34;https://lin.ee/0vIw5Wd&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;官方帳號&lt;/a&gt;跟我說，我都會儘速處理。&lt;/p&gt;
@@ -573,10 +616,10 @@
 &lt;p&gt;訂閱之後你應該會收到一封加入會員通知信&lt;br&gt;
 標題：&lt;strong&gt;You&amp;rsquo;ve subscribed to 看電影學英文 - 頻道會員&lt;/strong&gt;&lt;/p&gt;
 &lt;h3 id=&#34;點選看看這期內容&#34;&gt;點選看看這期內容&lt;/h3&gt;
-&lt;h2 id=&#34;cancel1png&#34;&gt;&lt;img src=&#34;https://frankchi.com/cancel-sub/cancel1.png&#34;
+&lt;h2 id=&#34;cancel1png&#34;&gt;&lt;img src=&#34;http://localhost:58742/cancel-sub/cancel1.png&#34;
 	width=&#34;1292&#34;
 	height=&#34;1664&#34;
-	srcset=&#34;https://frankchi.com/cancel-sub/cancel1_hu5e3086a5e30d4401f0782886cb6fbf43_197143_480x0_resize_box_3.png 480w, https://frankchi.com/cancel-sub/cancel1_hu5e3086a5e30d4401f0782886cb6fbf43_197143_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;http://localhost:58742/cancel-sub/cancel1_hu5e3086a5e30d4401f0782886cb6fbf43_197143_480x0_resize_box_3.png 480w, http://localhost:58742/cancel-sub/cancel1_hu5e3086a5e30d4401f0782886cb6fbf43_197143_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -586,10 +629,10 @@
 	
 &gt;&lt;/h2&gt;
 &lt;h3 id=&#34;選擇-membership-會員--manage-管理&#34;&gt;選擇 Membership (會員) / Manage (管理)&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&#34;https://frankchi.com/cancel-sub/cancel3.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:58742/cancel-sub/cancel3.png&#34;
 	width=&#34;2522&#34;
 	height=&#34;1534&#34;
-	srcset=&#34;https://frankchi.com/cancel-sub/cancel3_hu3acb86913623b7ea2cfefe4f50d65f33_1441259_480x0_resize_box_3.png 480w, https://frankchi.com/cancel-sub/cancel3_hu3acb86913623b7ea2cfefe4f50d65f33_1441259_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;http://localhost:58742/cancel-sub/cancel3_hu3acb86913623b7ea2cfefe4f50d65f33_1441259_480x0_resize_box_3.png 480w, http://localhost:58742/cancel-sub/cancel3_hu3acb86913623b7ea2cfefe4f50d65f33_1441259_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -599,10 +642,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;h3 id=&#34;選擇-cancel-subscription-取消會員&#34;&gt;選擇 Cancel Subscription (取消會員)&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&#34;https://frankchi.com/cancel-sub/cancel4.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:58742/cancel-sub/cancel4.png&#34;
 	width=&#34;860&#34;
 	height=&#34;1876&#34;
-	srcset=&#34;https://frankchi.com/cancel-sub/cancel4_hu814902a2f2103dc4c03443bf6ef0befe_210299_480x0_resize_box_3.png 480w, https://frankchi.com/cancel-sub/cancel4_hu814902a2f2103dc4c03443bf6ef0befe_210299_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;http://localhost:58742/cancel-sub/cancel4_hu814902a2f2103dc4c03443bf6ef0befe_210299_480x0_resize_box_3.png 480w, http://localhost:58742/cancel-sub/cancel4_hu814902a2f2103dc4c03443bf6ef0befe_210299_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -617,19 +660,19 @@
         </item>
         <item>
         <title>文章庫</title>
-        <link>https://frankchi.com/archives/</link>
+        <link>http://localhost:58742/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://frankchi.com/archives/</guid>
+        <guid>http://localhost:58742/archives/</guid>
         <description></description>
         </item>
         <item>
         <title>來找我上英文課！所有你需要知道的事</title>
-        <link>https://frankchi.com/my_class/</link>
+        <link>http://localhost:58742/my_class/</link>
         <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://frankchi.com/my_class/</guid>
-        <description>&lt;img src="https://frankchi.com/my_class/my_class_cover_downsized.jpg" alt="Featured image of post 來找我上英文課！所有你需要知道的事" /&gt;&lt;p&gt;我希望這是學生「最後一次」上英文課。&lt;/p&gt;
+        <guid>http://localhost:58742/my_class/</guid>
+        <description>&lt;img src="http://localhost:58742/my_class/my_class_cover_downsized.jpg" alt="Featured image of post 來找我上英文課！所有你需要知道的事" /&gt;&lt;p&gt;我希望這是學生「最後一次」上英文課。&lt;/p&gt;
 &lt;p&gt;所以我接到每一個新生時，都會花時間了解你的英文程度。詳細跟你討論你的學習需求，也會給你非常大的空間自訂學習內容和進度。&lt;/p&gt;
 &lt;h3 id=&#34;-針對學習問題直球對決的英文教學-&#34;&gt;💪💪 針對學習問題，直球對決的英文教學 💪💪&lt;/h3&gt;
 &lt;p&gt;英文不是一個科目，而是一個有用的技能。所以我不太把自己看成英文「老師」，而是一個專業的「教練」。我準備的課程內容非常豐富，也有很多自編講義。不管你想鍛鍊口說、加強聽力，還是文法觀念不清楚，英文閱讀看不懂&amp;hellip;零零總總的英文學習問題，我都有招可以幫你達成你的學習目標。&lt;/p&gt;
@@ -664,7 +707,7 @@
 &lt;h3 id=&#34;我的發音不好有救嗎&#34;&gt;我的發音不好，有救嗎？&lt;/h3&gt;
 &lt;p&gt;發音超級、超級重要的啦！如果你是初學者，我會從頭帶你建立發音基礎，從母音子音開始念，並且學習自然發音、KK音標（我都會教），讓你看到就唸出來。如果你有發音的基礎，我會介紹「音調」「連音」「長音節」和「形音義」等變化，讓你講英文「更自然」「更好聽」&lt;/p&gt;
 &lt;p&gt;發音好聽力就好。發音好背單字就快。發音好，你會更有自信，也更敢講。&lt;/p&gt;
-&lt;p&gt;跟我學英文的學生沒有發音不變好的。更多內容，你可以參考我寫的&lt;a class=&#34;link&#34; href=&#34;https://frankchi.com/p/accent_training_intro/&#34; &gt;「發音調整、正音的教學心得」&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;跟我學英文的學生沒有發音不變好的。更多內容，你可以參考我寫的&lt;a class=&#34;link&#34; href=&#34;http://localhost:58742/p/accent_training_intro/&#34; &gt;「發音調整、正音的教學心得」&lt;/a&gt;。&lt;/p&gt;
 &lt;h3 id=&#34;我想出國考空服員去外商公司工作frank可以幫我嗎&#34;&gt;我想出國、考空服員、去外商公司工作，Frank可以幫我嗎？&lt;/h3&gt;
 &lt;p&gt;Frank之前在外商擔任過行銷經理、企業董事長特助。更長期在各大補習班和日商企業擔任多益講師(980分），教授商用書信、會議英文和簡報。&lt;/p&gt;
 &lt;p&gt;我輔導過的學生包括外商公司主管、空服員，甚至有國立大學教授也請我協助英文論文審閱和練習口說。我也做過論文、合約、公文翻譯。如果你有英文面試，更可以參考我做的&lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/watch?v=vnhOTanZ1IM&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
@@ -687,10 +730,10 @@
         </item>
         <item>
         <title>搜尋</title>
-        <link>https://frankchi.com/search/</link>
+        <link>http://localhost:58742/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://frankchi.com/search/</guid>
+        <guid>http://localhost:58742/search/</guid>
         <description></description>
         </item>
         

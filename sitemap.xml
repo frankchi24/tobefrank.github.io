@@ -2,337 +2,340 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://frankchi.com/categories/</loc>
+    <loc>http://localhost:58742/categories/</loc>
+    <lastmod>2025-10-13T14:20:52+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:58742/</loc>
+    <lastmod>2025-10-13T14:20:52+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:58742/page/</loc>
+    <lastmod>2025-10-13T14:20:52+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:58742/coffee-chat/</loc>
+    <lastmod>2025-10-13T14:20:52+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:58742/categories/%E6%B3%95%E8%98%AD%E5%85%8B%E8%B7%9F%E4%BD%A0%E8%AA%AA/</loc>
+    <lastmod>2025-10-13T14:20:52+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:58742/post/</loc>
     <lastmod>2025-10-06T09:06:57+08:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/</loc>
+    <loc>http://localhost:58742/categories/%E6%9C%89%E5%BD%B1%E7%89%87/</loc>
     <lastmod>2025-10-06T09:06:57+08:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/post/</loc>
+    <loc>http://localhost:58742/p/strong-suit/</loc>
     <lastmod>2025-10-06T09:06:57+08:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/categories/%E6%9C%89%E5%BD%B1%E7%89%87/</loc>
+    <loc>http://localhost:58742/categories/%E7%9C%8B%E9%9B%BB%E5%BD%B1%E5%AD%B8%E8%8B%B1%E6%96%87/</loc>
     <lastmod>2025-10-06T09:06:57+08:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/p/strong-suit/</loc>
-    <lastmod>2025-10-06T09:06:57+08:00</lastmod>
-  </url><url>
-    <loc>https://frankchi.com/categories/%E7%9C%8B%E9%9B%BB%E5%BD%B1%E5%AD%B8%E8%8B%B1%E6%96%87/</loc>
-    <lastmod>2025-10-06T09:06:57+08:00</lastmod>
-  </url><url>
-    <loc>https://frankchi.com/page/</loc>
+    <loc>http://localhost:58742/handout/</loc>
     <lastmod>2025-10-05T12:39:00+08:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/handout/</loc>
-    <lastmod>2025-10-05T12:39:00+08:00</lastmod>
-  </url><url>
-    <loc>https://frankchi.com/p/confucius-say/</loc>
+    <loc>http://localhost:58742/p/confucius-say/</loc>
     <lastmod>2025-09-29T00:34:51+08:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/categories/%E6%AF%8F%E6%97%A5%E4%B8%80%E5%8F%A5/</loc>
+    <loc>http://localhost:58742/categories/%E6%AF%8F%E6%97%A5%E4%B8%80%E5%8F%A5/</loc>
     <lastmod>2025-09-29T00:34:51+08:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/p/status-update/</loc>
+    <loc>http://localhost:58742/p/status-update/</loc>
     <lastmod>2025-09-28T23:20:10+08:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/categories/%E6%B3%95%E8%98%AD%E5%85%8B%E8%B7%9F%E4%BD%A0%E8%AA%AA/</loc>
-    <lastmod>2025-09-28T23:20:10+08:00</lastmod>
-  </url><url>
-    <loc>https://frankchi.com/p/kudos-to-you/</loc>
+    <loc>http://localhost:58742/p/kudos-to-you/</loc>
     <lastmod>2025-02-03T19:24:23+08:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/categories/%E8%87%AA%E5%AA%92%E9%AB%94%E7%B6%93%E7%87%9F/</loc>
+    <loc>http://localhost:58742/categories/%E8%87%AA%E5%AA%92%E9%AB%94%E7%B6%93%E7%87%9F/</loc>
     <lastmod>2024-08-29T17:06:47+08:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/p/my-journey-as-creator/</loc>
+    <loc>http://localhost:58742/p/my-journey-as-creator/</loc>
     <lastmod>2024-08-29T17:06:47+08:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/categories/%E7%9F%AD%E5%BD%B1%E9%9F%B3%E8%A3%BD%E4%BD%9C/</loc>
+    <loc>http://localhost:58742/categories/%E7%9F%AD%E5%BD%B1%E9%9F%B3%E8%A3%BD%E4%BD%9C/</loc>
     <lastmod>2024-08-29T17:06:47+08:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/categories/%E6%89%BE%E8%80%81%E5%B8%AB/</loc>
+    <loc>http://localhost:58742/categories/%E6%89%BE%E8%80%81%E5%B8%AB/</loc>
     <lastmod>2024-08-28T22:45:32+08:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/p/how-to-find-teacher/</loc>
+    <loc>http://localhost:58742/p/how-to-find-teacher/</loc>
     <lastmod>2024-08-28T22:45:32+08:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/p/well-received/</loc>
+    <loc>http://localhost:58742/p/well-received/</loc>
     <lastmod>2024-08-15T22:26:36+08:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/p/english-or-spanish/</loc>
+    <loc>http://localhost:58742/p/english-or-spanish/</loc>
     <lastmod>2024-08-15T22:01:20+08:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/p/my-jam/</loc>
+    <loc>http://localhost:58742/p/my-jam/</loc>
     <lastmod>2024-08-15T21:15:52+08:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/p/smooth/</loc>
+    <loc>http://localhost:58742/p/smooth/</loc>
     <lastmod>2024-08-15T16:39:09+08:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/p/beef/</loc>
+    <loc>http://localhost:58742/p/beef/</loc>
     <lastmod>2024-08-15T15:50:28+08:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/p/impressive/</loc>
+    <loc>http://localhost:58742/p/impressive/</loc>
     <lastmod>2024-08-14T14:34:13+08:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/p/no-dice/</loc>
+    <loc>http://localhost:58742/p/no-dice/</loc>
     <lastmod>2024-08-13T20:40:01+08:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/p/meticulous/</loc>
+    <loc>http://localhost:58742/p/meticulous/</loc>
     <lastmod>2024-08-13T20:40:01+08:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/p/bigger-fish-to-fry/</loc>
+    <loc>http://localhost:58742/p/bigger-fish-to-fry/</loc>
     <lastmod>2024-08-13T19:21:38+08:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/about_me/</loc>
+    <loc>http://localhost:58742/about_me/</loc>
     <lastmod>2024-07-26T19:57:58+08:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/categories/qa%E5%9B%9E%E7%AD%94/</loc>
+    <loc>http://localhost:58742/categories/qa%E5%9B%9E%E7%AD%94/</loc>
     <lastmod>2024-05-20T12:55:07+08:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/p/how_to_vocab/</loc>
+    <loc>http://localhost:58742/p/how_to_vocab/</loc>
     <lastmod>2024-05-20T12:55:07+08:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/categories/%E6%B3%95%E8%98%AD%E5%85%8B%E8%80%81%E5%AF%A6%E8%AA%AA/</loc>
+    <loc>http://localhost:58742/categories/%E6%B3%95%E8%98%AD%E5%85%8B%E8%80%81%E5%AF%A6%E8%AA%AA/</loc>
     <lastmod>2024-05-20T12:55:07+08:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/categories/%E7%9B%B4%E6%92%AD%E8%AC%9B%E5%BA%A7/</loc>
+    <loc>http://localhost:58742/categories/%E7%9B%B4%E6%92%AD%E8%AC%9B%E5%BA%A7/</loc>
     <lastmod>2024-05-20T12:55:07+08:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/p/pull-over/</loc>
+    <loc>http://localhost:58742/p/pull-over/</loc>
     <lastmod>2024-05-07T16:02:45+08:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/p/no-means-no/</loc>
+    <loc>http://localhost:58742/p/no-means-no/</loc>
     <lastmod>2024-04-30T10:09:59+08:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/p/trip-to-china/</loc>
+    <loc>http://localhost:58742/p/trip-to-china/</loc>
     <lastmod>2024-04-27T10:29:33+08:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/categories/%E5%81%B6%E7%88%BE%E5%AF%AB%E5%80%8B%E9%81%8A%E8%A8%98/</loc>
+    <loc>http://localhost:58742/categories/%E5%81%B6%E7%88%BE%E5%AF%AB%E5%80%8B%E9%81%8A%E8%A8%98/</loc>
     <lastmod>2024-04-27T10:29:33+08:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/categories/%E9%81%8A%E8%A8%98/</loc>
+    <loc>http://localhost:58742/categories/%E9%81%8A%E8%A8%98/</loc>
     <lastmod>2024-04-27T10:29:33+08:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/p/there-there/</loc>
+    <loc>http://localhost:58742/p/there-there/</loc>
     <lastmod>2024-04-11T16:53:38+08:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/p/nailed-it/</loc>
+    <loc>http://localhost:58742/p/nailed-it/</loc>
     <lastmod>2024-04-01T21:53:53+08:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/p/live-a-little/</loc>
+    <loc>http://localhost:58742/p/live-a-little/</loc>
     <lastmod>2024-03-21T14:08:44+08:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/p/rain-check/</loc>
+    <loc>http://localhost:58742/p/rain-check/</loc>
     <lastmod>2024-03-20T11:05:06+08:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/categories/%E4%BD%A0%E5%95%8F%E6%88%91%E7%AD%94/</loc>
+    <loc>http://localhost:58742/categories/%E4%BD%A0%E5%95%8F%E6%88%91%E7%AD%94/</loc>
     <lastmod>2024-03-20T00:59:42+08:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/p/big-time/</loc>
+    <loc>http://localhost:58742/p/big-time/</loc>
     <lastmod>2024-03-20T00:59:42+08:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/p/touch-base/</loc>
+    <loc>http://localhost:58742/p/touch-base/</loc>
     <lastmod>2024-03-19T17:09:41+08:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/google-meet/</loc>
+    <loc>http://localhost:58742/google-meet/</loc>
     <lastmod>2024-03-07T08:51:32+08:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/p/apples-and-oranges/</loc>
+    <loc>http://localhost:58742/p/apples-and-oranges/</loc>
     <lastmod>2024-03-06T16:56:11+08:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/seminar-sign-up/</loc>
+    <loc>http://localhost:58742/seminar-sign-up/</loc>
     <lastmod>2024-02-29T17:53:32+08:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/p/never-too-late/</loc>
+    <loc>http://localhost:58742/p/never-too-late/</loc>
     <lastmod>2024-02-25T14:18:42+08:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/p/tomato-tomahto/</loc>
+    <loc>http://localhost:58742/p/tomato-tomahto/</loc>
     <lastmod>2024-02-15T12:29:08+08:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/p/fingers-croosed/</loc>
+    <loc>http://localhost:58742/p/fingers-croosed/</loc>
     <lastmod>2024-02-14T19:46:22+08:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/p/candy-cherry/</loc>
+    <loc>http://localhost:58742/p/candy-cherry/</loc>
     <lastmod>2024-02-14T18:56:39+08:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/p/sticks-and-stones/</loc>
+    <loc>http://localhost:58742/p/sticks-and-stones/</loc>
     <lastmod>2024-02-14T02:48:57+08:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/categories/%E9%9B%BB%E5%AD%90%E5%A0%B1/</loc>
+    <loc>http://localhost:58742/categories/%E9%9B%BB%E5%AD%90%E5%A0%B1/</loc>
     <lastmod>2024-02-11T23:54:15+08:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/newsletter-subscribe/</loc>
+    <loc>http://localhost:58742/newsletter-subscribe/</loc>
     <lastmod>2024-02-11T23:54:15+08:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/p/i-am-sold/</loc>
+    <loc>http://localhost:58742/p/i-am-sold/</loc>
     <lastmod>2024-02-11T15:39:39+08:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/categories/%E9%A3%B2%E9%A3%9F%E7%AF%87/</loc>
+    <loc>http://localhost:58742/categories/%E9%A3%B2%E9%A3%9F%E7%AF%87/</loc>
     <lastmod>2024-02-11T12:25:31+08:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/p/still-or-sparkling/</loc>
+    <loc>http://localhost:58742/p/still-or-sparkling/</loc>
     <lastmod>2024-02-11T12:25:31+08:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/p/mayday/</loc>
+    <loc>http://localhost:58742/p/mayday/</loc>
     <lastmod>2024-02-11T11:29:29+08:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/p/passion-overrated/</loc>
+    <loc>http://localhost:58742/p/passion-overrated/</loc>
     <lastmod>2024-02-09T23:18:27+08:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/p/think-in-english/</loc>
+    <loc>http://localhost:58742/p/think-in-english/</loc>
     <lastmod>2024-02-07T17:12:52+08:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/p/show-me-the-ropes/</loc>
+    <loc>http://localhost:58742/p/show-me-the-ropes/</loc>
     <lastmod>2024-02-06T20:34:08+08:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/member-desktop/</loc>
+    <loc>http://localhost:58742/member-desktop/</loc>
     <lastmod>2024-02-02T19:12:09+08:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/member-app/</loc>
+    <loc>http://localhost:58742/member-app/</loc>
     <lastmod>2024-02-02T18:48:43+08:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/p/naive/</loc>
+    <loc>http://localhost:58742/p/naive/</loc>
     <lastmod>2024-01-30T17:44:53+08:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/p/this-is-me/</loc>
+    <loc>http://localhost:58742/p/this-is-me/</loc>
     <lastmod>2024-01-18T16:34:11+08:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/p/bring-it-in/</loc>
+    <loc>http://localhost:58742/p/bring-it-in/</loc>
     <lastmod>2024-01-18T14:46:50+08:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/p/i-could-use/</loc>
+    <loc>http://localhost:58742/p/i-could-use/</loc>
     <lastmod>2024-01-09T16:38:33+08:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/cancel-sub/</loc>
+    <loc>http://localhost:58742/cancel-sub/</loc>
     <lastmod>2024-01-05T00:43:01+08:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/p/how-do-you-like-them-apples/</loc>
+    <loc>http://localhost:58742/p/how-do-you-like-them-apples/</loc>
     <lastmod>2023-12-27T23:47:59+08:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/p/white-meat-dark-meat/</loc>
+    <loc>http://localhost:58742/p/white-meat-dark-meat/</loc>
     <lastmod>2023-12-17T02:15:37+08:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/p/thats-a-tough-one/</loc>
+    <loc>http://localhost:58742/p/thats-a-tough-one/</loc>
     <lastmod>2023-12-13T00:14:42+08:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/p/dont-want-to-pry/</loc>
+    <loc>http://localhost:58742/p/dont-want-to-pry/</loc>
     <lastmod>2023-12-06T11:19:31+08:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/p/loading-workload/</loc>
+    <loc>http://localhost:58742/p/loading-workload/</loc>
     <lastmod>2023-11-29T11:11:09+08:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/p/dont-have-all-day/</loc>
+    <loc>http://localhost:58742/p/dont-have-all-day/</loc>
     <lastmod>2023-11-28T14:42:33+08:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/p/are-you-in/</loc>
+    <loc>http://localhost:58742/p/are-you-in/</loc>
     <lastmod>2023-11-25T09:13:58+08:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/p/on-earth/</loc>
+    <loc>http://localhost:58742/p/on-earth/</loc>
     <lastmod>2023-11-23T12:07:56+08:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/p/can-i-bum-one/</loc>
+    <loc>http://localhost:58742/p/can-i-bum-one/</loc>
     <lastmod>2023-11-15T16:12:27+08:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/p/hit-the-ground-running/</loc>
+    <loc>http://localhost:58742/p/hit-the-ground-running/</loc>
     <lastmod>2023-11-08T13:26:05+08:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/p/no-sweat/</loc>
+    <loc>http://localhost:58742/p/no-sweat/</loc>
     <lastmod>2023-11-03T18:00:47+08:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/p/say-when/</loc>
+    <loc>http://localhost:58742/p/say-when/</loc>
     <lastmod>2023-11-01T00:16:08+08:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/p/grow-on-me/</loc>
+    <loc>http://localhost:58742/p/grow-on-me/</loc>
     <lastmod>2023-10-27T17:28:10+08:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/p/are-you-hangry/</loc>
+    <loc>http://localhost:58742/p/are-you-hangry/</loc>
     <lastmod>2023-10-25T00:50:10+08:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/p/hit-on-me/</loc>
+    <loc>http://localhost:58742/p/hit-on-me/</loc>
     <lastmod>2023-10-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/p/that-is-rich/</loc>
+    <loc>http://localhost:58742/p/that-is-rich/</loc>
     <lastmod>2023-10-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/categories/%E7%BD%B5%E4%BA%BA%E5%90%B5%E6%9E%B6/</loc>
+    <loc>http://localhost:58742/categories/%E7%BD%B5%E4%BA%BA%E5%90%B5%E6%9E%B6/</loc>
     <lastmod>2023-10-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/p/scoot-over/</loc>
+    <loc>http://localhost:58742/p/scoot-over/</loc>
     <lastmod>2023-07-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/p/keep-me-posted/</loc>
+    <loc>http://localhost:58742/p/keep-me-posted/</loc>
     <lastmod>2023-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/p/same-page/</loc>
+    <loc>http://localhost:58742/p/same-page/</loc>
     <lastmod>2023-05-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/p/drop-dead/</loc>
+    <loc>http://localhost:58742/p/drop-dead/</loc>
     <lastmod>2023-05-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/p/i-am-comfortable/</loc>
+    <loc>http://localhost:58742/p/i-am-comfortable/</loc>
     <lastmod>2023-05-01T10:50:33+08:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/p/bad-ass/</loc>
+    <loc>http://localhost:58742/p/bad-ass/</loc>
     <lastmod>2023-02-15T11:00:13+08:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/p/shall-we/</loc>
+    <loc>http://localhost:58742/p/shall-we/</loc>
     <lastmod>2023-01-19T17:29:10+08:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/p/you-too-or-me-too/</loc>
+    <loc>http://localhost:58742/p/you-too-or-me-too/</loc>
     <lastmod>2022-11-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/p/you-are-going-places/</loc>
+    <loc>http://localhost:58742/p/you-are-going-places/</loc>
     <lastmod>2022-10-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/p/bless-you/</loc>
+    <loc>http://localhost:58742/p/bless-you/</loc>
     <lastmod>2022-10-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/p/you-are-grounded/</loc>
+    <loc>http://localhost:58742/p/you-are-grounded/</loc>
     <lastmod>2022-10-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/p/make-that-two/</loc>
+    <loc>http://localhost:58742/p/make-that-two/</loc>
     <lastmod>2022-10-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/p/such-a-brat/</loc>
+    <loc>http://localhost:58742/p/such-a-brat/</loc>
     <lastmod>2022-02-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/p/take-you-out/</loc>
+    <loc>http://localhost:58742/p/take-you-out/</loc>
     <lastmod>2022-02-15T21:09:19+08:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/categories/%E7%AF%80%E6%85%B6%E7%AF%87/</loc>
+    <loc>http://localhost:58742/categories/%E7%AF%80%E6%85%B6%E7%AF%87/</loc>
     <lastmod>2022-02-15T21:09:19+08:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/p/down-to-earth/</loc>
+    <loc>http://localhost:58742/p/down-to-earth/</loc>
     <lastmod>2022-02-15T15:43:07+08:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/categories/freelancer/</loc>
+    <loc>http://localhost:58742/categories/freelancer/</loc>
     <lastmod>2022-02-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/p/five_kinds_freelancers/</loc>
+    <loc>http://localhost:58742/p/five_kinds_freelancers/</loc>
     <lastmod>2022-02-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/categories/books/</loc>
+    <loc>http://localhost:58742/categories/books/</loc>
     <lastmod>2022-02-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/categories/english_learning/</loc>
+    <loc>http://localhost:58742/categories/english_learning/</loc>
     <lastmod>2021-12-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/categories/pronunciation/</loc>
+    <loc>http://localhost:58742/categories/pronunciation/</loc>
     <lastmod>2021-12-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/p/accent_training_intro/</loc>
+    <loc>http://localhost:58742/p/accent_training_intro/</loc>
     <lastmod>2021-12-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/archives/</loc>
+    <loc>http://localhost:58742/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/my_class/</loc>
+    <loc>http://localhost:58742/my_class/</loc>
     <lastmod>2021-10-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://frankchi.com/tags/</loc>
+    <loc>http://localhost:58742/tags/</loc>
   </url><url>
-    <loc>https://frankchi.com/categories/videos/</loc>
+    <loc>http://localhost:58742/categories/videos/</loc>
   </url><url>
-    <loc>https://frankchi.com/search/</loc>
+    <loc>http://localhost:58742/search/</loc>
   </url>
 </urlset>

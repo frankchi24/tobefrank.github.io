@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>遊記 on Frank 法蘭克</title>
-        <link>https://frankchi.com/categories/%E9%81%8A%E8%A8%98/</link>
+        <link>http://localhost:58742/categories/%E9%81%8A%E8%A8%98/</link>
         <description>Recent content in 遊記 on Frank 法蘭克</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-tw</language>
-        <lastBuildDate>Sat, 27 Apr 2024 10:29:33 +0800</lastBuildDate><atom:link href="https://frankchi.com/categories/%E9%81%8A%E8%A8%98/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 27 Apr 2024 10:29:33 +0800</lastBuildDate><atom:link href="http://localhost:58742/categories/%E9%81%8A%E8%A8%98/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>法蘭克中國行 - 天花板美食之旅「上」</title>
-        <link>https://frankchi.com/p/trip-to-china/</link>
+        <link>http://localhost:58742/p/trip-to-china/</link>
         <pubDate>Sat, 27 Apr 2024 10:29:33 +0800</pubDate>
         
-        <guid>https://frankchi.com/p/trip-to-china/</guid>
-        <description>&lt;img src="https://frankchi.com/p/trip-to-china/%E6%B7%B1%E5%9C%B3.jpeg" alt="Featured image of post 法蘭克中國行 - 天花板美食之旅「上」" /&gt;&lt;p&gt;這次陪朋友參加商展，也來看看大陸、開開眼界。我們跑了五個一、二線城市：上海、寧波、義烏、深圳、廣州。真的有 jaw-dropped （下巴掉下來）的感覺。&lt;/p&gt;
+        <guid>http://localhost:58742/p/trip-to-china/</guid>
+        <description>&lt;img src="http://localhost:58742/p/trip-to-china/%E6%B7%B1%E5%9C%B3.jpeg" alt="Featured image of post 法蘭克中國行 - 天花板美食之旅「上」" /&gt;&lt;p&gt;這次陪朋友參加商展，也來看看大陸、開開眼界。我們跑了五個一、二線城市：上海、寧波、義烏、深圳、廣州。真的有 jaw-dropped （下巴掉下來）的感覺。&lt;/p&gt;
 &lt;p&gt;撇開政治不談，這裡一線城市不但人多地方大，建設真的很進步。成群大樓高聳入雲、電動車滿街跑；外賣半夜送到旅館房門口，智能機器人在旅館和餐廳跑來跑去；每一款 APP 都好用，生活大小事一隻手機搞定。十年沒來深圳，變化特別大。&lt;/p&gt;
 &lt;p&gt;吃的更不得了。想跟大家推薦深圳這家&lt;a class=&#34;link&#34; href=&#34;https://hk.trip.com/moments/detail/shenzhen-26-119303950/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;「蘩樓」&lt;/a&gt;餐廳。這是我吃過「早茶」「廣式點心」的天花板（以前覺的添好運就很好吃了&amp;hellip;）我真心沒吃過這麼美味、平價的燒賣和點心。燒賣咬一下去，滿滿兩三隻鮮蝦在嘴巴裡跳的感覺，我到現在還記得。It’s really out of this world. （人間美味）。明蝦紅米腸也很推薦，酥脆外皮裹著蝦子餡，我多點了一大盤。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://frankchi.com/p/trip-to-china/%E5%8F%89%E7%87%92%E9%85%A5.jpeg&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:58742/p/trip-to-china/%E5%8F%89%E7%87%92%E9%85%A5.jpeg&#34;
 	width=&#34;1020&#34;
 	height=&#34;1020&#34;
-	srcset=&#34;https://frankchi.com/p/trip-to-china/%E5%8F%89%E7%87%92%E9%85%A5_hubd5e670942d03086fa79f4044302fb3f_106852_480x0_resize_q75_box.jpeg 480w, https://frankchi.com/p/trip-to-china/%E5%8F%89%E7%87%92%E9%85%A5_hubd5e670942d03086fa79f4044302fb3f_106852_1024x0_resize_q75_box.jpeg 1024w&#34;
+	srcset=&#34;http://localhost:58742/p/trip-to-china/%E5%8F%89%E7%87%92%E9%85%A5_hubd5e670942d03086fa79f4044302fb3f_106852_480x0_resize_q75_box.jpeg 480w, http://localhost:58742/p/trip-to-china/%E5%8F%89%E7%87%92%E9%85%A5_hubd5e670942d03086fa79f4044302fb3f_106852_1024x0_resize_q75_box.jpeg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -27,10 +27,10 @@
 		data-flex-grow=&#34;100&#34;
 		data-flex-basis=&#34;240px&#34;
 	
-&gt;&lt;img src=&#34;https://frankchi.com/p/trip-to-china/%E7%87%92%E8%B3%A3.jpeg&#34;
+&gt;&lt;img src=&#34;http://localhost:58742/p/trip-to-china/%E7%87%92%E8%B3%A3.jpeg&#34;
 	width=&#34;765&#34;
 	height=&#34;1020&#34;
-	srcset=&#34;https://frankchi.com/p/trip-to-china/%E7%87%92%E8%B3%A3_hu7af45c05e7eaab656aeab8d5fe153c59_110798_480x0_resize_q75_box.jpeg 480w, https://frankchi.com/p/trip-to-china/%E7%87%92%E8%B3%A3_hu7af45c05e7eaab656aeab8d5fe153c59_110798_1024x0_resize_q75_box.jpeg 1024w&#34;
+	srcset=&#34;http://localhost:58742/p/trip-to-china/%E7%87%92%E8%B3%A3_hu7af45c05e7eaab656aeab8d5fe153c59_110798_480x0_resize_q75_box.jpeg 480w, http://localhost:58742/p/trip-to-china/%E7%87%92%E8%B3%A3_hu7af45c05e7eaab656aeab8d5fe153c59_110798_1024x0_resize_q75_box.jpeg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -49,10 +49,10 @@
 &lt;p&gt;代表這個餐廳超越之前的體驗，把我心中的第一：添好運，毀了，不會想再去吃的。是一句很可以學的讚美。&lt;/p&gt;
 &lt;p&gt;另外一家烤鴨店&lt;a class=&#34;link&#34; href=&#34;https://hk.trip.com/travel-guide/foods/shenzhen-26-restaurant/jingzhifang-57318384&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;「京炙坊」&lt;/a&gt;則是我吃過最優秀的烤鴨。烤鴨的脆皮放在起司和酥脆餅乾，上面再點上魚子醬！ So exquisite (精緻) 吃烤鴨最討厭的的就是麵皮常常會黏在一起。可能是我沒見過世面，這裡麵皮麵皮之間都是有烘焙紙分隔的，超好撕。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://frankchi.com/p/trip-to-china/%E7%83%A4%E9%B4%A8.jpeg&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:58742/p/trip-to-china/%E7%83%A4%E9%B4%A8.jpeg&#34;
 	width=&#34;3024&#34;
 	height=&#34;4032&#34;
-	srcset=&#34;https://frankchi.com/p/trip-to-china/%E7%83%A4%E9%B4%A8_hudd365d99a5fb4d96d4b6cb1e179a1fb9_534182_480x0_resize_q75_box.jpeg 480w, https://frankchi.com/p/trip-to-china/%E7%83%A4%E9%B4%A8_hudd365d99a5fb4d96d4b6cb1e179a1fb9_534182_1024x0_resize_q75_box.jpeg 1024w&#34;
+	srcset=&#34;http://localhost:58742/p/trip-to-china/%E7%83%A4%E9%B4%A8_hudd365d99a5fb4d96d4b6cb1e179a1fb9_534182_480x0_resize_q75_box.jpeg 480w, http://localhost:58742/p/trip-to-china/%E7%83%A4%E9%B4%A8_hudd365d99a5fb4d96d4b6cb1e179a1fb9_534182_1024x0_resize_q75_box.jpeg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -60,10 +60,10 @@
 		data-flex-grow=&#34;75&#34;
 		data-flex-basis=&#34;180px&#34;
 	
-&gt;&lt;img src=&#34;https://frankchi.com/p/trip-to-china/%E7%83%A4%E9%B4%A82.jpeg&#34;
+&gt;&lt;img src=&#34;http://localhost:58742/p/trip-to-china/%E7%83%A4%E9%B4%A82.jpeg&#34;
 	width=&#34;1576&#34;
 	height=&#34;3415&#34;
-	srcset=&#34;https://frankchi.com/p/trip-to-china/%E7%83%A4%E9%B4%A82_hu96e9577d383a4472a9e0584c6ae94b7a_668050_480x0_resize_q75_box.jpeg 480w, https://frankchi.com/p/trip-to-china/%E7%83%A4%E9%B4%A82_hu96e9577d383a4472a9e0584c6ae94b7a_668050_1024x0_resize_q75_box.jpeg 1024w&#34;
+	srcset=&#34;http://localhost:58742/p/trip-to-china/%E7%83%A4%E9%B4%A82_hu96e9577d383a4472a9e0584c6ae94b7a_668050_480x0_resize_q75_box.jpeg 480w, http://localhost:58742/p/trip-to-china/%E7%83%A4%E9%B4%A82_hu96e9577d383a4472a9e0584c6ae94b7a_668050_1024x0_resize_q75_box.jpeg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
