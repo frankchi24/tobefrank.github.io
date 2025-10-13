@@ -1,0 +1,31 @@
+---
+title: 報名成功！
+date: 2024-02-29T17:53:32+08:00
+slug: "seminar-sign-up"
+image: cover.jpeg
+---
+
+這樣報名就成功了。講座前一天 Frank 會把 Zoom 會議室連結傳給你。再幫我收一下信喔。
+
+如果沒收到，可以看一下垃圾信箱或是其他收件夾。如果都沒有，請來信 hi@frankchi.com 或是用 Frank 的[官方帳號](https://lin.ee/0vIw5Wd)跟我說一下。（應該會收到啦）
+
+期待見到你！
+
+在這之前你可以看看之前講座大家問的問題，還有我的回答【法蘭克跟你說】系列文：
+1. [為什麼不要追求「用英文思考」？](/p/think-in-english/)
+
+2. [對學英文沒有興趣、沒有熱情怎麼辦？](/p/passion-overrated/)
+
+3. [學英文，年齡重要嗎？](/p/never-too-late/)
+
+4. [三招讓你背單字更快、更好記！](/p/how_to_vocab/)
+
+
+<!-- ---
+title: 報名截止囉！
+date: 2024-02-29T17:53:32+08:00
+slug: "seminar-sign-up"
+image: cover.jpeg
+ -->---
+
+<!-- 3/30 號這次報名截止囉，連結我已經發出了。如果還想來或沒收到連結，請你來信 hi@frankchi.com 或是用 Frank 的[官方帳號](https://lin.ee/0vIw5Wd)跟我說一下。 -->

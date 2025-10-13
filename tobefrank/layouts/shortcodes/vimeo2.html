@@ -1,0 +1,7 @@
+{{/* 用法：{{< vimeo2 id="1125788693" h="16740e389d" >}} */}}
+{{ $id := or (.Get "id") (.Get 0) }}
+{{ $h  := .Get "h" }}
+<iframe src="https://player.vimeo.com/video/{{ $id }}{{ if $h }}?h={{ $h }}{{ end }}"
+        width="640" height="360" frameborder="0"
+        allow="autoplay; fullscreen; picture-in-picture"
+        allowfullscreen loading="lazy"></iframe>
